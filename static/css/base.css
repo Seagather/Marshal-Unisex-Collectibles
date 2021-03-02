@@ -27,6 +27,10 @@ body {
     width: fit-content;
 }
 
+.account {
+    background-color: #343a40;
+}
+
 .shop-button .btn-default {
 	outline: 0;
 	display: inline-block;
@@ -80,6 +84,10 @@ body {
 
 .border-black {
     border: 1px solid black !important;
+}
+
+.bg-black {
+    background: #000 !important;
 }
 
 /* -------------------------------- Media Queries */
