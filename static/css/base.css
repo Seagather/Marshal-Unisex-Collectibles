@@ -8,6 +8,10 @@ body {
     height: calc(100vh - 164px);
     color: #555;
     font-family: 'Exo';
+    /* display: flex;
+    flex-direction: column; */
+    margin: 0;
+    min-height: 100vh;
 }
 
 /* from Bulma */
@@ -31,7 +35,7 @@ body {
     background-color: #343a40;
 }
 
-.shop-button .btn-default {
+.shop-button  {
 	outline: 0;
 	display: inline-block;
 	padding: 12px 35px;
@@ -40,16 +44,16 @@ body {
 	text-align: center;
 	cursor: pointer;
 	border: 5px solid black;
-	/* margin-left: -1px;
-	margin-top: 5%; */
+	margin-left: -1px;
+	margin-top: 5%;
 	font-size: 11pt;
 	letter-spacing: 5px;
 	font-weight: bold;
 	font-family: Georgia;
     font-style: italic;
-    background: black;
+    
 }
-.shop-button .btn-default:hover {
+.shop-button:hover {
 	background-color: transparent;
 	color: white;
 	border: 5px solid black;
@@ -112,4 +116,32 @@ body {
     .header-container {
         padding-top: 164px;
     }
+}
+
+footer {
+	background-color: #121315;
+    color: #fafafa;
+    /* position: fixed; */
+}
+.social-links,
+.socials {
+	text-align: center;
+}
+.social-links li a i {
+	width: 25px;
+	height: 25px;
+	padding: 9px 0;
+	border-radius: 32%;
+	font-size: 16px;
+	line-height: 10px;
+	text-align: center;
+	color: #fafafa;
+	background: black;
+	transition: all 0.35s ease-in-out;
+	-moz-transition: all 0.35s ease-in-out;
+	-webkit-transition: all 0.35s ease-in-out;
+	-o-transition: all 0.35s ease-in-out;
+}
+.social-links li a i:hover {
+	background: #e84610;
 }
