@@ -1,0 +1,2018 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02021",
+      "name": "Fossil-Wristwatch for men - Black",
+      "description": "Wristwatch for Men of the brand Fossil. Round shape, Deployment clasp. Product color: Black - Product material: Strap: Stainless steel Case, Chronograph with two counters, Quartz movement.",
+      "price": 139,
+      "category": 2,
+      "rating": 4,
+      "image_url": "https://cosmos2.my-store.ch/api/img?p=products/2021/2/D99759FE-8FF3-475B-994B-66AD1E74987C/8907884_1&st=11&v=1612784303",
+      "image": "CHAIN11.jpeg"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02022",
+      "name": "Octea Lux Chrono Watch, Metal bracelet, Dark gray, Stainless steel",
+      "description": "The bestselling Octea watch collection climbs to even greater heights of precision and craftsmanship with this luxurious new chronograph watch. Perfect for everyday wear, it features a stopwatch function. The case and metal bracelet strap are worked in stainless steel, while the exclusive faceted crystal bezel and sunray dial shine in dramatic gray tones. Case: 39 mm, water resistant to 50 m, Swiss Made.",
+      "price": 479,
+      "category": 2,
+      "rating": 4.3,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ7AQI2-futQh1Usu6dlzo4wxBHI-U0jR3XhZwMlnJfL0lg_ugh9lLgsiSKTfZq9OejEM0naQDen2E-yquxAxJRlLXbYrKAuwmlyU6LSUTrJg7D9TGhD2Y7BA&usqp=CAE",
+      "image": "CHAIN12.jpeg"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02023",
+      "name": "Versace Ve1d00619 Aion Men's Watch 45 Mm",
+      "description": "The Versace VE1D00619 Aion is a sturdy and well-finished watch. A chronograph with a Swiss Made movement. The steel conveyor belt is very comfortable and especially very nicely designed. The VE1D00619 obviously has scratch-resistant sapphire glass that protects well from scratches and damage. The chronograph is easy to operate with the push buttons and is very accurate thanks to the Swiss movement. Isn't this watch quite your choice, is it?",
+      "price": 513.88,
+      "category": 2,
+      "rating": 4.8,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ0beP6JwQxzYwwKUcUE5ssugrnb-pbuvV8ieedfQJbZzHDKAQ7Q15IsX4RDXI_9TXgpwFrNAaAZnv1-Q6SC2kFWCQ-2ftxdkSvIQzjlKrVoZSVNMjq9KJK&usqp=CAY",
+      "image": "CHAIN13.jpeg"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02024",
+      "name": "Maserati - Wristwatch - Men - SFIDA 44MM CHR BLUE DIAL BR GUN - R8873640001",
+      "description": "Maserati R8873640001 Men's Sfida Chronograph Grey Bracelet Wristwatch Guarantee - 2 year Case width - Approx - 44 mm Case depth Approx - 11 mm Gender - Gents Dial Colour - Blue Case Material - Gunmetal Stainless Steel Strap type - Stainless Steel Strap colour - Gunmetal Grey Water resistance - 50 metres Movement - Quartz (battery) This Men's Maserati watch has a gunmetal grey stainless steel case and bracelet. Inside the case lies a quartz chronograph movement and the watch features a mineral crystal. The watch is water resistant to 5ATM. This means the watch is suitable for showering.",
+      "price": 289,
+      "category": 2,
+      "rating": 3,
+      "image_url": "https://img.fruugo.com/product/1/03/116011031_max.jpg",
+      "image": "CHAIN14.jpeg"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02025",
+      "name": "Hugo Boss 1513757 Hero Mens Watch",
+      "description": "The watch features a black 44mm sunray brush dial with three sub counters. Tachymeter around the watch face. Metal bracelet strap with rose gold details. Three rose gold crowns. 3 ATM water resistance. Date window and a signature logo on the watch face.Ionic Plated SteelCase Diameter: 44mm Model is 185cm/6'1\".",
+      "price": 239,
+      "category": 2,
+      "rating": 4.9,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQR65jL70TQwNi2DMexEizKGeEQdJfFoXjEMcZHLHAv3YzaIqgXAWlyPxIR9HaxzCntg5fkEdcRmQsO4OfCxQ2wRIhJenrvkwiO66tRVdiE&usqp=CAE",
+      "image": "CHAIN15.jpeg"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02026",
+      "name": "Tissot prc 200 chronograph - t114.417.11.057.00",
+      "description": "The model features a screw-down crown. Model Specifications: T1144171105700 The watch’s stainless steel case measures 42 mm in diameter. The black dial is complemented by luminescent hour markers and yellow detailing. Completing the look is a stainless steel bracelet. The strap closes with a folding clasp with push-buttons. A date aperture features at the 4 o’clock position. Functions on the watch include chronograph and add and split function. Movement type - Quartz with EOL function.",
+      "price": 465,
+      "category": 2,
+      "rating": 4.8,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJLeYxaZ3WvASo5kmq6thoWSnBCqvr5a3xm9SweXk-UyfqF1RjjqimKjdRMis2mTFsapa1HUI2SL2h-cuLJ67fjoEwDurBEEMy4pL8NG_HifiQ9k7Tf2KPbg&usqp=CAE",
+      "image": "CHAIN16.jpeg"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02027",
+      "name": "Certina DS Podium Chronograph Automatic",
+      "description": "Case material; Titanium. Titanium is a high-tech material that always comes into play when extreme robustness and light weight are required, as it is half the weight of steel. The titanium case on this model makes it extraordinarily lightweight and so particularly pleasant to wear; furthermore, it is suitable for those with allergies and easy to care for. Bezel material, Antireflection treatment on both sides, Sapphire crystal. Water resistance, Up to a pressure of 20 bar (200 m) Diameter:44.00mm.",
+      "price": 940,
+      "category": 2,
+      "rating": 4.9,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6m2LU5yt1cNrQGqY_mJmxJv8oSFHd5wL1a25viqY98eFyG9iu0miAqFtyFUjn2SKj90PiZ2biXblxRk0OmCYInoMaLm69b5y6BDGD3Sq2WkTre4EWHEoCWw&usqp=CAc",
+      "image": "CHAIN17.jpeg"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02028",
+      "name": "Ontheedge Men's Military Watch",
+      "description": "Men's Military Watch Bracelet Watch Wrist Watch Automatic self-winding Three-eye Six-needle Luxury Water Resistant Waterproof Analog Gold White, stainless steel #00006",
+      "price": 42.29,
+      "category": 2,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRtOW_pt_tEyS7m0jKZNzgJ2qamxLUVHuKYG70yA5mK0seS-_Jqgu9cqhWM14rVoiWtfznEegwNac08OCU8VQZiD07qAOeSs8_HXiwuHr4&usqp=CAE",
+      "image": "CHAIN18.jpeg"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02029",
+      "name": "Holzkern; Wood Watch Gravity GTIN: 09120078333709",
+      "description": "Case: 43mm diameter, made of leadwood and stainless steel in blue and grey (Leadwood/Marble), male, Natural wood, Luminescent Hands/Markers (easily tell the time, even in the dark). looks great, high quality material and definitely worth every penny",
+      "price": 384,
+      "category": 2,
+      "rating": 4.8,
+      "image_url": "https://www.holzkern.com/media/holzkern/cache/1080/catalog/product/g/r/gravity_holzkern_holzuhr_woodwatch_pm_080419_1.webp",
+      "image": "CHAIN19.jpeg"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02030",
+      "name": "Claude Bernard - Watch - Men - Aquarider - 10222 3M BUIN1",
+      "description": "Brand: Claude BernardTarget group: menDisplay: AnalogFunctions: ChronographCase shape: Roundglass: sapphire crystalMaterial Bracelet: stainless steelMaterial Case: Stainless steelWater-tightness: 20 ATMDial color: blueCase color: silver mm: 44Time/date: Date Clockwork: Quartz (battery)",
+      "price": 359,
+      "category": 2,
+      "rating": 4.4,
+      "image_url": "https://img.fruugo.com/product/2/71/108806712_max.jpg",
+      "image": "CHAIN20.jpeg"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02031",
+      "name": "Lotus, Wristwatches, Chronograph (Analogue wristwatch, 45mm)",
+      "description": "Lotus focuses not only on exclusive clientele, rather the selection corresponds to watches of the diversity of preferences in the population. Stopwatch, 24h display, Grey Charcoal color, Stainless steel, mineral glass.",
+      "price": 229,
+      "category": 2,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQtcozhT2Sk-rR3Jp1Er6Q-26UCPFEaPwiwptiDdP2WrMkzf9Q9pBhKsnF3eBHULaKq-o2LxtoCSO69bAvgoifg8r0VkoYipu-Ld0maE6E&usqp=CAE",
+      "image": "CHAIN21.jpeg"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02032",
+      "name": "Mens Watch Victorinox 241742, Quartz, 45mm, 10ATM",
+      "description": "Model: Mens Watch Victorinox 241742, Quartz, 45mm, 10ATM. Brand: Victorinox. Package Weight: 0.5 Kg. Movement: Quartz. Case Color: Black. Watchband Color: Black. Watchband Material: Steel. Case width: 45 mm.",
+      "price": 2649,
+      "category": 2,
+      "rating": 4.9,
+      "image_url": "https://img.fruugo.com/product/7/89/146180897_max.jpg",
+      "image": "CHAIN22.jpeg"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02033",
+      "name": "Alpina Startimer Pilot Automatic Chronograph Date",
+      "description": "Analogue wrist watch, Silver color, 44m, waterproof: up to 1000 m",
+      "price": 2350,
+      "category": 2,
+      "rating": 4.2,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRn1Gy9FlksgI0HZVTxKYpVnL81iw-cj78l0bBsS4tUdUJ9-g27p2waAQMXOOgteGbci2Zlvb7-EjEvqDn0rsriPiwBFkCWH-NHTXm8gZ0&usqp=CAE",
+      "image": "CHAIN23.jpeg"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02034",
+      "name": "Holzkern; Wood Watch Planetary (Walnut/Walnut), male, Natural wood",
+      "description": "Made of walnut wood and stainless steel in dark gray and silver Dial: Walnut wood with a fine grain Movement: Quartz by Seiko Wristband: 43mm diameter, Adjustable wristband (fits every men’s wrist) Luminescent hands/markings (these make it easier to read the time in the dark) Innovative Easy-Switch bezel.",
+      "price": 339.5,
+      "category": 2,
+      "rating": 4.7,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQ3kdFq9wc4aPPsygaj40nuRKCh6ba8kRTNptdBDc_iQ-aKbp5aPYVb9v0Tpp7kroOm8zfxihk6ANOMioX96DpK3Kbx8wkkjgq30JD-Uk&usqp=CAY",
+      "image": "CHAIN24.jpeg"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02035",
+      "name": "Watch Tommy Hilfiger 1791398 Kane Man 44 mm Stainless steel",
+      "description": "Tommy Hilfiger is one of the world’s leading designer lifestyle brands and is internationally recognized for celebrating the essence of classic American cool style, featuring preppy with a twist designs. Quartz, Water Resistance: Salpicaduras mts",
+      "price": 135.38,
+      "category": 2,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSttEeXtethaxpkkr7BGLWEULWn_PyTUTWsgMonHJCkYlgsIGho3mps0hSc_pr5g_GptuVllG6oQKClFXf3fgufEKKko9HELWKtbZJtefJKSvm3h-4F-0D4hQ&usqp=CAE",
+      "image": "CHAIN25.jpeg"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02036",
+      "name": "G-Shock G-Steel GST-B100D-1AER - Wristwatch - quartz - analogue - stainless steel, resin",
+      "description": "Ready for anything - except compromise. When style meets function: The G-Steels collection combines high-quality materials with the reliable technology of the proven G-Shock models. The multi-layered design gives the watches a fascinating depth and presence. Resin and stainless steel, already two robust materials, are layered together into an unbreakable combination. This gives the watches a distinctive premium look and a resilience at the same time. Order now!",
+      "price": 410,
+      "category": 2,
+      "rating": 4.2,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTEq_LWmSWThSnClKEgwKRHClrxA_EZQl8FOn678m4twMj69B-w4fk8gseGJnvea1184JK0VKyeawzgRMpcKtVdirRgmhV5w7NwEB5EyKjA-sLmWztlGOzi&usqp=CAE",
+      "image": "CHAIN26.jpeg"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02037",
+      "name": "Holger Dante Wrist Watch",
+      "description": "This automatic watch draws its energy from the natural wrist movement - you don't need to wave your arm, because even the smallest movement charges it. And you don't have to worry about batteries, chargers or synchronization with your tablet. It works because you move. Aside from its automatic and mechanical movements (you can also wind them up manually), the cut-out black dial lets you see the real heroes of the timepiece in action. The watch has a black case, dial and bezel with gold-colored Roman numerals and accents. The folding clasp ensures a secure attachment. Designed in Denmark. Delivery in a gift box. Case width: 44mm Case depth: 13mm Watch strap width: 22mm Weight: 130 g stainless steel sapphire crystal ",
+      "price": 249,
+      "category": 2,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeXULSNAte5dBbVtwqKM5bJxqKr4tZB0ue4_khzH3AXVtRu5TfqkEnYb3D7IS1_lkrJl8KOSV4-5QpQ3OiSJQKWNbC0q-UyQ&usqp=CAY",
+      "image": "CHAIN27.jpeg"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02038",
+      "name": "Fossil Nate watch JR1401",
+      "description": "Renowned for their fashion-forward timepieces, Fossil create high-quality watches that are designed to fit a modern lifestyle. This Nate mens watch makes a statement with it's all black aesthetic. Featuring a black coated stainless steel bracelet and a large 50mm case and a black chronograph dial, this timepiece will add a stylish edge to any outfit. Display: Analog Movement: Quartz Functionality: Chronograph. Glass: Mineral Material: Steel Water Resistance: 50 m (5 ATM) Strap.",
+      "price": 177,
+      "category": 2,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR47v6UssI_r-K_zA2bXagHtsMUDAHBmw6iAZ095LtvyU6LspJhSVjmVOXpeFjQSZ7N6URKxd1drFlNHfSQT2E_bpVyYM_z0A&usqp=CAY",
+      "image": "CHAIN28.jpeg"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02039",
+      "name": "Rado True Square Automatic Open Heart - Rado - watch for unisex",
+      "description": "Wristwatch RADO True 38 mm, ceramic, ceramic bracelet, skeleton dial automatic Cal. ETA C07.631, sapphire-crystal, 5 atm, Ref.:R27086162.",
+      "price": 2300,
+      "category": 2,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcReaGlXrl10FT3ZE_-oIWx_MRSC60IoTfIHcXfmD4SWryq2oPXtN047uoqVbk3yKWYy7yCGd7QuPBVW8zG2bpExrzefDvT5rMdyDjf_Ovc&usqp=CAE",
+      "image": "CHAIN29.jpeg"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCC02040",
+      "name": "Diesel The Daddies Man Wrist watch Light grey Size -- Stainless Steel",
+      "description": "The man watch Diesel DZ7421 is part of the collection Mr Daddy 2.0, is made of stainless steel light grey, quartz movement. It have a case size of 5 and7 cm with an analog with chronometer display with date. ",
+      "price": 314.23,
+      "category": 2,
+      "rating": 4.5,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZycyhinJgcaUxLoxc8qw0km2qZMumXTrqnOHWH3qQ7Y6jTG0qdNkHMDXig44O155EadCAdlSg4dlRsggz0D3C3QL9dlBc0VEUkww3_vZhBJkiUkxQ_FZz3w&usqp=CAY",
+      "image": "CHAIN30.jpeg"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02021",
+      "name": "Meistersinger Perigraph Automatic Black Dial Leather Strap Men’s Watch AM1002BL",
+      "description": "Automatic: Sellita SW 200-1 * Black DLC Coated Stainless Steel Case With 6-Screwed Exhibition Back * Domed Sapphire Glass * 50m Water Resistant THE CASE: The brushed stainless steel case of the Pangaea Day Date is 43 millimetres in diameter. The dial is protected by domed sapphire crystal glass. The sapphire crystal is known for its resilience however the domed style adds a vintage feel. ",
+      "price": 2100,
+      "category": 6,
+      "rating": 4.8,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTlXXzrbT6A7lmH9mHHZoSXoIfYxcsdzA7NLtr4wUqWm5ho5hAe83maGZXrcePt08LJdbPDGspIaRLq153j7hT1CJ09sVnqZBhkYVAi2E8b&usqp=CAE",
+      "image": "LEATH11.jpeg"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02022",
+      "name": "Aerowatch Renaissance Big Mechanical Skeleton - A 50981 AA01",
+      "description": "Aerowatch - watch for male. Color Strap: Brown/beige, Diameter: 43mm, Movement:Mechanical (handwinding), Sapphire crystal. Folding clasp. International two years warranty with manufacturer warranty card.",
+      "price": 2680,
+      "category": 6,
+      "rating": 4.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQmEsIIFRwqoRlRxG8obVx7xstROs6FJsf6EanI3ZfSUsLIg2epwS6Qf0sPi_auM9aihFTowT_XPdO1h0Mf4eFWUPBfL6O3zDRlO5MYuGM&usqp=CAE",
+      "image": "LEATH12.jpeg"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02023",
+      "name": "Thomas Sabo Rebel Icon",
+      "description": "43mm, Sapphire-coated mineral glass, Masculine eyecatcher - this watch sets extravagant accents on the wrist and impresses with expressive details such as the three-dimensional cross on a black dial or the wide leather strap embossed in a cross pattern. The highlight is the narrow, detachable bracelet with the skull applications, so that the watch can be worn in two looks.",
+      "price": 249,
+      "category": 6,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoM2KnOcyNbXBlSrUlRgh-qSFh0DcuQ5ro5Yj7k447tggw3KAR_GMmgxd5scdswtX_Cznh7Y&usqp=CAc",
+      "image": "LEATH13.jpeg"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02024",
+      "name": "Louis Cottier - Leather Wristwatch Tradition for Men - Black and White",
+      "description": "Leather Wristwatch Tradition for Men of the brand Louis Cottier. Product color: Black and White - Product material: Case: Stainless steel Strap: Leather. Shockproof, Degree of water resistance: 3 ATM (30 metres). ",
+      "price": 159,
+      "category": 6,
+      "rating": 3.5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDLrCMeZy-BFAjaimqeHEKIpF3JGOWlKBIzJpyMQGGMaBD6PJtbgUBZRiUsWiLXILhvuiq-rYJwbPBRjG35kM9_ZhO53tS1L3LdYFgaDtsEoXzga1N-2lh&usqp=CAE",
+      "image": "LEATH14.jpeg"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02025",
+      "name": "Wrist watch Certina DS-2 (C024.447.26.031.00)",
+      "description": "Antireflection treatment on both sides, Sapphire crystal. PVD coating 316L stainless steel Aluminium. The sports design, coloured elements and elegant contours of these innovative chronographs make them ideal adornments to the wrist, enhanced by the fascinating 1/100th second display.",
+      "price": 795,
+      "category": 6,
+      "rating": 3.7,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKnHpivVI_TKMHoVueYRR9rlMmKYvyBxnaC8A6M4yPuRLyYmjPaijbJrK7l6-xVh9xxJ_h7Ql03V9S5DQ6e3vmXBB6iSFCNnB1KBV1uWxLeZpIM1bmNMMM&usqp=CAE",
+      "image": "LEATH15.jpeg"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02026",
+      "name": "Longines Longines evidenza",
+      "description": "Wristwatch Longines evidenza steel, leather strap, silver dial with arabic, automatic Cal. 2000/1, sapphire-crystal, water-resistant, 44 diamonds, total: 0.37 ct. TW-G VVS2, Ref.:L2.142.0.70.2.",
+      "price": 3210,
+      "category": 6,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRVrrr6YdbTLM8CQ5bcunO8_-vgFEJDll6Y8yQTimXUbo0k5yCAtLnUX50CNQBf9REFULPXtoOgmaZtScsQy3yj8dExtqngrYB4QZhufh96P_EDQ2wAkbwf&usqp=CAE",
+      "image": "LEATH16.jpeg"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02027",
+      "name": "Luminor Chrono Flyback - 44mm - PAM00524 Men's Luxury Watch",
+      "description": "This 'Luminor 1950' is the first reference in Panerai 's collection to implement the P.9100 calibre, developed entirely in-house at its facility in Neuchâtel, Switzerland. Enclosed in a sizable stainless steel case, the black dial is domed with a scratch-resistant corundum sapphire crystal - a material second only to diamonds in hardness. The flyback chronograph demonstrates the brand's sophisticated horological know-how as well as how seriously it takes traditional watchmaking. Alternate between the leather and rubber strap included in the box, depending on whether you're headed to work or out at the weekend. ",
+      "price": 11000,
+      "category": 6,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSY_zDtEEtLd0yLjR4lDWV3Hdd4EEuWpTriwyVHw9IRZnPI6hp7y1m2QS7JacQG9OVfQbMa1If1mkr1NLAQAQYmNUAVgHKbeYH8qo0C98E&usqp=CAE",
+      "image": "LEATH17.jpeg"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02028",
+      "name": "Cartier - Santos-Dumont watch - Watch Steel/Leather",
+      "description": "Steel case, beaded crown set with a blue synthetic cabochon-shaped spinel, silvered satin-brushed dial with sunray effect, Roman numerals, blued-steel sword-shaped hands, sapphire crystal, navy blue alligator-skin strap, steel ardillon buckle. Case dimensions: 43.5 mm x 31.4 mm, thickness: 7.3 mm. Water-resistant to 3 bar (approx. 30 metres).",
+      "price": 3750,
+      "category": 6,
+      "rating": 4.6,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrI0FevpBZt221VUslAmSa421Gn04inuoNgnngHZHzXgwV7olLzQqB7uu-PsmcVvk8C6xaeb35Q_B1WUkJlD7sH6Nq4DbxvhzdC3t_ylo&usqp=CAE",
+      "image": "LEATH18.jpeg"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02029",
+      "name": "Montblanc 1858 Automatic 40 Mm - Wrist Watch - Silver",
+      "description": "The Montblanc 1858 product line is inspired by the legendary professional Minerva watches from the 1920s and 1930s which were conceived for military use and exploration. Reinterpreting these legendary timepieces, the Montblanc 1858 product line expresses the spirit of mountain exploration, embodying the modern trend of returning to nature. The 1858 Automatic comes in a 40 mm polished and satin-finished stainless steel case featuring slim bevelled horns. The case back is also engraved with the emblematic Mont Blanc mountain, a compass and two crossed ice pick-axes, as a nod to the spirit of mountain exploration. For legibility and design, the black dial contrasts with historical luminescent cathedral-shaped hands with a “cloisonné” design that has been slightly domed for one of the finest finishes. Other details include beige SuperLumiNova*-coated Arabic numerals, a railway minutes track and the original Montblanc logo from the 1930s era with its historical font and emblem of the Mont Blanc mountain. The timepiece is equipped with a khaki-green nubuck calf leather strap.",
+      "price": 2370,
+      "category": 6,
+      "rating": 4.5,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdSsa5xn8h2vrviL2HfovuXXmxcXIYcJLs-2fRiBZ2aheS-2KoYHCt82Sl-hpqkysRwrm1TU4EI1AfWrzPhCMk-18NVKIDhBSeCUPmwy4E8Y0v2YtuUUWBtQ&usqp=CAE",
+      "image": "LEATH19.jpeg"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02030",
+      "name": "Rado DiaMaster Quartz Lady - R14064715",
+      "description": "Wristwatch Rado Diamaster 33mm, ceramic, leather strap, with folding clasp, brown dial with diamonds, Color: gray/anthracite, quartz Cal. ETA E63.111, sapphire-crystal, 5 atm, Ref.:R14064715.",
+      "price": 2500,
+      "category": 6,
+      "rating": 4.8,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR8ifbAnTHgeOAHqV1ZCdXDi5_P4t8jzzQqztM944e69YnrekHb8H3s54LlpYIeNmVjX_hQgTMNOyClPWdbZ5S9sVgGAhEwjNKdLPEWFu0F&usqp=CAE",
+      "image": "LEATH20.jpeg"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02031",
+      "name": "Hamilton Khaki Pilot Day Date Auto Black Dial Brown Leather Watch",
+      "description": "Core Features of the Khaki Aviation Pilot Day Date Automatic: All the models within this collection are powered by automatic Swiss movement. A date display window is featured on the dial along with a day display. Although the Calibre differs throughout the collection the power reserve of these models is up to 80 hours. The dials within this collection are protected by scratch resistance sapphire glass for long lasting durability. Model Specifications H64605531: The colour scheme of this model is black and brown. The case of this model is made from high quality PVD coated stainless steel which has been combined with a brown leather strap complete with a folding clasp. The lug width measures 20mm and the case width is 42mm. Calibre- H-40. Water resistant up to 100m (10 bar).",
+      "price": 1100,
+      "category": 6,
+      "rating": 4.6,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTa5LWfp4TfrBWza6MSo_rr5KcfMgFbWfxfYHaHrxj5uQ0ciqgTFKrHJ1ozT5O9huttpJP33sZjmPDsynSSuFV4zuwLDItaOUemNyssy1zuqIVZMTUvUkwoKQ&usqp=CAE",
+      "image": "LEATH21.jpeg"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02032",
+      "name": "Meistersinger Neo Plus - Meistersinger - watch for male",
+      "description": "Expert Swiss watchmaker, MeisterSinger, present this mechanical automatic timepiece with a beautifully crafted movement, housed in a slender round case that looks excellent on the wrist. A beige dial is paired with black accents and includes a circular date display at the 6 o'clock position, and that single hand which looks so clean. A luxurious leather strap in a distressed black tone completes the look.",
+      "price": 1330,
+      "category": 6,
+      "rating": 4.7,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzjLZh_9v5gwMMvudPx8M8S3V95oMWxpIHltRypAXp_1_nd4RtOj1m_hp4kGH-Yz1rDOwow94fsQ2D4RXyfBD9LGdTm3MC-pX0GLB1VPHt&usqp=CAE",
+      "image": "LEATH22.jpeg"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02033",
+      "name": "Edox Grand Ocean Skeleton (skeleton watch)",
+      "description": "Automatic analog display hour, minute, second scroant dial- dial color silver- luminous hand, luminous indexes- sapphire crystal- Water resistance 10 ATM- weight 80 g CASE- Stainless steel crown with double-O-ring-seal- safety screw crown- visible floor- dia. 41 mm, height 10 mm ARMBAND + CLOSED leather strap, brown width 20 mm- folding clasp TECHNIK- Swiss made automatic movement Sellita SW200- 28800 A/h- Power reserve 42 hours- 25 stones.",
+      "price": 1399,
+      "category": 6,
+      "rating": 4.8,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFg2_TMe1NW2g3HsXDEkBTUYmlkhveX6uBkDlU7_vnYb17k5-idq7htIBMDzQgbbN1uMGzU_pqGoXE-vgmCol6bjrzQueFUOwa7V5ZCL6x&usqp=CAY",
+      "image": "LEATH23.jpeg"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02034",
+      "name": "Timex TW4B06600 Men`s Expedition Brown Leather Watch Scout Indiglo Date",
+      "description": "Stainless steel Case. Model: Timex Expedition, Dial color: camoflage, Band type: Two-Piece Strap, Leather strap. Green dial. Quartz movement. Date. Water resistant 50meters. Case 48mm.",
+      "price": 82,
+      "category": 6,
+      "rating": 2.7,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQAyKuAnBsWO2UO1ItC8kh8l8Hu0K81wLyReMMd-iDPtL2bXTsjAZyZLpj7cAtAdu5qBiovlr0AU_AA5ttWaNL5fhp1qF8lmb7VjV2pgbu1DuTn0b0cW1KS&usqp=CAE",
+      "image": "LEATH24.jpeg"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02035",
+      "name": "Oris Watch Artelier 734 7684 40 51 LS",
+      "description": "This Oris has undergone a thorough inspection of water resistance, accuracy, functionality and condition to determine the level of reconditioning required to meet our strict standards. Oris Artelier 734 7684 40 51 LS Movement : Automatic Case size : 40.5mm Case material : Steel Bracelet material : Leather Alligator Grain - Brown Dial type : Skeleton Water Resistant: 30 metres ",
+      "price": 1535,
+      "category": 6,
+      "rating": 4.5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRO2t3oK9zrN4hf-5eShhdfxMpVbiq33ArGcSm51KHpQdiIXVJGTON-iG05HP32T5rBVSlUoxJw1ZPBrDUnk2FxaKBy_Of9PJjvc0Q4___c20XjNyoC5h6wYA&usqp=CAE",
+      "image": "LEATH25.jpeg"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02036",
+      "name": "Era Journey Watch, Leather strap, Dark Red, Rose-gold tone PVD",
+      "description": "Glamorously combining a rose gold-tone coated case with a ruby-colored genuine leather strap, this sophisticated chronograph timepiece has a timeless yet daring allure. The design also includes shimmering Swarovski crystal embellishments and a ruby-pink sunray dial. Specifications: Case - 38 mm; water resistant to 50 m; Swiss Made.",
+      "price": 429,
+      "category": 6,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgDiDO2n5kAbth77Pz7a1mNWBO_lj2RS4HlkQ1CNjOIrVmtGnHhwRJmG8FGyLvwOdfKnhnWZBgrDSxk0V1yuQd-N5Sf5I0Wx9AzIqVK6kiX0x8UHR65Pbx62PEaLb-&usqp=CAE",
+      "image": "LEATH26.jpeg"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02037",
+      "name": "Sector 450 - R3271776007",
+      "description": "Sector Wristwatch Action 450 R3271776007 Men's wristwatch, analog Quartz Movement Brown genuine leather strap with pin buckle Stainless steel case and durable mineral glass Waterproof up to 10 bar With date display and stopwatch The Action 450 R3271776007 is an elegant quartz watch with analog display. The sturdy stainless steel case and durable mineral glass ensure a long life. The brown genuine leather strap with pin buckle combines a noble appearance with a special wearing comfort.",
+      "price": 369,
+      "category": 6,
+      "rating": 3.7,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0ybFrIz8CpBh_5Q8wTYEG-8jLPLLh6EV9XthkOxNUtvWdaYCNxWhUQ_qa4NzOUXEXmnW0btECkE1Ls3foxfMmsbSsEIGjxLQWVkJza6CixaoY6As&usqp=CAE",
+      "image": "LEATH27.jpeg"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02038",
+      "name": "Fossil Machine FS5251SET",
+      "description": "Made for every occasion, Modern Machine is a handsome addition to your wrist. Its neutral tones set in an incredibly durable case makes an unforgettable impression. It's paired with a braided leather bracelet to add to his sense of style.",
+      "price": 177,
+      "category": 6,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRqwzWlfy7slUPlcUO3Pkg81Nc3_YhwVZ6vpeuXQRqcyGkqQlethE9a0bOl3xLx0I2UELUBOVyJMSiSqXCs6ZYIwLH6L5QSwsNGuyLz-zReeipALA&usqp=CAY",
+      "image": "LEATH28.jpeg"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02039",
+      "name": "emporio armani rose gold tone gray embossed leather band watch-ar1723",
+      "description": "Armani Rose gold-tone and Green textured leather Unisex Watch. The Emporio Armani Unisex Watch is part of the Emporio Armani Collection. The AR1723 watch is a modern take with a very vintage feel in mind. This Armani watch features a desirable Green cross textured genuine leather strap with rose gold-tone case. The gray dial features rose gold-tone hour markers and features a third hand gauge and 5ATM water resistance.",
+      "price": 357.68,
+      "category": 6,
+      "rating": 3.7,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkj9FfijYrBHMIa3pRptXd-yZVtrgStg7CwNgcoWRuQEMLQcEGgX6pTPTAMHwAIseFD8UcFTPXFpeFf66YkEtDfgwMmER-DpjV9wMjLSRsp0gzNu4VgMcKTRsmQR8O&usqp=CAE",
+      "image": "LEATH29.jpeg"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCL02040",
+      "name": "Burberry BU9014 The City Check Leather Strap Unisex Wrist",
+      "description": "Founded in 1856, Burberry is a global luxury brand with a distinctly british attitude. Beige Dial, Beige Band, Stainless Steel, 12-Hour Dial, Quartz, Water Resistance: 50 m (5 ATM). Certificate of Authenticity. ",
+      "price": 242.37,
+      "category": 6,
+      "rating": 3.9,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQFezGS50nS6u8thNP6bV8qDu5-QNOqbt7UECyCRi2HLSgImrRdipoExqWRAONRahdoWDpoYShYdcjKjhcmElZYMFkPPn9Br1zBn9MV_T7R_KfzNw&usqp=CAE",
+      "image": "LEATH30.jpeg"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02021",
+      "name": "OMEGA De Ville Prestige Yellow gold Chronometer Watch - 424.50.33.20.08.001",
+      "description": "Chronometer - Date - Case : Yellow gold - Case Diameter : 32.7 mm - Movement : Self winding - The OMEGA De Ville Prestige collection has attracted a large and loyal following with its classic, elegant design.These timepieces are characterised by pure styling with luxury finishes, and exude a timeless design. This model features an impressive two-zone champagne dial with gold-fashioned Roman numerals at the 6, 9 and 12 o'clock positions.The striking dial, with its date window at the 3 o’clock position, is protected by a scratch-resistant sapphire crystal. The bezel is mounted on a 32.7 mm 18K yellow gold case, and is presented on an 18K yellow gold bracelet. At the heart of this timepiece is the Co-Axial calibre 2500. ",
+      "price": 21200,
+      "category": 8,
+      "rating": 4.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxPjSk-K6rBJC_g46FcWE2YKD9zDdJQWAs6XmbYNO8pSojs9cOyg5z8j78MccztN2CsBWqNBgk_THJDEioxzRFSVo6OW3iDBrZaEg2itXxKaburausSG9KAbPDtsPYiQ&usqp=CAE",
+      "image": "PGOLD11.jpeg"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02022",
+      "name": "Versace VEV900619 Icon Classic men's watch chronograph 42 mm Blue",
+      "description": "The Versace VEV900619 is very beautiful with its gold-coloured case and watch strap. This watch is of better quality: Versace has paid a lot of attention to material choice and finishing. The watch strap is very sturdy and made of PVD gold-coloured stainless steel. You can shorten that band yourself with the free band shorter. The Swiss movement that is in this watch is just a little better than the timepieces you find in many other men's watches in the same price range. The sapphire glass of the VEV900619 prevents scratches and damage so that you can always read the time perfectly.",
+      "price": 489,
+      "category": 8,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRmyUlNxErplIQrR6XgltwC--JbiDDkpU-5Rd3XBrAdltO8HXpb8efNU7YwQG_WTatoHL_1nlwnrFytAmvZGhrmG7jkWLqdSerkHcMHBItS5kadpQYaSWF9RUnLAbql&usqp=CAE",
+      "image": "PGOLD12.jpeg"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02023",
+      "name": "GC Y70004G2MF Men's One Chronograph Gold Tone Wristwatch",
+      "description": "Gc Guess Collection Y70004G2MF Gc One Men's Watch 45mm This GC One stands out for its simplicity and tough design. The watch is waterproof to 10 ATM. Very beautiful is the striking polished gold case that is equipped with a gold bezel. The Gc Y70004G2MF Gc One has a Swiss chronograph movement that is very reliable and accurate. The sapphire glass ensures that the watch is well protected from scratches and bumps. This watch is waterproof so you can swim with it as well.",
+      "price": 674,
+      "category": 8,
+      "rating": 4.5,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTlbh6FXgCeZEQi6Hb_XJH3oaTwDaXxZY1oegb0fEmho2KQmnsHA5uKwdJSmnJRL6oui1IFBQkgkxUDF3w4LW9ZIjoo7geefTtUvlVgGUZmke6joSjH29jg1iSzEEk&usqp=CAE",
+      "image": "PGOLD13.jpeg"
+    }
+  },
+  {
+    "pk": 44,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02024",
+      "name": "Panthère De Cartier Watch",
+      "description": "Cartier - Panthère de Cartier watch - Woman Gold, mini model, quartz movement. 18K yellow gold case and bracelet. 18K yellow gold octagonal crown set with a sapphire cabochon. Silvered dial, blued-steel sword-shaped hands, sapphire crystal. Dimensions: 25 mm x 21 mm, thickness: 6 mm. Water-resistant to 3 bar (approx. 30 metres).",
+      "price": 18200,
+      "category": 8,
+      "rating": 4.8,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaCa4RJvC5wkW8ivxLFzQ6idiJpPieedId-LOxwqsSC61N1bg5irwORIbSW1aLtCgYPx2GgDr4YFUZ8KbRH1_8AjrWTPw3tinOVmp9pKyh2duwe-I&usqp=CAE",
+      "image": "PGOLD14.jpeg"
+    }
+  },
+  {
+    "pk": 45,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02025",
+      "name": "Gucci Grip 38mm Gold-Tone PVD-Coated Watch",
+      "description": "Inspired by the grip tape used on skateboards, Gucci's quartz watch is designed with three apertures that track the hour, minutes and date. It's been manufactured in Switzerland with a brushed gold-tone PVD-coated stainless steel case and buckle-fastening strap. Ronda quartz movement. Water resistance: 3 bar.",
+      "price": 1543.54,
+      "category": 8,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS27k6VGes_BhnTNpoA2x1YX_Fmx8YffvEdAewN30HAq0H8fJAy3x_nXP0L2TjxraFIB3xhN58lSSLIP2CmFP5dTXM0hgKYEDkqwpMKxSxhdDhBjFjBpjGCZeZgKnDg&usqp=CAE",
+      "image": "PGOLD15.jpeg"
+    }
+  },
+  {
+    "pk": 46,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02026",
+      "name": "Gucci Mesh Bracelet Watch",
+      "description": "Yellow gold-tone PVD mesh bracelet with adjustable wrist size measures approx 197mm to 251mm. From the G-Frame Collection Deployant buckle Stainless steel case Mesh metal strap Made in Switzerland FEATURES Water-resistant to 3 ATM SIZE Rectangular case, 21mm x 34mm (0.75\"W x 1.25\"L). Color: Gold.",
+      "price": 1357.29,
+      "category": 8,
+      "rating": 3.9,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQWqfOj8sy41kKqGVHyWEiLzZxGT3b2jUKqQc63JpHZLrO7BODANpRvugdtzvucd-J6aYIj3m2C1hxkwtne_qykPZVuUz9gbOrf7y4m5OGOMJ_yEUk2bbMOtOTpO53l&usqp=CAE",
+      "image": "PGOLD16.jpeg"
+    }
+  },
+  {
+    "pk": 47,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02027",
+      "name": "Emporio Armani Renato - AR11332",
+      "description": "If you like keeping up with the latest fashion and accessory trends, buy Men's Watch Armani AR11332 (Ø 43 mm) at the best price. Colour: Gold Watch face colour: Beige Bracelet material: Steel Type of fastening: Deployment clasp Water resistance: 5 atm Crystal: Mineral Box material: Steel Diameter of the box: Ø 43 mm Type of movement: Quartz Includes: Includes the brand's case.",
+      "price": 400,
+      "category": 8,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrVFS5RTbYTN3__jypoNj5lkrmW-s5lPKDhAb9XIGZwJ-Wshweo1HeFzyORpl2ka2DgButi_HIqWKTHCi6oS8NeDFQS05eeq8_vvfunEMAh7LKyA&usqp=CAE",
+      "image": "PGOLD17.jpeg"
+    }
+  },
+  {
+    "pk": 48,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02028",
+      "name": "Armani Exchange Men's AX1417 Gold Watch",
+      "description": "Yellow gold-tone stainless steel case and bracelet. Fixed fluted yellow gold-tone bezel. Gold (skeleton center) dial with luminous yellow gold-tone hands and index hour markers. Minute markers around the outer rim. Dial Type: Analog. Luminescent hands. Automatic movement. Scratch resistant mineral crystal. Pull / push crown. Transparent case back. Round case shape. Case size: 49 mm. Case thickness: 14 mm. Band width: 14 mm. Band length: 10 inches. Fold over clasp. Water resistant at 50 meters / 165 feet. Functions: hour, minute, second. Dress watch style",
+      "price": 380.3,
+      "category": 8,
+      "rating": 2.9,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRL1eX4tesZaTTqao-vScuKN29ggeYqCNHq7rAnkHnEWjBT29fh532T1AjqPIP4QAGxVWlh5s0_eNAgNsavFncWrf7FozXE2jcicUyXl2rS8wDBhO1X0KisPQetcqQB&usqp=CAE",
+      "image": "PGOLD18.jpeg"
+    }
+  },
+  {
+    "pk": 49,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02029",
+      "name": "Michael Kors Chronograph quartz men's Watch with stainless steel band MK8642",
+      "description": "American luxury fashion brand Michael Kors shot to international fame in the mid-2000s thanks to its glamourous line of accessories. Michael Kors watches are a must-buy for anyone with an eye for what they wear. Whether it's bought as a gift or a personal treat, you'll fall in love with your Michael Kors watch the instant it's on your wrist.",
+      "price": 459,
+      "category": 8,
+      "rating": 3.7,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRMVVL-zdg4SnrST9N8Yi0Mw-UusNnICXwW2htg9784I6ZJvTkOIdBGxfp8KBVE5MW6rI-j3rELFByGe99aQUlvK4ZO6ApAvXfIXpw01ShikQY_MRj6joQxVplTj3w&usqp=CAE",
+      "image": "PGOLD19.jpeg"
+    }
+  },
+  {
+    "pk": 50,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02030",
+      "name": "Star Dust - Green Gold",
+      "description": "Case Stainless Steel Case Size 45mm Case Thickness 11mm Case Color Brushed Gold Movement Miyota Quartz Water Resistance 5 ATM Dial Color Aventurine Green Luminous Yes Strap Stainless steel Strap width 20mm Interchangeable Straps Yes Our Star Dust watches feature a 45MM diameter case size. Case depth is 11MM. This watch style is timeless, sits tall on the wrist & is a great modern statement piece.",
+      "price": 370.69,
+      "category": 8,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7PKuO-_w8o1FRp1ZJGr_eaWkEktOE5ry__BCo2C_zN4FWPnMwYBSJSV7T4qbmllX4xQKA1xbBkTryJIf8LiUM3INmDBwItT4haZdrMRQ1HRetwM_EPV95KOeMpm_U&usqp=CAE",
+      "image": "PGOLD20.jpeg"
+    }
+  },
+  {
+    "pk": 51,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02031",
+      "name": "NIXON Watch Man ref. A083-502-00",
+      "description": "The Nixon The 51-30 Chrono - All Gold is a very popular item which is sure meet your shopping requirements. Highly recommended and make great gifts. Buy the Nixon The 51-30 Chrono - All Gold now.",
+      "price": 649,
+      "category": 8,
+      "rating": 3.7,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRSDf3dNQKy89g_i3ay-5VYlG3J1DL4K25RyM_XLRfXeLmjPm-qX8uR5DFAMmXRiWlj1xHrSwkHpCoY7UkAKqCV-aZzcLDRfqy7GgY15w0eBzFH_gtkLJG7hUMpxJyg&usqp=CAE",
+      "image": "PGOLD21.jpeg"
+    }
+  },
+  {
+    "pk": 52,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02032",
+      "name": "Hamilton Hamilton Black Dial Asymmetric Ladies Watch H24301131",
+      "description": "This distinctive collection represents the core values of Hamilton watchmaking. Core features of Hamilton’s Ventura Collection: Distinctive triangular case, showcasing a unique design Overall vintage flair which represents the history of the collection, dating back to the 1950’s- the era of rock and roll. Each timepiece within the collection features high quality Swiss movement. The collection includes timepieces for both men and women. Model Specifications H24301131: The case is made from high quality gold stainless steel which has been combined with a gold stainless steel strap. The dial is protected by mineral glass. Movement - Quartz Water resistance up to 50 metres (5 bar). ",
+      "price": 820,
+      "category": 8,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLkHcIl_SmNxhlOdPCBIZauQDuWo74JvWSUupY7wVjZuYW9fi-30DKXdAOaLpT6bqO6zpBH0QlP1hoC1lMGNkR8fnSJ5SRtk8TDHM6lBkLR28Frvt4UHmswoWbJiv-&usqp=CAE",
+      "image": "PGOLD22.jpeg"
+    }
+  },
+  {
+    "pk": 53,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02033",
+      "name": "Michel Herbelin Ladies | Classic Gold | Perles 17473/BP08 Watch",
+      "description": "The Perles collection, crafted by Michel Herbelin, blends femininity and elegance. Revisiting the style of the neo-bourgeois, this novelty collection created by the French Watchmaking Workshop Michel Herbelin, is worn on the wrist like a jewel. Designed to be eye-catching, the watches that make up this collection were intended to function as a centrepiece for everyday attire. Core features of the Perles Collection: Each model is equipped with a beaded bracelet, declicatly assembled and inspired by the neo-bourgeois style. All models within this collection are powered by battery powered quartz. The movement of each watch is Swiss made. The dials of this collection are protected by scratch resistant sapphire glass for optimal durability. Model Specifications 17473/BP08: This model showcases a gold and white colour scheme. The case of this model is made from stainless steel and the case width measures 19mm. The beaded style strap is also made from stainless steel. In line with the elegant design, the dial features Roman numerals. This model is splash resistant and should not be submerged in water.",
+      "price": 674,
+      "category": 8,
+      "rating": 3.6,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTa-BXmBN58NE9s6dHalGWWXYZ6OSWqngNo5Nl4XWo6JXDqIItbwhZi98SRvV505XSuVbGwCFw7Oh9qCy6gdpkLmHKJPUcxZOjFu9Whazyuhb-KSp0lpTdh8nfb7Obh&usqp=CAE",
+      "image": "PGOLD23.jpeg"
+    }
+  },
+  {
+    "pk": 54,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02034",
+      "name": "Roberto Cavalli Women's RV1L072L0026  MOP Dial Gold ",
+      "description": "Roberto Cavalli Women's RV1L072L0026 MOP Dial Gold IP Steel Gold Leather Watch Bezel Material: Stainless Steel Department: Women Dial Color: White Mother-Of-Pearl Bezel Function: Stationary Band Color: Gold Clasp: Deployment Buckle Brand: Roberto Cavalli Display: Analog Gender: Women's Case Material: 316L Stainless Steel Case Diameter: 34mm Water Resistance: 5 ATM (50 Meters 165 Feet) Crystal: Antireflective Sapphire UPC: 842551114672 Calendar: No Date Case Shape: Round Movement: Ronda 763 Band Material: Leather Type: Wristwatch",
+      "price": 1049,
+      "category": 8,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfzaWJwuQQVbjMeKUPf_paIYkS1m6JAtVgJiC0mRFsJBZj06G_z8iv05V533n5er4RbpgLeg6lffkmgAUuRqmR72Yx_L7dTQloMYkjgTzKN2VUrMkdA9LQBfIS_f4&usqp=CAE",
+      "image": "PGOLD24.jpeg"
+    }
+  },
+  {
+    "pk": 55,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02035",
+      "name": "Unique gold watch - limited edition",
+      "description": "This gold watch is designed by Peter Kiss and is a unique piece from the manufacture. Material: 585 yellow gold. Wear it and enjoy a piece of luxury and style every time. The watch can be ordered with the traditional quartz clockwork.",
+      "price": 3509.84,
+      "category": 8,
+      "rating": 4.6,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSO035jOu7gQnljChpPzHhwzJeR8nI-ju_qnDobSQyi7Uxx9yXH4_E4DzAwpJmkVrVm9FM2QiEBIDJ9dq6CUD36nW7rq2ey8w14k3Fkrjw4f816xD0A2j1bczU8-les&usqp=CAE",
+      "image": "PGOLD25.jpeg"
+    }
+  },
+  {
+    "pk": 56,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCP02036",
+      "name": "Diesel DZ7306 Mini Daddy Champagne Dial Gold-tone Men's Watch",
+      "description": "Gold-tone stainless steel case and bracelet. Fixed gold-tone bezel. Champagne dual time zone dial with gold-tone hands and Arabic numeral hour markers. Minute markers. Dial Type: Analog. Quartz movement. Scratch resistant mineral crystal. Solid case back. Case dimensions: 54 mm x 46 mm. Case thickness: 10 mm. Round case shape. Band width: 22 mm. Deployment clasp. Water resistant at 30 meters / 100 feet. Functions: hour, minute, second. Casual watch style.",
+      "price": 389,
+      "category": 8,
+      "rating": 2.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWa3Jut4U7MIw7K1mmWlvNQenYsyj8xUBMYEx1XfPr_7qetxmobB47qJQjvZwmqCLVEyt2yPblm8sTFLaUx_AQQg2amOnD-aw95_OfCftdq7cRTCWvsG6n-SL9gQU&usqp=CAE",
+      "image": "PGOLD26.jpeg"
+    }
+  },
+  {
+    "pk": 57,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02021",
+      "name": "Wristwatch Fossil Jacqueline - Rose Gold",
+      "description": "All the jewels from this shop have maker's marks and have the stamping approved by European Union.",
+      "price": 109,
+      "category": 5,
+      "rating": 3,
+      "image_url": "https://cosmos2.my-store.ch/api/img?p=products/2021/2/D99759FE-8FF3-475B-994B-66AD1E74987C/8907774_1&st=11&v=1612784245",
+      "image": "LADIE11.jpeg"
+    }
+  },
+  {
+    "pk": 58,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02022",
+      "name": "Crystalline Glam Watch, Metal bracelet, Gray, Stainless steel",
+      "description": "A dress watch with more than enough class for smart or casual use, and that usual sprinkling of magic that Swarovski bring. A unique case and glowing bracelet links are presented in stainless-steel while a black dial with rose-gold accents brings a contrasting depth. Finally, sparkling crystals are set into the black to create an effect akin to the stars in the midnight sky- a fabulous touch of elegance. Part of the Crystalline Glam range.",
+      "price": 399,
+      "category": 5,
+      "rating": 3.6,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTwADmxXPMat8SmWJSQRm1tKqGKMZCFq1RbIgbcmtM3-KQGbr-tx_fWk8FyenlPTOQLjLyMbhRVQm6nRNLeiOvGbc-W52ROR7to0Ox9nCdujcOMpnYiLv7E&usqp=CAE",
+      "image": "LADIE12.jpeg"
+    }
+  },
+  {
+    "pk": 59,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02023",
+      "name": "Rado HyperChrome 1314 - R32041702- Rado - watch for female",
+      "description": "Wristwatch Rado HyperChrome 36mm, ceramic, ceramic bracelet, with folding clasp, blue dial with 12 diamonds, automatic Cal. ETA C07.611, sapphire-crystal, 5 atm, Ref.:R32041702, limited to 1314 pieces.",
+      "price": 3000,
+      "category": 5,
+      "rating": 4.6,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSq6EWeI5Qwq9Vu_KmOn1ZwbqbD_z5bGR9OnvmLhKx_mw-xjkowWQmmRJX1NFsKxLobLZoXTxpQi7_pu1jR7PBFt6dRWL5YEN2bprEO1S2&usqp=CAE",
+      "image": "LADIE13.jpeg"
+    }
+  },
+  {
+    "pk": 60,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02024",
+      "name": "Uptown Watch, Leather strap, Blue, Stainless Steel",
+      "description": "This watch by Swarovski is a great example of sophisticated design. It features a single, brilliantly faceted crystal in a rectangular shape, set into a stainless steel case, while the deep blue sunray dial is adorned with sparkling crystal index markers. A blue genuine leather strap complements the dial beautifully. This Swiss Made watch adds a sophisticated yet casual touch to every occasion.",
+      "price": 329,
+      "category": 5,
+      "rating": 2.8,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjEEGm901IFPcJUbxqS22DEHF0au3GjWRPesXh2RivUV1_CsddRuxjuBczIM69tBg2EE7lhtqbw4hWp8g0c6HvUts3XIXZREQcNjSTHujoaiyMte2XPB6q0Mot3g&usqp=CAE",
+      "image": "LADIE14.jpeg"
+    }
+  },
+  {
+    "pk": 61,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02025",
+      "name": "Cocktail Watch, Full Pavé, Metal bracelet, Silver tone, Stainless Steel",
+      "description": "Powerful design: This watch by Swarovski is sure to get you noticed. A gleaming, silver-tone sunray dial, as well as a shimmering case and bracelet, combine to striking effect while the gentle, intertwining curves of the bracelet create a sensual, flowing look. It is set with approximately 900 sparkling crystals in brilliant pavé, creating a dazzling display of shimmering light. The dial displays a single crystal index marker and the Swarovski logo at 12 o'clock. Adding glamor to your look, this Swiss Made watch is perfect for special occasions.",
+      "price": 429,
+      "category": 5,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0uRIvrnjIylZv-L396yM47YpDF1sZSBC6gL4z91K5-bojHVrV7sMdSFeGIGY3QwO8yMB0kWb206BlKasJMdbWFFD_pBdDn7GqSFp9PBQ5caNey8w2N_1ZJVok6yM&usqp=CAE",
+      "image": "LADIE15.jpeg"
+    }
+  },
+  {
+    "pk": 62,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02026",
+      "name": "Holzkern; Wood Watch Goldfinch (Marble/Gold), female, Natural wood",
+      "description": "The exciting combination of black marble and stainless steel in gold will remind you to always start the day joyfully. Specifications Case: 28 mm diameter made from stainless steel in gold Dial: Genuine black marble Movement: Quartz movement by Citizen Wristband: Adjustable bracelet made from stainless steel in gold (maximum length: 180mm)",
+      "price": 210,
+      "category": 5,
+      "rating": 3.8,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTbOkDRDvWDf-TSSev3SKF5oQe4ZZ3lizo7mmSYkVtZwOP4t0UUHNDhQXXrL-2TjxXbWSprNWmub8dXquIW-U2S5IEaHWfY16NR2V59AK8CZBlTTm4&usqp=CAE",
+      "image": "LADIE16.jpeg"
+    }
+  },
+  {
+    "pk": 63,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02027",
+      "name": "Women's Ladies Luxury Square Watch",
+      "description": "Gender:Ladies,Women's; Battery Life:Two Years; Type:Square Watch,Wrist Watch,Luxury Watches; Style:Elegant,Fashion; Movement Type:Quartz; Display:Analog; Case Material:Alloy.",
+      "price": 230,
+      "category": 5,
+      "rating": 3.5,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHFtOW5clJGGCREG9AzBWesMERKTjpjGaYvPmct0r65RMjQ-ktObTw3kWlj0PCrtWGCvZrhelvWxWvLwMpVoxq0OXCIugnhR5lJti9dcG7ISZWaBzDChXyAeqD9l9o&usqp=CAE",
+      "image": "LADIE17.jpeg"
+    }
+  },
+  {
+    "pk": 64,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02028",
+      "name": "Michael Kors Mk6110 Women's Rose Gold With Metal Strap Watch",
+      "description": "If you like keeping up with the latest fashion and accessory trends, buy Ladies' Watch Michael Kors MK6110 (Ø 33 mm) at the best price. Bracelet material: Steel Type of fastening: Pressure Water resistance: 10 atm Crystal: Mineral Diameter of the box: Ø 33 mm Watch face colour: Rose gold Box material: Steel Type of movement: Quartz Includes: Includes the brand's case ",
+      "price": 389,
+      "category": 5,
+      "rating": 3.9,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT5fN4EhjweqcR-Q65Ee00FGxZmoDz_cTlDJyoGS9ouJPMqOWR1sXVIPSNTcgbzKrEpXJBzSjKiB2UF4vhN4C5SVtmGHWyGfWhOghw&usqp=CAY",
+      "image": "LADIE18.jpeg"
+    }
+  },
+  {
+    "pk": 65,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02029",
+      "name": "Guess GW0104L2 Women's Raven Gold Tone Wristwatch",
+      "description": "GW0104L2 Women's Raven Gold Tone Wristwatch Item Shape - Barrel Shaped Dial Window Material Type - Mineral Display Type - Analogue Case depth approx.- 9.00mm Case width approx. 38.00mm Clasp Type - Fold-over Clasp Case Material - Stainless Steel Band Material - Stainless Steel Band Length - Women's Standard Band Colour - Gold Tone Dial Colour - Gold Tone Calendar - Day and Date Special Feature - Stone Set Case And Dial Movement - Quartz Water Pressure Resistance - 50MBring on the bling with this shimmering timepiece Boasting 322 crystals on a barrel shaped case and a fully glitz multi-function dial, on a gold-tone stainless steel bracelet.",
+      "price": 469,
+      "category": 5,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSVOZgimBZ4Z9iNx2M1g7XN2S0AzCBE--RhOwJiASNf6uIHgUBDjB19WUVTmhM31WKPS6lQpugCZKx-ZWsgJf3PFn2jIAehoGTa9FS3rSPbQDYRuMRlaPT_9KAVrCsU&usqp=CAE",
+      "image": "LADIE19.jpeg"
+    }
+  },
+  {
+    "pk": 66,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02030",
+      "name": "Esprit ES1L151L0035 Breezy Blue Rosegold Women's Watch",
+      "description": "Esprit ES1L151L0035 Breezy Blue Rosegold Ladies' Watch - stainless steel case, rose gold coating, polished - leather strap, blue, pin buckle - quartz movement, battery operated - 30 meter water resistant case and dial studded with stones - dial color blue - case width approx. 36 mm",
+      "price": 309,
+      "category": 5,
+      "rating": 3.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQJhjYACGYOyUZqtTb5BhKby9H32EpLXKka5Q5Se3k4wXrfI9ditDt611W1EFEPaniKWJjZJU4xbi50BvQd8OtiF_53jQnRn8lHmLeviYYBPG4GQsOqOtd411TwWB_X&usqp=CAE",
+      "image": "LADIE20.jpeg"
+    }
+  },
+  {
+    "pk": 67,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02031",
+      "name": "Esprit Cube Analogue wristwatch, 29mm",
+      "description": "Brand: Esprit - Target: Women's - Display: Analog - Arm bandwidth: 16 mm to 18 mm - Bracelet color: blackcoating. - Top: IP-coated - Case diameter: 26 mm to 30 mm - Gehäuseing: Square - Housing Height: 7 mm to 8 mm - Enclosure height: 8 mm to 9 mm - Weight: 68 grams - Glass: mineral glass - Material Bracelet: Stainless steel - Material Case: Stainless steel movement: Quartz closure type: Clip closure - Waterresistance: 3 ATMTime/date: hrs, min., Sec. - Dial color: Gold - Dial color: Beige - Case color: black mm: 29Model year: 2018Numbers Dial: Index",
+      "price": 259,
+      "category": 5,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRz3sAFqisggEw9w04_YDmp8iL9GNz__3G3pZQh1wPptNYzbo3FcrXbA6ttBbVektd_dY9ZTIiG40UZnIJtNLotWF23datzVnYr2hapSlcjbr9W2JM&usqp=CAE",
+      "image": "LADIE21.jpeg"
+    }
+  },
+  {
+    "pk": 68,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02032",
+      "name": "Esprit, wrist watch, Elaine Valentine (analog watch, 32mm)",
+      "description": "The radiance of effortlessness, fashion, jewels, watches by Esprit. Brand: Esprit - Target: Women's Watch Type: Wristwatches - Glass: Mineral Glass - Material Bracelet: Stainless Steel - Material Case: Stainless Steel",
+      "price": 199,
+      "category": 5,
+      "rating": 3.9,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS1KawdLPlcPRX8maLeE0qJqMLh1qZaJ1d68XviqjXou0iwkpAkrjCEeQCYqAmjozZAzwKgzZOtrV0OMVHhXZL-zFCZZegzbdXLbWdDccfiTEIrVr8&usqp=CAE",
+      "image": "LADIE22.jpeg"
+    }
+  },
+  {
+    "pk": 69,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02033",
+      "name": "Emporio Armani Ar0144 Watch",
+      "description": "Ladies Classic Leather Strap Designer Watch Authentic Classic Style, Ladies Designer Watch Black Finished Dial Steel finished Hands High Quality Quartz Movement Sub Dial Second Hand Perfectly formed Flat Mineral Glass Stainless Steel Head Casing Polished Stainless Steel Case back Secure Tang Buckle Clasp Fastening Black Leather Strap Water resistant to 5 ATM (approx. 50meters/164feet) Rugged build quality Stunning Elegant Card and Inner Leather Effect display case Complete Instructions for adjustment and use 2 Years DPW Warranty Watch Dimensions Head Width Head Length Head Depth Max. Strap Length Watch Weight 29mm 30mm 10mm 205mm 38grams ",
+      "price": 249,
+      "category": 5,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ8bPPcTL1mO4UxsMvs6ZFc5ya3lP0KT-Dw7od0OLpiFhDdZoC2enn09agPYSCTIlQj-RVB-imOl5WWOMd7-C9uPDzVTbmxjeYCO4n89oRAHklQPcFVnBlEuZJ-ap1Q&usqp=CAE",
+      "image": "LADIE23.jpeg"
+    }
+  },
+  {
+    "pk": 70,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02034",
+      "name": "IWC Portofino Automatic 34",
+      "description": "Stainless steel case, Automatic, self-winding, Diameter 34.0 mm - Watches Woman Steel Grey/Green - Since 1984, Portofino watches have combined the ease of the Mediterranean lifestyle with a touch of glamour and timeless elegance. With its reduced diameter of 34 millimetres, the feminine and elegant Portofino Automatic 34 fits perfectly on slender wrists and offers a high wearing comfort. This model has a classic stainless steel case. Rhodium-plated hands and appliqués create a beautiful contrast to the deep green dial, on which twelve sparkling diamonds mark the hours. This ladies' watch is fitted with a hand-painted green alligator leather strap from the Italian shoe manufacturer Santoni. Thanks to an easy-to-use strap change system, and a choice of more than a dozen fashionable straps, the look of the timepiece can be adapted to different outfits or occasions in no time at all. ",
+      "price": 5300,
+      "category": 5,
+      "rating": 4.8,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQLOYglC_luj0URfiN607OTZz7_qSlk23gE8leZZZv_G2kZoCt3Fn2OxY2uym7VxJb8ZKllcD6SBbtE464RN2htnZZZBlHbMaMU7eRISSd_bYPh4Ip_nOKEj_GCtjU&usqp=CAE",
+      "image": "LADIE24.jpeg"
+    }
+  },
+  {
+    "pk": 71,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02035",
+      "name": "TAG HEUER Carrera 32MM S-Steel MOP Dial Women`s Watch WAR1314.BA0778",
+      "description": "The watch houses a Tag Heuer made quartz movement to offer you maximum precision. A Tag Heuer quartz timepiece works by a small piece of quartz vibrating at 32,768 per minute due to an electrical current sent by the battery. The vibrations are absorbed by a quartz resonator that takes away all but one vibration. The one vibration turns your cogs in your watch and offers high quality precision. A 32mm polished stainless steel case surrounds a gorgeous mother of pearl set dial, equipped with 12 top wesselton diamonds. The use of diamonds instead of batons for indeces means that the light refracting out of your diamonds increases visibility of your dial and adds that touch of elegance. Faceted and polished hour and minute hands compliment the hand applied date window at the three o’clock position and Carrera silver lettering and the TAG Heuer logo are added. Presented on a premium quality stainless steel polished and brushed H-shaped bracelet, this bracelet is the perfect combination and is equally as elegant as the head. In perfect collaboration with the polished stainless steel lugs, this watch feels at one with the wearer. 2 years guarantee and official Tag Heuer packaging is given at point of purchase.",
+      "price": 1811.55,
+      "category": 5,
+      "rating": 4.4,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTRqg6-0_wMpVmoq5kkQeC8YZYEjIjSzyMmHfCa7HGL9X9UNCVTk8-8a_U-BoJFACFL4CNrZN0G8P8Q35XD9aGN-2QquzVvbRXMcEYzngu-Pa8Nqx8DKyvlSil4XWVB&usqp=CAE",
+      "image": "LADIE25.jpeg"
+    }
+  },
+  {
+    "pk": 72,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCF02036",
+      "name": "Longines DolceVita Elegance Contemporary Women's Swiss Quartz ",
+      "description": "Inspired by the sweetness of life, the Longines DolceVita collection was created to remind us to slow down and appreciate every second. The line, which was first launched in 1997, takes this philosophy and presents it in a tangible elegant way. All watches in the DolceVita collection are rectangular as a nod to the original shaped wristwatches from the 1920s. With the models being adapted for both men and women, anyone can enjoy the richness of luxurious living. Core features of the Longines DolceVita collection: The rectangular case shape of the watch gives it a very fashionable Art Deco silhouette The models from the DolceVita have interchangeable straps in a range of 8 colours. The dial is protected by a scratch-resistant sapphire crystal Model Specifications: L52554716 The sleek stainless steel case gives this watch a modern look. The stainless steel bracelet is stylish and comfortable. Navy roman numerals are painted over the silver dial with a flinqué design. The hands are in complementing blue steel. Functions on the watch include hours, minutes, and small seconds display, as well as an E.O.L indicator. Water-resistant up to 3 bars. Calibre - L178 Movement type - Quartz",
+      "price": 1350,
+      "category": 5,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTruHvQZyPY5dHt7ooK_3TkYXv_DuRmMTBR0iueONvyv5XRQDelKZ1C4U6hV6EJn_7Q3gLD09W_YknbBAH-FOJiIPTuIC_OHr2MXxkRPpCMk0tWlWDM12vPNaqQc9Y&usqp=CAE",
+      "image": "LADIE26.jpeg"
+    }
+  },
+  {
+    "pk": 73,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02021",
+      "name": "Versace Wristwatch Men's Quartz Stainless Steel Bracelet VERD00518",
+      "description": "Versace VERD00518 Palazzo Men's watch : With brilliant 3D Medusa logo, striking gorgeous gold-colored Medusa head that shines on the dial in 3d relief. No one can ignore this Versace VERD00518 watch. Attracts attention to whoever casts a look at it. The cabinet measures 43 mm and that is reasonably average. A sublime men's watch with a sublime Swiss Made movement under the hood.  Swiss Made sapphire glass Limited Available on Stainless steel watch case and strap. This Versace watch is a truly Italian style icon, suitable for men who love the better material, men with taste and men who love beautiful jewelry.",
+      "price": 1499,
+      "category": 7,
+      "rating": 4.6,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSr7dNJ9h9ikvSscwJydJ8n0tKhWg-_Ru0R7TtZM4OSyVBl2XgqbcwIeHZtc8yldZef52JI9VQxw52bVMZK7o1aXC-fHODblteiUMxl-hNF5DgPxu0kOLCA9EMuWpdC&usqp=CAE",
+      "image": "MMENS11.jpeg"
+    }
+  },
+  {
+    "pk": 74,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02022",
+      "name": "Kronaby Sekel (43 mm) - wristwatch for men",
+      "description": "Kronaby connected watch with over 25 great features. Android and IOS capable. Waterproof up to 100m and scratch resistant sapphire crystal. Whether music or camera, whether second time zone or stopwatch, Kronaby from Sweden leaves nothing to be desired. Just download the Kronaby App and get started. Easiest operation on the phone to set the clock completely personal. Let's meet Kronaby.",
+      "price": 386,
+      "category": 7,
+      "rating": 3.9,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSTAmVq9PYn6zScWLEC_lpcCqOGfT34IMSfehr8OMwMqlP8YCMS9xn1RiYcCi6Xdo01RqAUrXWUKsTaGPQDb6gM3lCIE8xGN1R54jngAthpPfvudQ&usqp=CAE",
+      "image": "MMENS12.jpeg"
+    }
+  },
+  {
+    "pk": 75,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02023",
+      "name": "Police Watches AVONDALE PL.15523JSR-02 Brown",
+      "description": "An outstanding wrist watch which has been made by Police. This watch has a silver tempered steel arm jewelery and a hardened steel case which compliments the dark dial. The superb 15523JS-02M Police mens wrist watch comes finish with the makers 2 years producer guarantee declaration.",
+      "price": 199,
+      "category": 7,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSwvkDJZcWNyJIaeyAL6tE6JMtN1nH01f6t3zsZPRwNQ6jOXaxP7TpoZX8n6V6YGrK5lZbEMfrYX8Q4qNmCjXZ4HEqCXuY6dA1qUVQDU1nYYAhQcIyQYmYFeYZb-mr4&usqp=CAE",
+      "image": "MMENS13.jpeg"
+    }
+  },
+  {
+    "pk": 76,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02024",
+      "name": "Police expansion Analog clock, 51mm",
+      "description": "Fancy shape, Analog display, Quartz movement, Mineral glass, Date indicator, Logo on dial, Degree of water resistance: 5 ATM (50 metres), Buckle clasp, Sent in its box - Material : Strap: Leather Case: Stainless steel",
+      "price": 249,
+      "category": 7,
+      "rating": 4.5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQvQAQGjRLddFqG7L_4xOozIjJbaPiCinr5Ltb7pltoFB-_fBwRPxUn3lqmE6C0gGvqYbcPuYt_2x9QcD0MP5NX-Ki4swRDnjdI1eKQEBynRRABjg&usqp=CAE",
+      "image": "MMENS14.jpeg"
+    }
+  },
+  {
+    "pk": 77,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02025",
+      "name": "Braun prestige digital quartz digital men's watch with BN0106SLBTG ",
+      "description": "Braun watch man. Stainless steel silver case. Black Dial. Quartz Movement. Water resistant 30 meters.",
+      "price": 739,
+      "category": 7,
+      "rating": 4.8,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ0Qzl1pO0p2jGA9I6Tnm1WnPfvlZ4_Om5cMumuy_SnJiBKFHghjiiJRD4jiJ74_bvswVsuqp_8-fvMG7qTJrx5LMpm4VZ4Ot8_caqn-9bl2hmANT4&usqp=CAE",
+      "image": "MMENS15.jpeg"
+    }
+  },
+  {
+    "pk": 78,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02026",
+      "name": "Lacoste Watch 2011033 - Round steel case Grey strap",
+      "description": "Lacoste 2011033 Men's Madrid Brown Leather Wristwatch Guarantee - 2 year Case width - Approx - 41mm Case depth Approx - 9 mm Gender - Men's Dial Colour - Grey Case Material - Stainless Steel Strap type - Leather Strap colour - Brown Water resistance - 50 meters Movement - Quartz (battery) A whisper of vintage punctuates a clear statement of modern masculinity in the Lacoste Madrid timepieces. Stainless Steel case with a grey dial and a brown leather strap. The date window is at the 6.",
+      "price": 259,
+      "category": 7,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTq4zM81Rrq1L4W2HA_9QhHAB3_Om9hNXqggJQ7uLBRLuQVbjPyA0AVDP-ZSD5g49m_n1hsfPvPXF0LxCMZlnaib3OWN5Fh6fSd82yWey_61TaxoMRfgjrBTTgz_uk&usqp=CAE",
+      "image": "MMENS16.jpeg"
+    }
+  },
+  {
+    "pk": 79,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02027",
+      "name": "Christian Koban DOM watch - DOM9WHITECALF",
+      "description": "Koban’s signature diamond embellished pieces and innovative watches are a feat in luxury design. Made in Switzerland, this smart DOM watch from Christian Koban features a stainless steel body with nine single cut 1mm diameter diamonds on the dial, a swiss quartz movement and a crocodile effect brown calf leather strap. Stainless Steel 100%, Calf Leather 100%, Diamond 100%.",
+      "price": 599,
+      "category": 7,
+      "rating": 4.5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRM-UsBsuEQceOFTF17CIaNcfyrUAFG0YPCx_4wdCBJSFoa_oUmFdIsfDAa-GziMTGvRni9TRFJCto5loa1lpVhQOZid_0fVvngAO9sCxIPKc3vB88n_HzHeopoxBjEsg&usqp=CAE",
+      "image": "MMENS17.jpeg"
+    }
+  },
+  {
+    "pk": 80,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02028",
+      "name": "Movado Mens Museum Diamond Set Dial Stainless Steel Bracelet",
+      "description": "Movado watches demand attention and the Museum model is one of their finest. All the flare of a dress watch with bags of individuality, with the class of a smart watch on top. The polished steel construct of the bracelet and case is sublime here, paired with a black dial which is itself blessed with 11 diamond hour-markers and the dot at the 12 position. Features Swiss quartz movement, sapphire glass, SI diamonds (0.043 carat), and more. ",
+      "price": 955,
+      "category": 7,
+      "rating": 4.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1BkZiHTiwOwOx4X633LWgRCc70rqOOPbE2cqg8PM6ZbJA9MXTUhBz-EX3SfLSGEJkfNdAkH9dnAkLB2Wg1IKS-eZ2L_KwarutDVzUjzxG8ZuxHWP9UYJGRU4G3ZU&usqp=CAE",
+      "image": "MMENS18.jpeg"
+    }
+  },
+  {
+    "pk": 81,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02029",
+      "name": "De Grisogono Samsung Gear S2 41mm smartwatch",
+      "description": "Time is precious. Keep track of it wisely with the help of tech experts Samsung and Swiss watch creators De Grisogono with this black diamond, 18kt gold and leather Gear S2 41mm smartwatch. Powered by the Gear S2 function with a menu of digital applications and features, this 41mm timepiece is finished with sparkling white and black diamonds on the navigation bezel. The perfect combination of technology meets luxury. Featuring a round face, a leather strap, diamond accents, 56 white diamonds, 71 black diamonds, galuchat strap, Samsung Gear S2 functions, digital display and touch-navigation crown.",
+      "price": 17420,
+      "category": 7,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS5Tr5bcIy5-fuk8LzJY6O39mOfepvow-fbl_wt-4gkEcqChlAuCtGe6WBBixCPOiH4v_1jxZ4F1dK70n4jVssuj_WxRrI2zEYOrVo5H-ZmnnUG1Y1JcK7FMFKUqx6z8A&usqp=CAE",
+      "image": "MMENS19.jpeg"
+    }
+  },
+  {
+    "pk": 82,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02030",
+      "name": "Meistersinger Astroscope - AS902OR",
+      "description": "Automatic: Sellita SW 220 * Stainless Steel Case With 6-Screwed Exhibition Back * Domed Sapphire Glass * 50m Water Resistant THE CASE: Measuring at 40mm the stainless steel case of the Astroscope has a mirror like appearance, due it being given a highly polished finish. The case is completed by an oversized knurled crown that has been embossed with the MeisterSinger logo. The addition of domed sapphire crystal glass is representative of the quality of this timepiece, it also imparts an authentic vintage feel on to the watch. In addition, sapphire crystal glass is renowned for its resilience, second only to diamond in its durability.",
+      "price": 22100,
+      "category": 7,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQEg5bG20GEhn7swb3GX4wK0r_C6L-2szUJXyoc9wXN6HWTV-R09XuCh8Xjov7ZGSEzT3ti3QoIUfWpLV5HGuaMwu0QsvJs5Z11l3RXDoqMcQt3B8E&usqp=CAE",
+      "image": "MMENS20.jpeg"
+    }
+  },
+  {
+    "pk": 83,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02031",
+      "name": "Maurice Lacroix Clock Man Ref. EL1098-SS001-112-1",
+      "description": "The Swiss made Eliros chrono is an instant classic, delivering a relaxed and effortlessly cool look that is smart and casual. A stainless-steel case with characterful oversized crowns compliments a silver dial which is complete with more silver accents in a sleek finish. Soft to the touch, a brown leather strap with branding brings a trendy edge and very nice fit. Features a chronograph, and date display.",
+      "price": 1199,
+      "category": 7,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQyzopvD8MsfobuyDFUvqwUtl_Aj4GYOmmd3BVEqkE2qshXuEGFvmMDOgQJDpS1lq_61eo7sutw1t3hoc4U45NeDAaBxQ5QJE_zoJk4l7qJ5cVI2Nr7764i7M2qSGA&usqp=CAE",
+      "image": "MMENS21.jpeg"
+    }
+  },
+  {
+    "pk": 84,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02032",
+      "name": "Seiko Clock Man Ref. SSG009",
+      "description": "Silver-tone stainless steel case with a silver-tone stainless steel bracelet. Fixed silver-tone stainless steel bezel. Black dial with silver-tone hands and index hour markers. World time markers around the outer rim. Dial Type: Analog. Luminescent hands and markers. Date display between 4 and 5 o'clock position. Seiko Caliber 8B92 eco-drive movement with a 6-month power reserve. Scratch resistant sapphire crystal. Cabochon crown. Solid case back. Round case shape. Case size: 44.5 mm. Water resistant at 100 meters / 330 feet. Functions: atomic timekeeping, radio controlled, chronograph, world time, date, GMT, second time zone, hour, minute, second, power save function, solar-powered. Sport watch style. Watch label: Japan Movt. Seiko Coutura World Time Chronograph Quartz Black Dial Mens Watch SSG009.",
+      "price": 1189,
+      "category": 7,
+      "rating": 4.5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ8AGrB4C0eOzgrvh0uUYAAyN3vfHm_WreezXH6jXoYqCo4KLQL1PMtcKEwnYO8kcdAR-uZ3Zi-RoyrAlZO4U5Cgp5-uoAFjDEqXWxO5ct2Hv8az4i1LTIEjaRroEcl&usqp=CAE",
+      "image": "MMENS22.jpeg"
+    }
+  },
+  {
+    "pk": 85,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02033",
+      "name": "Joe Rodeo diamond men's watch - MASTER gold 2.2 ctw",
+      "description": "The watch is studded with high-quality diamonds. Stainless steel housing with scratch-resistant mineral glass. Included are two silicone bracelets in different colors. The watch is powered by a Swiss Made ETA quartz movement. Waterproof up to 100m. Case diameter: 46mm Diamond Weight: 2.2 ctw.",
+      "price": 920,
+      "category": 7,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQoWaCoO4xCajHmCWg-yDcM-_fudg0_L2kt-Z0wKNHBZEM1_9aXlFt7z5gWgf9VTPu8alh7mBpImh79lH7b-Qk1h5GmAV8hBl6HVju4rL6t-cDggULSetr0e61lZKc&usqp=CAE",
+      "image": "MMENS23.jpeg"
+    }
+  },
+  {
+    "pk": 86,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02034",
+      "name": "Nixon Magnacon SS II All Black",
+      "description": "Swiss ISA 8172-220 6 hand quartz chronograph with day and date. 48mm, 100 meter/10 ATM custom solid stainless steel with a scratch resistant coating, fixed stainless steel bezel, sapphire crystal with antiglare treatment on the underside of the crystal, triple gasket screw down crown and pushers, individually numbered stainless steel screw down caseback and spring pin lugs. 25mm custom solid stainless steel 3 link bracelet with a scratch resistant coating and a custom solid stainless steel double locking clasp with micro adjust.",
+      "price": 890,
+      "category": 7,
+      "rating": 3.9,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQaPO1oHCWLf2TSV1f-E1xPQzpk7GcRXisjli1T_tvWfZRBdXjrPWRcPmgvT2w9ogMEwd1laNkF54o_H_UeYmBxPUzd2s8OTOdWoReUPE9wjK43rg&usqp=CAE",
+      "image": "MMENS24.jpeg"
+    }
+  },
+  {
+    "pk": 87,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02035",
+      "name": "Stuhrling 127A2 33X52 Emperor Grand Dual Time Automatic Moon Display Mens Watch",
+      "description": "Case material: stainless steel, Multiple Time Zones. Stührling is a brand that built its name on 18 years of producing watches, made with the kind of quality and authenticity-obsessed “cred” that became our DNA and the playbook for most every watch brand that’s launched since 2002.",
+      "price": 420,
+      "category": 7,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTphXXNK8oJok6y_ZFYc_GuWsgKEwgTNSFmTXTRu093v33p67H-Hw5ZYYdTfnCxoKXcRGnU1zg6CziLPkBq6OuaxPAiv3iBxtESwqFB1NPlhFADgTwWnnSMg3VOBeQP&usqp=CAE",
+      "image": "MMENS25.jpeg"
+    }
+  },
+  {
+    "pk": 88,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCM02036",
+      "name": "Armani Exchange Clock Men's ref. AX2169 function",
+      "description": "Grey ion-plated stainless steel case and bracelet. Fixed grey ion-plated bezel. Gunmetal dial with gunmetal hands and index hour markers. A single diamond is set at the 12 o'clock position. Minute markers around the outer rim. Dial Type: Analog. Luminescent hands and markers. Scratch resistant mineral crystal. Pull / push crown. Solid case back. Case size: 46 mm. Case thickness: 5 mm. Round case shape. Band width: 22 mm. Deployment clasp. Water resistant at 50 meters / 165 feet. Functions: hour, minute, second. Dress watch style.",
+      "price": 399,
+      "category": 7,
+      "rating": 3.8,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSf8f-zAtdk2afdOUEJBYnTasf-MY3kobmZOT1VOBOQbbDQiyUlFtgl_7PDaXTUhlWd4Iwibi5v7t4zqYDV2md4JhMZSbaDx4AH70mAoo2rTpq4nv-fu5vc-7G5LIbW&usqp=CAE",
+      "image": "MMENS26.jpeg"
+    }
+  },
+  {
+    "pk": 89,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02021",
+      "name": "Emporio Armani Connected Clock",
+      "description": "Mineral glass, Stainless steel and polished. Smartphone notifications via vibration and pointer, automatic time and date setting, second time zone, link options, micro apps, accelerometer, compatibility:AndroidTM OS 5.0 + iOS9",
+      "price": 330,
+      "category": 4,
+      "rating": 4.7,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQxoGGK8aBiKSJ5DvLVSV3L4sHRWxQGReFCtntaWGsgoZnjHI53NTprejPcmudnUjbIW7nrAzaT73Ld2hoYKqOzuRunhSoBSEbz-9FeJTD1Mx688JmP54aQHQ&usqp=CAE",
+      "image": "HYBRD11.jpeg"
+    }
+  },
+  {
+    "pk": 90,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02022",
+      "name": "Hybrid Smartwatch Fossil Neutra - Brown Leather",
+      "description": "Notifications: Alarm Clock, App Alerts, Calendar Alerts, Email, Multiple Time Zones, Social Media, Text, Functions: Activity Tracker, Control Your Music, Customizable Buttons, Interchangeable Watch Band, Connectivity: Bluetooth Smart Enabled / 4.2 Low Energy, Compatibility: Android™ 5.0+, iOS 10.0+, Battery Life: Up to 6 months ** Based on usage**, Case Size: 44 mm, Dial Colour: Cream, Interchangeable Compatibility: 22 mm, Sensors: Accelerometer, Storage: Stores up to 2 weeks of data between syncs, Strap Width: 22 mm, Water Resistance: 5 ATM.",
+      "price": 159,
+      "category": 4,
+      "rating": 4.1,
+      "image_url": "https://cosmos2.my-store.ch/api/img?p=products/2021/2/D99759FE-8FF3-475B-994B-66AD1E74987C/8907869_1&st=11&v=1612784300",
+      "image": "HYBRD12.jpeg"
+    }
+  },
+  {
+    "pk": 91,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02023",
+      "name": "Seiko Astron GPS Solar Dual Time - SSH024J1",
+      "description": "Seiko Astron: the world’s first GPS solar watch which never needs a battery change – powered by light, automatically adjusted to your time zone through the latest GPS technology Model Specification: SSH024J1 The watch has a gold PVD stainless steel case . The case measures 42.7 mm in diameter. A three-fold clasp with push-button release secures the black silicone strap. A dual-curved sapphire crystal with a super-clear coating encases the dial. Rose-gold highlights accent the dial. The black textured dial is contrasted by luminescent indices. ",
+      "price": 2400,
+      "category": 4,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSTT9R_Xt5zhoAZqTFwu4QtdroK8nVJGGp52oQqw3eE7UuCNJZPdYKybYqZQaMvkSU4msoN1Ms5UwpOi3SL46DBp2xSzoAzeDCpIUBuYu4M5NnyaQ&usqp=CAE",
+      "image": "HYBRD13.jpeg"
+    }
+  },
+  {
+    "pk": 92,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02024",
+      "name": "Fossil Q Machine FTW1163 Hybrid Smartwatch",
+      "description": "Movement (drive): quartz (battery) Functions: alarm, date display, luminous hands / digits, time zones / world time, activity measurement, music control, step counter, smart notifications. Compatibility: Android, iOS. Operating system: Android Wear 2.0. An elegant Smartwatch Non-Display from the brand Fossil with a robust leather strap that can be integrated wonderfully. It convinces with quality and design!",
+      "price": 159,
+      "category": 4,
+      "rating": 3.9,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVCmNHkhe0nVzHhut15lZSRqtGAzGq2WrMaIKyN8ykIaQqzgz8aP5ZpDo_JN4720msXT6xclbqsOWNghnWrhuZeV-RFT84fN0bTvkQ-cg_tfCrQmOj6Aoe&usqp=CAE",
+      "image": "HYBRD14.jpeg"
+    }
+  },
+  {
+    "pk": 93,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02025",
+      "name": "Frédérique Constant Hybrid Manufacture Horological Smartwatch - FC-750MCN4H6",
+      "description": "Frédérique Constant's new Hybrid Manufacture was designed according to the principles of classic watchmaking and innovative 21st century techniques. It combines the precision mechanical “Swiss Made” watchmaking with the smartwatch concept. scratch-resistant sapphire crystal, Date display, sleep rhythm measurement, time zones / world time, 42 hour power reserve, alligator leather.",
+      "price": 2010,
+      "category": 4,
+      "rating": 4.9,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4jjBZN6MJADQFwko2pBRhdibs1YKx7mfwjSrfgApPJGWN9lfMipNO2IfuVhuup_3lV8PiJOiutoFTxIbPINcno4x9B6Ic5fL3kmMKlzHJzvlXiFEvSB0ii_Ahdn4&usqp=CAE",
+      "image": "HYBRD15.jpeg"
+    }
+  },
+  {
+    "pk": 94,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02026",
+      "name": "Jaguar Chronograph Jaguar Hybrid, J889 / 1",
+      "description": "This hybrid smartwatch doesn't reveal what's in it at first glance. Because the diverse functions are well packaged thanks to the timelessly beautiful design. In addition to cool applications such as camera control, a step counter, a movement reminder for a healthy lifestyle, Bluetooth and music control, this watch also has numerous normal functions, such as a date display, a stop function and a 12/24 hour display. So this time indicator is a real all-rounder and suitable for everyone. The hybrid smartwatch is compatible with the operating systems Android 5+ (Android smartphone) and iOS 9+ (iPhone) and can be operated via the Jaguar Connected app.",
+      "price": 799,
+      "category": 4,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTpS5UCYtVFvQm0YJc8CC0NwmqYsWWTeQxQ8pW_FmofEG8KnvXa9SP5T15lBz0n95Cg-0z0-yN87EM-1FT53dgk0FIGN9crZHVdqqdkI7m23ocJMXY&usqp=CAE",
+      "image": "HYBRD16.jpeg"
+    }
+  },
+  {
+    "pk": 95,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02027",
+      "name": "TAG Heuer Connected Golf Edition 45 mm",
+      "description": "The sporty spirit of TAG Heuer is expressed in a special edition aimed at demanding golfers. An integrated GPS helps you to move precisely. High-tech materials: extremely light. Titanium case with a matt finish and ceramic bezel. Wristwatch TAG HEUER Carrera 45 mm, titanium, white & black rubber strap, with folding clasp, Cal. Android Wear, Touchscreen, sapphire-crystal, 5 atm, Ref.:SBG8A82.",
+      "price": 2500,
+      "category": 4,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQLOETareiHjeeVoAAs4HYuQYPMxHUqs8iLIj3_z3jhoamZVcwj2ugB_uc_wnZlEKrBqFwRCD0bvXCd3C5OC-GJjVmriPVNxjl3jz9XSW54_m27wtI8QfQYKk3GwtIN&usqp=CAY",
+      "image": "HYBRD17.jpeg"
+    }
+  },
+  {
+    "pk": 96,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02028",
+      "name": "Armani Exchange Connected Drexler Hybrid Smartwatch",
+      "description": "We present the Hybrid Smartwatch from Armani Exchange. The iconic Drexler men's watch, now with new technology, for a confident style with functionality. It's time to rethink what your watch should be able to do. Thanks to the A | X Connected smartphone app, hybrid smartwatches may look like simple watches, but in reality they are more than just one step ahead. Compatible with iPhone® and Android ™ smartphones. Activity tracking.",
+      "price": 299,
+      "category": 4,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQj5dhXDkZlHn-wjyarsUaIpTklNZLaDK3na9Y-Mtm1K_rO1iptglqGmBy98zgfHhV4sqv8Gb6bgdXYD0sffB-5KnRz_qYjiHQzCZeJ0cpSQbP_Gw&usqp=CAE",
+      "image": "HYBRD18.jpeg"
+    }
+  },
+  {
+    "pk": 97,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02029",
+      "name": "Garmin Hybrid Watch vivomove Luxe 010-02241-01",
+      "description": "One of Garmin’s finest every day watches and that is saying something. The Vivomove has all of the aesthetic with a clean dial which houses a digital component in a subtle and clean manner, offering uncompromising style and gadgets. This classy rose-gold model is complimented by cream strap and features a heart-rate monitor, domed sapphire glass, daily fitness monitoring (heart rate, stress, energy, hydration, sleep), mobile notifications, alarm, stopwatch, calendar, and more.",
+      "price": 534,
+      "category": 4,
+      "rating": 3.9,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfJ1VPkXRvLCfa7aN0yKV8KzRFuS45_iCceRywv05UpyGUDUqPbZatAZyU4spat1XZwgbsO9fVGCyWdSd0F4eLXq6TfnLrDIM5LmoONzCQODKxa-USc8Qoj9-mYLg&usqp=CAE",
+      "image": "HYBRD19.jpeg"
+    }
+  },
+  {
+    "pk": 98,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02030",
+      "name": "Kronaby S0669-1 Women's Carat Hybrid Smartwatch With Blue Strap",
+      "description": "Kronaby connected watch with over 25 great features. Android and IOS capable. Waterproof up to 100m and scratch resistant sapphire crystal. Whether music or camera, whether second time zone or stopwatch, Kronaby from Sweden leaves nothing to be desired. Just download the Kronaby App and get started. Easiest operation on the phone to set the clock completely personal. Let's meet Kronaby.",
+      "price": 320,
+      "category": 4,
+      "rating": 3.7,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpJUndzg5Q2V_IU9P2fW0vV6_OprmrMjvI66nAMQthp86aZ2_STaVee05nZ7jjwk18hizIJQxZ6ahBO7u-2pVWI3E4_GzBxMVFJ2TY0q9j6Sd15pR8AiAIpjwK98w&usqp=CAE",
+      "image": "HYBRD20.jpeg"
+    }
+  },
+  {
+    "pk": 99,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02031",
+      "name": "Lotus SmarTime (Analog clock, hybrid clock, 48mm)",
+      "description": "Lotus creates watches for people who like to stand out of the crowd; for those who like their accessories to have as much personality as they do. The brand’s watches are a combination of cutting-edge technology and innovative design. Core features of the Lotus Smartime The Lotus Smartime smartwatches feature a heart rate monitor, a blood pressure monitor and a sleep tracker. Each model has 4 different dials you could choose from to tailor the watch to your needs. The watch can be used to track steps as well as used in sports mode, which will record data on sports activities. There is a find my phone feature available, as well as music controls and remote camera controls, calendar, and alarm. The watch has IP68 certification. To make sure you’re looking after your health the watch also has sedentary reminders. Model Specifications - 500010/1 The case, Milanese bracelet and bezel are made of black PVD coated stainless steel. The bezel features a white minutes scale. This model has 8 additional preset dials and a built-in speaker. The display is colour and measures at 1.3 inches with a resolution of 240x240. The watch has magnetic charging and the battery can last up to 7 days on standby and up to 3 days, depending on use.",
+      "price": 239,
+      "category": 4,
+      "rating": 3.5,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTdVTrr8JcReIokKEBTCAFsNCWHp610KfnZsxIyAE-N_AE2B5H9tBjN9fYnJZ9hWtJLC6rZixp5-TdIfLQkFdLXdGYBpEeSvMkQ_3XyCm7pz2KJ4ho&usqp=CAE",
+      "image": "HYBRD21.jpeg"
+    }
+  },
+  {
+    "pk": 100,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCH02032",
+      "name": "Michael Kors Access Smartwatch Hybrid Grayson black silicone strap MKT4010",
+      "description": " Michael Kors watches embody the perfect combination of form and function and stand for chic and luxurious design. Schwarz silikonarmband, Compatible operating system: Android, iOS - Apple. Bluetooth activated, waterproof",
+      "price": 197,
+      "category": 4,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRtJjEFNpfBilKLXhX7zP4Gvr1c_HaOQsRRu3Hzurf93tzHl04TK5Zyd08JhHoc_OG9ZvCSKaPiwoImzMHqCAvIBXcEO5-dc5qCbs77qrYaO5gMUIqnANCsErog36n5FQ&usqp=CAY",
+      "image": "HYBRD22.jpeg"
+    }
+  },
+  {
+    "pk": 101,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02021",
+      "name": "Cover Co192 Chapman Gent Chronograph",
+      "description": "Innovative watch design that combine tradition and modernity. Swiss made stands for high quality craftsmanship, technical know-how and aesthetic values.  A quality that can be felt and is visible at first glance. It is our constant aim to offer you timepieces that stand for tasteful design and Swiss watchmaking tradition. Guarantee: 5 years international guarantee Movement: Quartz Color bracelet: Silver Material bracelet: Stainless steel Clasp: Folding clasp Display type: Analogue watch glass: K1 mineral glass with sapphire coating Dial: Silver Housing material: Stainless steel Housing color: Silver Water resistance: 100 M Weight: 120 g Diameter: 42.5 mm Additional functions Date function, Stop watch function.",
+      "price": 299,
+      "category": 3,
+      "rating": 3.2,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBPICfxaOkys0AZ04WWrBVIfx06wtMcWDUGTUrEWqGWKoX4BFRlw4F5ENfoIK2zq1E8y2cGZef7FGJ-94y1wPAPEK94-tRivRGGaZQM-Y&usqp=CAE",
+      "image": "CHRON11.jpeg"
+    }
+  },
+  {
+    "pk": 102,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02022",
+      "name": "swatch - Chronograph watch - Women - Black - 42mm",
+      "description": "Swatch unisex chronometer watch from the Essentials collection. Clock with plastic case of black color and round shape with a diameter of 42 mm. The bracelet is made of multi-colored silicone fabric. The distance to the loops is 20 mm. The movement is quartz. The water resistance is 3 bar. The reference is Susb106.",
+      "price": 189,
+      "category": 3,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTlQLZZgVlq9xf17EoFdhFjTW5L5yC4hu70dMVOLyj6eIO5VnJHdBzPOsgxgM3Y0m58UFdbEmBPyJ-r9DxZonlysC41Yr0EQdRJxLqCvew&usqp=CAY",
+      "image": "CHRON12.jpeg"
+    }
+  },
+  {
+    "pk": 103,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02023",
+      "name": "Zeno-Watch Basel Pilot Super Oversized Chronograph Big Date 6221-8040Q-a1",
+      "description": "The Zeno trademark has been in existence since 1922. Brand: Zeno Watch Basel - Target group: Men's - Display: Analog - Band colour: Black - Case shape: Round glass: Mineral glass - Material Bracelet: Leather - Material Case: Stainless steel - Other: Swiss Made - Movement: Quartz - Closure: Pin buckle - Waterproof: 5 ATMDial color: Black - Case color: silver ",
+      "price": 584,
+      "category": 3,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvTVVfPYGygiNGboXctgsRCdJc_Ow0hIFUf5AnQgGQ__y4W8qASxMiwn8wVaJAz5Au_m52mq5gyRIyz7sB8uLNFUKy31dx1z-pyRrL-CkzGw4s-R9rQc9W&usqp=CAY",
+      "image": "CHRON13.jpeg"
+    }
+  },
+  {
+    "pk": 104,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02024",
+      "name": "LOUIS XVI Chronograph watch",
+      "description": "The DANTON model by LOUIS XVI is popular and straightforward. A chronograph made of stainless steel with three totalizers in a retro design dresses the simple dial consisting of Roman numerals. This is DANTON: honestly solid and constant. Sapphire crystal",
+      "price": 395,
+      "category": 3,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSTGZd_CzrZjn0nGpL4GzhTBcWAZap7zegkKHxyuTA2yb5xDeuMfBoQde_lYAN5nt1cfjpYFmI0zf02XeJw6N_Z-ELDXLu9JKDH0OAcFBYtaXt2118v-SgV&usqp=CAE",
+      "image": "CHRON14.jpeg"
+    }
+  },
+  {
+    "pk": 105,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02025",
+      "name": "Diesel Griffed Chronograph Dz4522",
+      "description": "Diesel - The Dz4522 Griffed Diesel Watch Boasts An Industrial Style, Which Combines A Black Colour Dial Over A Stainless Steel Case, With A 22 Mm, Gold Stainless Steel Strap. The Dz4522 Diesel Watch Is A Timeless Piece Which Will Never Go Out Of Style. With A 48Mm Dial, Your Diesel Watch Will Look Like Never Before On Your Wrist. The case is protected from scratches by a hardened mineral glass. If you don't stop at water with your watch, you are on the safe side with 5 bar water resistance.",
+      "price": 289,
+      "category": 3,
+      "rating": 3.7,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTytMqGD1pWyi6Ws3GGfLoeeCVYaj98dYzJ4bTI_ilGzGnqfLyj9KU-sOX6LZRDxujPtIrq83GtXuSKtnTpEy7sIP7OHL8NVqC_ZimEiayX&usqp=CAY",
+      "image": "CHRON15.jpeg"
+    }
+  },
+  {
+    "pk": 106,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02026",
+      "name": "Ingersoll IN1800CR Richmond men's automatic 42mm 3ATM",
+      "description": "Elegant, Classic, Fashionable Ingersoll Men's Watch IN1800CR. Colors> Dial: Champagne, Strap: Brown, Case: Silver. The high-quality calfskin strap ensures a high level of comfort. The specified test pressure (water resistance) is 3 ATM, and ensures good suitability for everyday use. A scratch-resistant hardened mineral glass largely protects your new dream watch from unintentional scratches and wounds.",
+      "price": 199,
+      "category": 3,
+      "rating": 3.5,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLJFs2WPhkUDQzOlP8r8LX4TT14OVAhjPZtRmdfHk2dBqTielqVzH2NHy3RRcWUTlBtkv_Z4A88b4b_fW_Wm-Z0HlKVstZKFQ7ywdpMsC3yL2MWuPIcrOG0A&usqp=CAE",
+      "image": "CHRON16.jpeg"
+    }
+  },
+  {
+    "pk": 107,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02027",
+      "name": "OMEGA De Ville Prestige Red gold Chronometer Watch - 424.53.40.20.03.002",
+      "description": "Chronometer - Date - Case: Red gold - Case Diameter: 39.5 mm - Movement: Self winding - The OMEGA De Ville Prestige collection has attracted a large and loyal following with its classic, elegant design. These timepieces are characterized by pure and classic styling with luxury finishes, and exude a timeless design.This model features an impressive two-zone, sun-brushed blue dial with old-fashioned Roman numerals at the 3, 6, 9 and 12 o ' clock positions. The striking dial, with a date window at 3 o'clock, is protected by a scratch-resistant sapphire crystal. The bezel is mounted on a 39.5 mm 18K red gold case, and is presented on a brown leather strap. At the heart of this timepiece is the Co-Axial caliber 2500.",
+      "price": 1000,
+      "category": 3,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTOdNHL6Yaoq800WKM05CQhNHNAHwvFuqGWJjs9P3EWsTVMzOTdQEpOWyonmbHCNqqq2KyURNjvLHvdKBSvV2nunuAacC-PZi6GKgVdmfV_zh1Jdhc_HepL&usqp=CAE",
+      "image": "CHRON17.jpeg"
+    }
+  },
+  {
+    "pk": 108,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02028",
+      "name": "Mido Commander Chronometer Men's watch | M021.431.22.071.00",
+      "description": "Silver-tone stainless steel case with a two-tone (silver-tone and yellow gold)) stainless steel bracelet. Fixed yellow gold PVD stainless steel bezel. Silver dial with luminous yellow gold-tone hands and index hour markers. Minute markers around the outer rim. Dial Type: Analog. Luminescent hands and markers. Day of the week and date display at the 3 o'clock position. Mido Caliber Powermatic 80 (ETA C07.621) Automatic movement, based upon ETA 2824-2, containing 23 jewels, bitting at 21600 vph, and has a power reserve of approximately 80 hours. Scratch resistant sapphire crystal. Skeleton case back. Round case shape, case size: 40 mm, case thickness: 11.3 mm. Band width: 20 mm. Deployment clasp. Water resistant at 50 meters / 165 feet. Functions: date, day, hour, minute, second, chronometer. Commander II Series. Casual watch style.",
+      "price": 1359,
+      "category": 3,
+      "rating": 4.5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS9rqHEL1ExsOUsuuDksnhO1fGXbSN127g9OCqptkcnIQP7QfQYQp6npM2xxeai8-2j632DQd3RAnPQlNSeVDOYNNW2latxTWHeIiFjJB1i&usqp=CAE",
+      "image": "CHRON18.jpeg"
+    }
+  },
+  {
+    "pk": 109,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02029",
+      "name": "Ulysse Nardin Marine Chronometer Manufacture 1186-122-3 / 40",
+      "description": "Pre-Owned Ulysse Nardin Marine Chronometer Manufacture (1186122340) self-winding automatic watch, features a 45mm 18k rose gold case surrounding a white dial on a black rubber and 18k rose gold strap with an 18k rose gold deployant buckle. Functions include hours, minutes, small seconds, date and power reserve indicator. This watch comes complete with box and papers. We back this watch with a 2-Year WatchBox warranty!",
+      "price": 13366,
+      "category": 3,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRetypyBuygohHkzd17LA2yl_UP-bVjsOWFjyS_7cEHgxQwli1z5Px579eJ3T3LEBmt37gvnJ7YDdLXY8Q_60D_s1WZEm48VsiXXnPMK-P3xKwxkWfm0enGIg&usqp=CAE",
+      "image": "CHRON19.jpeg"
+    }
+  },
+  {
+    "pk": 110,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02030",
+      "name": "Tissot Luxury Automatic COSC Chronometer Men's watch | T086.408.11.016.00",
+      "description": "With the art of watchmaking she has mastered, Tissot has given shape to the ultimate precision in an extraordinary creation. What makes the Tissot Luxury Automatic so special is its heart - the new revolutionary Powermatic 80 movement which is COSC certified with an extraordinary power reserve of 80 hours. In keeping with the inner values, the exterior of the watch is pure and perfect, unmistakably classic and has an irresistible touch. Any resistance to this luxurious temptation is futile.",
+      "price": 1285,
+      "category": 3,
+      "rating": 4.4,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT4n1vRP4ZDoIIkjgi6xHiSfKWNKQVuhGAyxKSRl-SxjcmGTCOKCLazmhO5xQNoU9Wm5HQ0EXzluX6DR0QEYTq4fvIfqxk70HnJ0gQEVAY4&usqp=CAE",
+      "image": "CHRON20.jpeg"
+    }
+  },
+  {
+    "pk": 111,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02031",
+      "name": "Junghans Meister Chronometer Men's watch | 027 / 4130.00",
+      "description": "Junghans is characterized by care, craftsmanship and creative sensitivity. Designers combine inspiration, tradition and the highest design standards. For a perfect end product, design and construction processes go hand in hand. Precise dimensioning of all components ensures reliable production and manufacture. The finished watch is not first subjected to an intensive quality control, but every single watch component - and that already in the implementation phase. Only when all components have successfully passed the quality controls does a Junghans turn out to be a lot of individual parts. Because this passion is precision.",
+      "price": 1590,
+      "category": 3,
+      "rating": 4.7,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKS2peXUQyxr-we_TQ1XtN4ZtRCeuex2v72r0d7ln1eknvonqKOumdHppAp_fyt3HVN0FXciCwh3FFea3wcOlWlj8lKQzzbwZSarAB_OnA&usqp=CAE",
+      "image": "CHRON21.jpeg"
+    }
+  },
+  {
+    "pk": 112,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCG02032",
+      "name": "BOSS SKYMASTER - Chronograph Watch - Men - Caramel - 44mm",
+      "description": "The design of the chronograph by Hugo Boss with a brown stainless steel bracelet strap with a rose-colored folding clasp is timelessly refined. In addition to 3 totalizers and a date display at 4 o'clock position, the filigree line index, Arabic numerals and the 3-hand rose movement characterize the blue dial. A high quality men's watch with a modern look. Stainless steel case and has a blue with three hand movement, sub dial chronograph and date window dial. The Skymaster comes with an official BOSS Watches. 2 year guarantee.",
+      "price": 525,
+      "category": 3,
+      "rating": 3.9,
+      "image_url": "https://www.manor.ch/productimages/10000282022_03_817468_jpg_zoom1000.jpg",
+      "image": "CHRON22.jpeg"
+    }
+  },
+  {
+    "pk": 113,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02021",
+      "name": "SKMei LED Fashion Men's Digital Sport 50M Waterproof Wrist Watch Date Time ",
+      "description": "100% brand new and high quality. High hardness Glass-Glass is imported from abroad, That the glass is extremely hard and pressure-tolerant. Item type: Sport Wrist Watch, Band Material: Zinc Alloy Plating, Double open Buckle, wear more convenient. Movement: Digital",
+      "price": 69,
+      "category": 9,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcn83wfLlEZbnvIMAv1YYgdlGYwe8inZdOA3xTJ-nyodc_SpzwWYAv0m5GmqHZLAQLOUF4wsr-EHL-kSks4sQCDLVC-yG54Wb9UNVDX1-IhYr7WA&usqp=CAE",
+      "image": "SPORT11.jpeg"
+    }
+  },
+  {
+    "pk": 114,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02022",
+      "name": "Coros VERTIX Ice Breaker (47mm, titanium), Sports watches + Smartwatches",
+      "description": "Adventure calls your name and you need a watch that will respond with you. The VERTIX GPS Adventure Watch from Coros provides the features and durability you need to take on even your dreams’ grandest expeditions. The longest battery life, extreme durability and altitude acclimation assistance make the VERTIX your go-to choice whether your plans call for a backyard hike or a Himalayan summit. ",
+      "price": 739,
+      "category": 9,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmHKv72l32papgmHoD3jF879epBD4FSEEWY8enFjZNWvq0-oh1sIMBmYjkP5B4CR3Y2vmLY741tPRU4DcTlKBzhgkmO54KjuolRBFSqAw6zUQA3hw&usqp=CAE",
+      "image": "SPORT12.jpeg"
+    }
+  },
+  {
+    "pk": 115,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02023",
+      "name": "Suunto 7 - Limited Edition - graphite - sport watch with strap - microfibre textile",
+      "description": "Juggling your passion for sports with a busy life can be hard - you want a sports watch that is ready when you are and a smartwatch that handles your everyday. Suunto 7 is designed to help you get the most out of your time. It's the first Suunto's watch that combines its versatile sports experience and free offline outdoor maps with helpful smartwatch features from Wear OS by Google. wrist size: 130-220 mm - Bluetooth, Wi-Fi, NFC - 55 g",
+      "price": 485,
+      "category": 9,
+      "rating": 3.8,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZDaRRKEHG1wyRe0sM2s74ZH7uBx3mPchJP4Tr36jHSgwN9Zi74KsrKsjahNZoytzF0v6AYREQn2V79wRz_RLAFTnW3jGpYf3lWb0KJfA-9hfdTomQ-ZHB7-JjmkC2&usqp=CAY",
+      "image": "SPORT13.jpeg"
+    }
+  },
+  {
+    "pk": 116,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02024",
+      "name": "Polar Grit X, outdoor multisport watch, green and black (limited edition)",
+      "description": "Polar  · Heart rate monitor  · Calorie Counter  · Sleep Tracker  · Distance  · 40 hours max  · Water Resistant  · With GPS  · Bluetooth. Color: Green, Features: Gps, Features: Barometer, Features: Daily activity tracker, Grit X Limited Edition is a Polar GPS watch for you to use while doing sports activities. This model is characterized by a robust model that meets military standards and longer battery life. - This model of Polar smart watch will allow you to stay on the hiking route and will allow you to keep detailed statistics in real time. Schedule your training according to your preparation and recovery. So, you will be able to know your rest process.",
+      "price": 430.9,
+      "category": 9,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5450VYkq0ri9oy_SJLVSbecxkSq9QKyRO6xoZLvrUeNmhxjubPZ7ipaDTXgwXDeDgBOrXq3lFB5vdoLeLVtqwF0vMW3Ku1uIXglyal4JEf1SwlE4d4D0REw&usqp=CAY",
+      "image": "SPORT14.jpeg"
+    }
+  },
+  {
+    "pk": 117,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02025",
+      "name": "Xiaomi Mi Band 5 Fitness Tracker black",
+      "description": "Xiaomi Mi Band 5 - 125mAh Waterproof Activity Wristband, 5ATM, Bluetooth 5.0 The fifth generation of Xiaomi wristbands is finally here: the new Xiaomi Mi Band 5 is the perfect device for all active people. This Xiaomi activity wristband has a 1.1 'AMOLED touch screen and an incredibly long battery that can last up to 14 days on a single charge. This smart wristband will provide 24-hour sleep monitoring and 24-hour heart rate monitoring, and supports 11 sport modes, including yoga! Thanks to the 5ATM water resistance rating, you can use the Xiaomi Mi Band 5 during water sports activities.",
+      "price": 49.9,
+      "category": 9,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcReyCNpDbaNicZ7nvovUKohgZ9IOa8bv2XHLZkSlSR3qp9HRJyUM3Yi6AguxYqlqIesToCsk58YakjuJoTusZbFOIptD7ijwyL_qXGX9B8&usqp=CAY",
+      "image": "SPORT15.jpeg"
+    }
+  },
+  {
+    "pk": 118,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02026",
+      "name": "Garmin FENIX 6 black / silver - sport watch with QUICKFIT silicone bracelet 22mm black",
+      "description": "Garmin fenix 6 - 47 mm, Wrist size: 125-208 mm - display 1.3\" - 64 MB - Bluetooth, ANT+ - 80 g. The fenix 6 multisport GPS watch brings an incredible design and performance to your fast-paced lifestyle. It's contoured for a trimmer, more comfortable fit on your wrist, with easy-to-access features that include enhanced wrist heart rate, built-in activity profiles, VO2 max estimates and more. Plus, you can see how your hard work is paying off with performance metrics and training load balance readings. Satellite navigation and tracking functions combine with a 3-axis compass and barometric altimeter to give you confidence on and off the beaten path.",
+      "price": 689,
+      "category": 9,
+      "rating": 4.7,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQTfiGThulWC3h2nnJi77nvw2IFZLJaR0-CuWU84R9p1cZxPPHEJ9AvjknBa7K-5thjZwBQ43qWex-eno0_6sPYTujF9M3O6nUpDjNiTiGbD0g85is8m_VlSg&usqp=CAE",
+      "image": "SPORT16.jpeg"
+    }
+  },
+  {
+    "pk": 119,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02027",
+      "name": "Samsung Galaxy Watch3 (45mm Titanium) Sports watch",
+      "description": "The Galaxy Watch3 combines a robust Stainless Steel case, a true watch design with the best LTE connectivity for your daily tasks and workouts. The wide range of watch faces and new straps with quick release allow you to change the style of the watch to fit any outfit. New and improved health features like “Fall Detection” help you to tackle any new challenge with confidence. With its design and robustness, the Galaxy Watch3 is the perfect do-it-all watch. This is why it also comes with 8GB of storage so that you can download your favorite photos and music. It has a bigger screen so checking your appointments and messages is that much easier and finally you stay connected, even without your phone with the integrated LTE connectivity.",
+      "price": 649,
+      "category": 9,
+      "rating": 4.3,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ7ophRlHraP4LdW3BvcepqtCaubsDsHwsrHa_zDUiLtDT_8rhXDmBacRrXdtwx5occ27_amA-fjWo95bICupoMHAkYwcH_m3KI64qpptUe&usqp=CAY",
+      "image": "SPORT17.jpeg"
+    }
+  },
+  {
+    "pk": 120,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02028",
+      "name": "LEMFO LEMT 4G Smart Watch 2.8-inch Large Screen 2700 MAH 5MP Camera GPS Take Calls Heart Rate Game Watch",
+      "description": "HD large-screen display, Play Games, 2700 mAh High capacity battery , 4G, SIM WIFI, Play Store, Large memory, Independent card calling, GPS, Application download, Browser, Music, Heart rate test, Step counter, Multi-sport mode,Find mobile phone,Take pictures , Photo, Recorder, Mobile Assistant: connect your phone, take a picture remotely, listen to music, send files, find your phone. App Name: WiiWatch 2. App Support Language: Chinese, English",
+      "price": 230,
+      "category": 9,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlDB6rrMcR7xWsXIPOfTxURDqyfiwW6sAcIrrnhpwi4E4cnGyinVMYDgPMbCd9Bx0Y1JZ9CMpDPUi4SQ4ialMbq4fAr_KY6TKIVNeHej3HvTXDaMuqm_7W&usqp=CAE",
+      "image": "SPORT18.jpeg"
+    }
+  },
+  {
+    "pk": 121,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02029",
+      "name": "jpantech Smartwatch Full Touch Screen IP68 Women Men Smart Watches Sports",
+      "description": "Stylish smartwatch for women and men. | Bluetooth call | EKG Monitoring Tracker Heart Rate Monitor Pedometer Blood Pressure Measurement Waterproof IOS / Android (L Black) It has an ultra-light and elegant metal housing, a large IPS color touchscreen with an intuitive and optimized user interface and is easy to read even in direct sunlight. Thanks to the high quality of the hardened glass and a tailor-made sports TPU wristband, it is protected against scratches and the penetration of dust. In addition, sweat stains are effectively avoided.",
+      "price": 175,
+      "category": 9,
+      "rating": 3.5,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTomICzyNVPqBLAYyMqIc8ALM3nlIxkkivirCHUnxLFvBj5rp53J4eLyVxAxRk_jk9qh5DxEKzEcZdKzfw-ipShaNq-nhSxewt8lGsmp6b8-bRIXJaAPoXMXA&usqp=CAE",
+      "image": "SPORT19.jpeg"
+    }
+  },
+  {
+    "pk": 122,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02030",
+      "name": "Wahoo Elemnt Rival Sportuhr, Sports watches + Smartwatches",
+      "description": "Element RivalThe Wahoo Element Rival Multisport Watch focuses on your performance and not your device. With the intuitive Element operating system, Wahoo's Rival offers a simple user experience. Multisport features like Touchless Transition, Multisport Handover, and Perfect View Zoom provide a seamless performance advantage whether for training or competition. Equipped with a 64 color display, eier ceramic bezel and Gorilla Glass lens, the Wahoo Element Rival is not only great for everyday use, but will stand up to your toughest workouts.",
+      "price": 398.95,
+      "category": 9,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmRIHa4Ldxc2B46az7QOUFv2WzfRytAidPCT4cC32EgggVgwNLpogBkAU43cr8WbREcBYZfkI8DEeR0W5ZD6aApw659Xszui1e12fl2qtP&usqp=CAY",
+      "image": "SPORT20.jpeg"
+    }
+  },
+  {
+    "pk": 123,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02031",
+      "name": "Kuura Sports Watch S5 GPS",
+      "description": "Kuura Sports Watch S5 GPS is perfect for the athlete who moves a lot outdoors. The watch monitors your heart rate, blood pressure and steps in real time, and aims to help you maximize your exercise performance. The watch also has a built-in GPS that allows you to stay on the map wherever you go when you’re outdoors. You can also check the weather from the watch, control your music and camera, and receive notifications directly from your phone to your watch if you wish. You can also answer and reject incoming calls directly from your watch. Features: Built-in GPS, Health monitoring (heart rate, blood pressure. Note: not suitable as medical indicators), many different sports modes, notifications from your phone, clock, music control, camera control, do not disturb the mode. Technical Information: Display: 1.3\" IPS Multi Touch Screen resolution: 240x240px Weight: 66 g Bluetooth 4.0 Battery life: 2 days in normal operation, 4 days in standby mode IP rating: IP67 Battery: 320mAh Charging time: approx. 2.5h Application: SMART-TIME",
+      "price": 142.68,
+      "category": 9,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRAqb3x9w3rPHRSoWDKx0yvgo1y-vTiGnd_P3vfzV1KPJdBN7aBD9-YFjaZX5AJBOzcUQB6wv1nOgsg9_wRaTv89jiHnjwpoN8sLCJRrc5vr8P-HphcjI4O&usqp=CAE",
+      "image": "SPORT21.jpeg"
+    }
+  },
+  {
+    "pk": 124,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCS02032",
+      "name": "Fitbit Ionic - Smart Watch - Bluetooth, Wi-Fi, NFC - 50 g - Charcoal, Smoke Gray",
+      "description": "Heart rate monitor  · Pedometer  · Calorie Counter  · Sleep Tracker  · swim  · Distance  · Stairs Climbed. The Fitbit Ionic - the first health and fitness smartwatch that is really there for your whole life. Get comprehensive support to achieve your goals: with dynamic personal training support, integrated GPS and continuous heart rate measurement. Get new momentum for your workout with 300+ storable songs and be inspired by the global fitness community. In addition, you have easy access to popular apps, you can easily make payments from your wrist and enjoy a battery life of 4+ days.",
+      "price": 290.55,
+      "category": 9,
+      "rating": 3.7,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRv3DUSpP85EZIz7IFd2vdVJ9_yYK27CUz2lpxPinxdxn3mAkvxGc0YhhAXVjNt_eNBwkfeB-0JT944WXClA7JQu7RX-9zCrKgGcfPmLr-GR1Lc83qDT2X0&usqp=CAY",
+      "image": "SPORT22.jpeg"
+    }
+  },
+  {
+    "pk": 125,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02021",
+      "name": "August Steiner Quartz Silver Dial Men's Pocket Watch AS8144YG, Quartz Movement, Brass Strap, 48mm Case",
+      "description": "Gold-tone composite metal case with gold-tone brass chain. Fixed gold-tone composit metal bezel. Silver dial with Breguet-style hands and Arabic numeral hour markers. Minute markers around the outer rim. Dial Type: Analog. Quartz movement. Scratch resistant mineral crystal. Pull / push crown. Solid case back. Round case shape. Case size: 48 mm. Case thickness: 14 mm. Band width: 8 mm. Band length: 13 inches. Water resistant at 10 meters / 33 feet. Functions: hour, minute. Fashion watch style. Comes with a Money Clip. ",
+      "price": 32.97,
+      "category": 1,
+      "rating": 3,
+      "image_url": "https://cdn2.jomashop.com/media/catalog/product/a/u/august-steiner-quartz-silver-dial-mens-pocket-watch-as8144yg.jpg",
+      "image": "ACERS11.jpeg"
+    }
+  },
+  {
+    "pk": 126,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02022",
+      "name": "1pc Watchband Case Convenient Useful Practical Watch Band Pouch Watch Strap Box Watchband Box for Travel Home Daily Use",
+      "description": "Manufactured of durable material, the bag protects your item from scratches, dirt resistant. It is ideal for various occasions. Perfectly organize your watch bands when go for a gym, traveling, outdoor, weekend getaways, business trips or personal vacations. And it is also a great gift for your family, friends, birthdays,etc, ideal gift choice.",
+      "price": 15,
+      "category": 1,
+      "rating": 3.7,
+      "image_url": "https://canary.contestimg.wish.com/api/webimage/5ea4a7b15af61e08432c61b4-2-large.jpg",
+      "image": "ACERS12.jpeg"
+    }
+  },
+  {
+    "pk": 127,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02023",
+      "name": "Genuine Leather 4 Watch Case Black One Size ",
+      "description": "Leather: Cowhide Space for 4 watches Glass top Microfiber lining Push-lock clasp can be secured with included key Imported, China NOTE: Watches not included Measurements Height",
+      "price": 75.41,
+      "category": 1,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTew-YP83-_l4YUvDiKl5ZDhOiYLZYGn8MPEc9qV2MGF6rMS6-Q2BVwATAWWDJZFJSbYYIJou7kLs-foQ7DgoX06uDZTltEjEcFfIzDpXgypom_ZYZ9jJfg_ww&usqp=CAY",
+      "image": "ACERS13.jpeg"
+    }
+  },
+  {
+    "pk": 128,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02024",
+      "name": "Gucci GG0291S 001 99mm Black Men Sunglasses",
+      "description": "Absurdly rich in elegance, these GG0291S mask sunglasses are sure to be a crowd pleaser. Crafted from gold-toned metal and acetate, these spectacular shield shades showcase a hidden brow bar in gold-toned metal with a black acetate overlay. Over the built-in bridge, you will find the brand's iconic interlocking GG rivet as well as rubber nose pads. Black acetate arms showcase Gucci's red and green stripes over gold-toned metal hinges as well as the brand name signature at the temples. Grey lenses offer 100% UV protection. The case color selection will be individually selected by a member of our team for each pair of glasses and comes with a matching satin flannel pouch and ivory microfiber cloth. Made in Japan.",
+      "price": 514,
+      "category": 1,
+      "rating": 4.5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSK2hc6uRZ4tSXpqcT7tFR1vsYXNowkg0YRFLWi_E4GTKNRbbn6L16nBQR8qtuVOhYYQzftoL3UrXqSb1KMdWh3gJqlQtXgyoivQAw94ABECiLJDaRz_TXM&usqp=CAY",
+      "image": "ACERS14.jpeg"
+    }
+  },
+  {
+    "pk": 129,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02025",
+      "name": "Bracelet 316L Stainless Steel Magnetic Clasp Cuff Bangle Bracelet",
+      "description": "Fashion Men's Leather Bracelet 2020 Jewelry Genuine Leather Nail Bracelets for Men. Man Hand Bracelet,316L Stainless Steel Magnetic Clasp Cuff Bangle Bracelet",
+      "price": 15,
+      "category": 1,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQCIJrVSwXSBL4U6_7lfmR2Bnn7T2zl43KxND1LJrRDUTnPaj2twAz4Tg2EZpgoUHMkuEErtSmrh1usK6DIgLCt1xYgo9Iwjk0t8TJ8LsXcAc2iG68YlZC2&usqp=CAE",
+      "image": "ACERS15.jpeg"
+    }
+  },
+  {
+    "pk": 130,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02026",
+      "name": "MASERATI - Bracelet - Men -- JM418ANJ02",
+      "description": "Gender : Men Brand : Maserati Jewellery Texture : PVD Jewellery Material : Stainless Steel Jewellery Material : Leather Jewellery Type : Bracelets Target group : Men",
+      "price": 89,
+      "category": 1,
+      "rating": 4.1,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSeNnmlRNjooPIb3NC7WNlIYsyKlaGzixhPc834idy8rhGaEm42zgyz7DWl85nF-rQ9OH_rNbMYPo1UBlJXM_0LPEBC6qkjftvTL0FjSMM82TC9vkXvWISn&usqp=CAY",
+      "image": "ACERS16.jpeg"
+    }
+  },
+  {
+    "pk": 131,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02027",
+      "name": "Contour Wallet - Raw, Tobacco Brown",
+      "description": "The bottom plate of the wallet is CNC precision machined stainless-steel, titanium or brass. The top plate is melonite-coated for durability. Each plate is wrapper in top-grain Horween leather, which will develop a beautiful patina over time. Ideal for use as a front pocket wallet, the sleek design and slim profile ensures a compact and lightweight everyday carry. US Patent No D798,591. You can replace it to any Contour wallet + have a spare part for the future. ",
+      "price": 164.43,
+      "category": 1,
+      "rating": 4,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSczxuA2e12Finaayj4IkRP6SPV7gtDljW0NOy46XstNAR499lQvgYQ1Lq4su0jZekQaI0VD5QVo3StjS-x-aD4IBnLiy5UsNqwY8wNfLzpbGAd6WWMVcdBHg&usqp=CAE",
+      "image": "ACERS17.jpeg"
+    }
+  },
+  {
+    "pk": 132,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02028",
+      "name": "Bellroy Classic Set | Slim Leather Wallet & Key Cover Gift Set For Men | Caramel",
+      "description": "A classic leather wallet and key cover set. The Hide & Seek is traditional in appearance but progressive in features while the Key Cover organizes that chaotic bundle of keys. ",
+      "price": 119.55,
+      "category": 1,
+      "rating": 3.9,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSI8PjeXKgMpjDfhmFOlYaixi828gqhHGxXsHIBUfTTXrJasYxdxvUcTPYma0IxcSimcwey0CF2sXP9om2jIBJtZEAKKoXPqwC87h4fHv9Cd6eKDT5GmDisLg&usqp=CAE",
+      "image": "ACERS18.jpeg"
+    }
+  },
+  {
+    "pk": 133,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02029",
+      "name": "Oakley Clifden Sunglasses 0OO9440-0556 Matte translucent blue/prizm deep water",
+      "description": "Interchangeable and removable bridge blocker and Unobtainium side shields designed to block glare and keep faces Protected Leash: With the integrated 20\" lightweight, highly flexible, coated woven steel leash, athletes of all levels will be able to reliably wear Clifden on their face or neck so they can worry less about their eyewear and more about the conditions around them Prescription: Available with Oakley Authentic Prescription Lenses for athletes of all levels with RX needs Category 4 lens (below 8% VLT) blocks more UVB rays and intense light, which may reduce the chance of obtaining eye health disorders Category 3 lens is an effective solution for both Protection and visibility in cloudy or partly cloudy conditions Technologies Prizm : Oakley's exclusive lens technology designed to enhance colour and contrast so you can see more detail. Impact Protection: Oakley lenses designed and tested under extreme high mass and high velocity circumstances to ensure uncompromising protection across a wide range of demanding conditions.",
+      "price": 282.55,
+      "category": 1,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSV_xi_vWopnv7PI1-z3NRwH-G-e0nN260nHa9mTQ5FOnGRdEcbLVHLRZZliEx_-drLn9umG1frqzOmvWpUGxt0MDVgiTnBzI9SRiOxdFg2oFXbcJQTyTabwQ&usqp=CAY",
+      "image": "ACERS19.jpeg"
+    }
+  },
+  {
+    "pk": 134,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02030",
+      "name": "GoPro Wrist Housing Underwater Housing Camcorder",
+      "description": "Wear your GoPro on your wrist like a watch. Compatibility: HERO3 +, HERO3. Wear your GoPro like a watch so you have it to hand for spontaneous shots on the go. The wristband case rests flat on your wrist, but you can flip the GoPro up in seconds to take photos and videos. When you're not recording, you have both hands free so you can surf, snorkel, climb and ski perfectly. Fits over ski gloves or a jacket with the included adapter, can also be attached to kayak paddles and kitesurfing kites and other equipment, thus offering a variety of mounting options. Waterproof up to 60 meters.",
+      "price": 33.99,
+      "category": 1,
+      "rating": 3.7,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGYW3QjZFB0zaA27JmnmZ7wxVIz0bXgjjbsQAem7U-PN7l20WXj8dBfeZnFeU3w2XGMssxJGuDCDfln1lZFNyLa4fkAkzSaXuh_5J6Ery_-BMXCQQY1Lsy5A&usqp=CAE",
+      "image": "ACERS20.jpeg"
+    }
+  },
+  {
+    "pk": 135,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02031",
+      "name": "Glenor Co Watch Box With Valet Drawer For Men - 12 Slot Luxury Watch Case Display Organizer",
+      "description": "12 LARGE COMPARTMENTS- Each watch cushion holds a small or large watch neatly in place . There is plenty of space between the lid and cushions to accommodate watches of all size. VALET provides more space to keep your cufflinks, rings, tie clips, sunglasses, pens, money, cards or your watch tools. UNIQUE, CONVENIENT & ATTRACTIVE DESIGN - Glenor Co. Watch Box boasts a unique , beautiful and a more convenient design than the other watch boxes out there. Our talented team of designers have worked hard to produce the perfect balance of modern ,sophistication and class to create this unique box and its attractive metal plate.",
+      "price": 168.91,
+      "category": 1,
+      "rating": 4.4,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUygqxli15Rd8wxS6ey10rB2-FOueuG8bXVEOG5NOri60HRbJeLdNBuD52G9ucUT4V4fBRiQMIwUbUtVkG45Xf103g3ooJ1X8hOOUO_KPboNjvcZvhW5s_Xw&usqp=CAE",
+      "image": "ACERS21.jpeg"
+    }
+  },
+  {
+    "pk": 136,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02032",
+      "name": "Givenchy Leather Billfold Wallet",
+      "description": "Black leather logo print cardholder from GIVENCHY featuring logo print to the front, note compartment, card slots and billfold construction.",
+      "price": 398,
+      "category": 1,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtDuz5RFGo292UcsqVYmXwtZWVCXMNjlk0nFOWrjGkhN2P39idVggTOPte8haw4XjINZYfWEHcO2mE6ZSPSdmaLI-jMmC0U0swBb5UTantL9TVRZWuEsKrmlKZ&usqp=CAE",
+      "image": "ACERS22.jpeg"
+    }
+  },
+  {
+    "pk": 137,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02033",
+      "name": "Diesel Shoulder Wallet",
+      "description": "Black shoulder wallet from Diesel. contains non-textile parts of animal origin, internal card slots. Designed to snap with a logo, this item attaches over zipper and uses a card slot on the front, a detachable shoulder strap as well as two bills compartments, two open pockets, ten card slots and an inside coin pocket.",
+      "price": 249,
+      "category": 1,
+      "rating": 4.5,
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrAw_GfhauGDuU7GTRE2Eyf0LlUhSTn1kskSqIQc44XZR9wvrtHUrDL9B1Q1aitkm8uGfiAuAZsW6u64iksbFGY9QpwP43aD18ZyFkRGHygKAkg_kQDrod&usqp=CAY",
+      "image": "ACERS23.jpeg"
+    }
+  },
+  {
+    "pk": 138,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02034",
+      "name": "Tom Ford FT0009 B5 Whitney Oversized Italy Lens Sunglasses Shades",
+      "description": "Oversized plastic frame holds a floating lens. Available in black with grey lens, dark brown with brown lens, dark grey with grey lens or transluscent red with brown lens. UV 400 lens 100% UV protective 64mm lens width; 14mm bridge width; 110mm temple length Made in Italy. Soft Accessorie - Sunglasses. Tom Ford. Color: Black/Grey.",
+      "price": 418,
+      "category": 1,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRTBG14Q236pqFo9JYwt3aTx6XJ1RdU6mKG2d27awQR-TiT5BfHnBEiivVp264ye8qGPYulJCrMKq0lUsvddpaYf_UIxjeuocZYg44qre6YB-R972HyJfx5Qw&usqp=CAE",
+      "image": "ACERS24.jpeg"
+    }
+  },
+  {
+    "pk": 139,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02035",
+      "name": "Onyx Black Jawbone Up Activity Tracking Wristband",
+      "description": "The simplest way to understand your day and night. The Jawbone UP wristband plugs into your phone via the Simple Sync connector to help you learn how you sleep, move and eat. UP provides unique insights to help you live each day better than the last.",
+      "price": 116.78,
+      "category": 1,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSji3YOBFFzs9pGf7t-kwKXmJOuav6FUE63XhT1qGyZCfEVbDkGIMO8gtRb1Zcq9e2PJYQIFOrygSgn47Rv7RBfniJ0lJ7zYLxdetj79FERtw7S46J912RBkQ&usqp=CAY",
+      "image": "ACERS25.jpeg"
+    }
+  },
+  {
+    "pk": 140,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02036",
+      "name": "Tateossian - stone-centre cufflinks - men - metal - One Size - Silver",
+      "description": "Silver-tone metal stone-centre cufflinks from Tateossian featuring a flip-lock closure, a black faceted stone centre, a decorative design, a logo engraved back and L18xW18xH16mm.",
+      "price": 483,
+      "category": 1,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_NFRZm3Kfz6DLwcaUyn9fojIDTX1so1nMxOPWaG57RZfoMe-PMBCXmFqLbpvvqsnrP3y-P7lye1If-dPlm5VaK8MWvyZ9cC0Lw6zSy3hvpL5_4PYv3gTbRQhf&usqp=CAY",
+      "image": "ACERS26.jpeg"
+    }
+  },
+  {
+    "pk": 141,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02037",
+      "name": "Caseme - iPhone 6 / 6S leather case wallet + card case + magnetic leather case - dark brown",
+      "description": "4in1 wallet / card case / protective cover / leather case. The optimal protection for the front and back Magnetic leather case for iPhone 6 / 6S 10 x card slots / 3 x bill compartments / 1 x coin compartment 360 degree protection - shock-absorbing construction Practical  button and zipper",
+      "price": 24.9,
+      "category": 1,
+      "rating": 3,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ5xS95OpY3cDY09-c1O3bKpuTFw0G__Fz8tTGCHFJNujBFJLm3XWLOmlHhZuKmMosXcK8hQf4TYcb3pg_HpSHB8MV-B0XRfs8qpYrrLU2dRRu_7noacb72hw&usqp=CAE",
+      "image": "ACERS27.jpeg"
+    }
+  },
+  {
+    "pk": 142,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02038",
+      "name": "TRENDHIM - Black travel watch case",
+      "description": "This transportable hard case is characterized by its light and stable construction and offers optimal protection against bumps and scratches when traveling. The soft inner lining, the plush cushion and the conical shape form the basis for the safe storage of your watch. The metal zipper keeps your investment safely under lock and key, so that it is safe from the elements, dust and scratches. Height of the case: 6cm. Diameter of the box: 10cm. Circumference of the pillow: 20cm nylon",
+      "price": 20,
+      "category": 1,
+      "rating": 3.2,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNPdiro31g6m_7HnUvIk8CMEFd1mopnCT2Vp9LTHWAg5qR79E9cIG3qeZTQzca62I1Zm7bTLRGMOBei5Kv9ug7gVWuprEo480zp-m33Uk6UUR-vuuVpR7c&usqp=CAE",
+      "image": "ACERS28.jpeg"
+    }
+  },
+  {
+    "pk": 143,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02039",
+      "name": "Alchemy Gothic Alchemy Rocks AC/DC Logo Wriststrap",
+      "description": "Alchemy Rocks Official Licensed Merchandise AC/DC Band Logo Leather Wrist Strap Bracelet Taken from the cover of AC/DC's 1977 Let There Be Rock album and designed by Gerard Huerta, this Gutenberg-inspired lightning bolt logo later became the permanent symbol of the band. A 1½\", (38mm) wide black leather wrist strap with a cast antiqued English pewter link-plate of AC/DC's classic 1977 logo; adjustable length, fastened with a steel buckle. Alchemy's leather wrist straps are available in one adjustable size. Packaged in an Alchemy branded bag Designed and hand made in England in fine English pewter. (Lead, cadmium & nickel compliant)",
+      "price": 25.95,
+      "category": 1,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRt79OT0gF-XJYUi2KmaJiNJXw5VwYFMML9DtvY2T-gIZJVBr_0AqtVKcGknBk9dtcnSiEjRxCe56jEix_Ya0VrA44uLFjftpdnKnM_HxJGXM7fUUyH-MfAew&usqp=CAE",
+      "image": "ACERS29.jpeg"
+    }
+  },
+  {
+    "pk": 144,
+    "model": "products.product",
+    "fields": {
+      "sku": "MAC02040",
+      "name": "Jimmy Choo SHINE/S 2M2/IR Gold Women Sunglasses",
+      "description": "These authentic Jimmy Choo SHINE/S 2M2/IR sunglasses have Gold Metal frames and are available online for a discounted price at SmartBuyGlasses. Jimmy Choo sunglasses are the perfect way to shield eyes from harmful UV rays whilst staying a step ahead of the fashion curve. Lens color: . Lens material: Plastic. Collection: Women 2018. Size: 58. Condition: new. Authencity guaranteed.",
+      "price": 511,
+      "category": 1,
+      "rating": 5,
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSR24sxR1j-I9JgeMaFS8bfv1AQZstIkone2l5a1Gj1ukPiNH6KWerrVTax-XFBKQrEFMuINjHr8UhPfkb-Dbzrs2EwyDN2o0jXNwi78nTUWryBt4Uj0Avc&usqp=CAY",
+      "image": "ACERS30.jpeg"
+    }
+  }
+]

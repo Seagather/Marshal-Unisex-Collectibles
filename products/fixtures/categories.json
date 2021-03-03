@@ -1,0 +1,64 @@
+[{
+	"pk": 1,
+	"model": "products.category",
+	"fields": {
+		"name": "accessories",
+		"friendly_name": "Accessories"
+	}
+}, {
+	"pk": 2,
+	"model": "products.category",
+	"fields": {
+		"name": "chains",
+		"friendly_name": "Chains"
+	}
+}, {
+	"pk": 3,
+	"model": "products.category",
+	"fields": {
+		"name": "chronograph_chronometer",
+		"friendly_name": "Chronograph & Chronometer"
+	}
+}, {
+	"pk": 4,
+	"model": "products.category",
+	"fields": {
+		"name": "hybrids",
+		"friendly_name": "Hybrids"
+	}
+}, {
+	"pk": 5,
+	"model": "products.category",
+	"fields": {
+		"name": "ladies",
+		"friendly_name": "Ladies"
+	}
+}, {
+	"pk": 6,
+	"model": "products.category",
+	"fields": {
+		"name": "leathers",
+		"friendly_name": "Leathers"
+	}
+}, {
+	"pk": 7,
+	"model": "products.category",
+	"fields": {
+		"name": "men",
+		"friendly_name": "Men"
+	}
+}, {
+	"pk": 8,
+	"model": "products.category",
+	"fields": {
+		"name": "pure_gold",
+		"friendly_name": "Pure Gold"
+	}
+}, {
+	"pk": 9,
+	"model": "products.category",
+	"fields": {
+		"name": "sports",
+		"friendly_name": "Sports"
+	}
+}]
