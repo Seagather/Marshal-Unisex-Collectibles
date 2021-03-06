@@ -65,7 +65,11 @@
                         <a class="text-white nav-link" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <div class="text-center">
                                 <div><i class="fas fa-user fa-lg"></i></div>
-                                <p class="my-0">My Account</p>
+                                {% if request.user.is_authenticated %}
+                                    <p class="my-0">{{ user }}</p>
+                                {% else %}   
+                                    <p class="my-0">My Account</p>
+                                {% endif %}
                             </div>
                         </a>
                         <div class="dropdown-menu account text-white border-0" aria-labelledby="user-options">
@@ -73,8 +77,8 @@
                                 {% if request.user.is_superuser %}
                                     <a href="" class="dropdown-item text-white">Product Management</a>
                                 {% endif %}
-                                <a href="" class="dropdown-item">My Profile</a>
-                                <a href="{% url 'account_logout' %}" class="dropdown-item">Logout</a>
+                                <a href="" class="dropdown-item text-white">My Profile</a>
+                                <a href="{% url 'account_logout' %}" class="dropdown-item text-white">Logout</a>
                             {% else %}
                                 <a href="{% url 'account_signup' %}" class="dropdown-item text-white">Register</a>
                                 <a href="{% url 'account_login' %}" class="dropdown-item text-white">Login</a>
