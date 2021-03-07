@@ -102,10 +102,20 @@ body {
 	top: 0;
 	left: 0;
 	position: fixed;
-	background: #fffff2;
+	background: white;
 	z-index: -1;
 }
-
+.card-img-top {
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+}
+/* .card-body {
+    object-fit: fill;
+} */
+.card-body, .product-name {
+    color: #000080;
+}
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
@@ -129,15 +139,25 @@ body {
         padding-top: 164px;
     }
 }
+/* pad the top a bit when navbar is collapsed on mobile */
+@media (max-width: 991px) {
+    .header-container {
+        padding-top: 116px;
+    }
+
+    body {
+        height: calc(100vh - 116px);
+    }
+}
 
 footer {
 	background-color: #121315;
     color: #fafafa;
-    position: relative;
+    /* position: relative; */
 }
-#sticky-footer {
+/* #sticky-footer {
     flex-shrink: 0;
-}
+} */
 .social-links,
 .socials {
 	text-align: center;
