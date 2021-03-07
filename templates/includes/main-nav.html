@@ -22,10 +22,10 @@
                 Collections
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="collections-link">
-                <a href="" class="dropdown-item">Chains</a>
-                <a href="" class="dropdown-item">Leathers</a>
-                <a href="" class="dropdown-item">Pure Gold</a>
-                <a href="" class="dropdown-item">All Collections</a>
+                <a href="{% url 'products' %}?category=chains" class="dropdown-item">Chains</a>
+                <a href="{% url 'products' %}?category=leathers" class="dropdown-item">Leathers</a>
+                <a href="{% url 'products' %}?category=pure_gold" class="dropdown-item">Pure Gold</a>
+                <a href="{% url 'products' %}?category=chains,leathers,pure_gold" class="dropdown-item">All Collections</a>
             </div>
         </li>
 
@@ -34,10 +34,10 @@
                 Classics
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="classic-link">
-                <a href="" class="dropdown-item">Chronograph &amp; Chronometer</a>
-                <a href="" class="dropdown-item">Hybrids</a>
-                <a href="" class="dropdown-item">Sports</a>
-                <a href="" class="dropdown-item">All Classics</a>
+                <a href="{% url 'products' %}?category=chronograph_chronometer" class="dropdown-item">Chronograph &amp; Chronometer</a>
+                <a href="{% url 'products' %}?category=hybrids" class="dropdown-item">Hybrids</a>
+                <a href="{% url 'products' %}?category=sports" class="dropdown-item">Sports</a>
+                <a href="{% url 'products' %}?category=chronograph_chronometer,hybrids,sports" class="dropdown-item">All Classics</a>
             </div>
         </li>
 
@@ -46,10 +46,10 @@
                 Integral Fashion
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">Ladies</a>
-                <a href="" class="dropdown-item">Men</a>
-                <a href="" class="dropdown-item">Accessories</a>
-                <a href="" class="dropdown-item">All Accessories</a>
+                <a href="{% url 'products' %}?category=ladies" class="dropdown-item">Ladies</a>
+                <a href="{% url 'products' %}?category=men" class="dropdown-item">Men</a>
+                <a href="{% url 'products' %}?category=accessories" class="dropdown-item">Accessories</a>
+                <a href="{% url 'products' %}?category=ladies,men,accessories" class="dropdown-item">All integrals</a>
             </div>
         </li>
         <li class="nav-item">
