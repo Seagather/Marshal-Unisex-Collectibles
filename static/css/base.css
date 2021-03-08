@@ -103,10 +103,10 @@ body {
 	height: 100%;
 	width: 100%;
 	top: 0;
-	left: 0;
+    left: 0;
 	position: fixed;
 	background: white;
-	z-index: -1;
+    z-index: -1;
 }
 .card-img-top {
     width: 300px;
@@ -200,7 +200,19 @@ a.category-badge > span.badge {
 footer {
 	background-color: #121315;
     color: #fafafa;
+    flex: none;
 }
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    overflow: auto;
+}
+.ox {
+    flex:1 0 auto;
+    width: 100%;
+}
+
 /* #sticky-footer {
     flex-shrink: 0;
 }
