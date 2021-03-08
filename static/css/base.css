@@ -35,7 +35,7 @@ body {
     color: #D05F59 !important;
 }
 .main-nav a:hover {
-    color:#D05F59 !important;
+    color:#330000 !important;
 }
 
 .shop-button  {
@@ -116,6 +116,19 @@ body {
 .card-body, .product-name {
     color: #000080;
 }
+a.category-badge > span.badge:hover {
+    background: #330000 !important;
+    color: #fff !important;
+    border-color: #343a40!important;
+}
+a.category-badge > span.badge {
+    border-color: #343a40!important;
+    border-style: solid !important;
+    border-radius: 5px !important;
+}
+.search-button {
+    background-color:#330000;
+}
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
@@ -158,6 +171,15 @@ footer {
 /* #sticky-footer {
     flex-shrink: 0;
 } */
+.btn-info {
+    background-color:#330000;
+    border-color: #fafafa;
+}
+.btn-info:hover {
+	background-color:rgb(77, 0, 0);
+    color: #fffff9;
+     border-color: #fafafa;
+}
 .social-links,
 .socials {
 	text-align: center;
@@ -165,9 +187,9 @@ footer {
 .social-links li a i {
 	width: 25px;
 	height: 25px;
-	padding: 9px 0;
-	border-radius: 32%;
-	font-size: 16px;
+	padding: 11px 0;
+	border-radius: 40%;
+	font-size: 18px;
 	line-height: 10px;
 	text-align: center;
 	color: #fafafa;
@@ -178,5 +200,6 @@ footer {
 	-o-transition: all 0.35s ease-in-out;
 }
 .social-links li a i:hover {
-	background: #e84610;
+    background: #330000;
+    color: #fafafa;
 }
