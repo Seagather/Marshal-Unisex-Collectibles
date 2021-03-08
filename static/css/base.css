@@ -37,6 +37,9 @@ body {
 .main-nav a:hover {
     color:#330000 !important;
 }
+/* .bg-dark {
+    background-color: #282d3c !important;
+} */
 
 .shop-button  {
 	outline: 0;
@@ -90,7 +93,7 @@ body {
 }
 
 .border-black {
-    border: 1px solid black !important;
+    border: 1px solid #330000 !important;
 }
 
 .bg-black {
@@ -110,9 +113,6 @@ body {
     height: 300px;
     object-fit: contain;
 }
-/* .card-body {
-    object-fit: fill;
-} */
 .card-body, .product-name {
     color: #000080;
 }
@@ -128,6 +128,40 @@ a.category-badge > span.badge {
 }
 .search-button {
     background-color:#330000;
+}
+.search-button:hover {
+    background-color:rgba(119, 24, 13, 0.74);
+    color: #fffff2;
+}
+.btt-button {
+    height: 43px;
+    width: 42px;
+    position: fixed;
+    bottom: 25px;
+    right: 15px;
+    border: 3px solid #330000;
+    background-color: #f8f8fb;
+    /* border-radius: 50%; */
+    z-index: 1000;
+}
+
+.btt-link {
+    cursor: pointer;
+    color: #330000 !important;
+    font-size: 3rem;
+    position: relative;
+    bottom: 7px;
+}
+/* .btt-button {
+    bottom: 30px;
+    right: 15px;
+    border: 3px solid #1b1b1b;
+    background-color: #f8f8fb;
+} */
+
+.btt-link:hover {
+    text-decoration: none;
+    color: rgba(119, 24, 13, 0.74) !important;
 }
 /* -------------------------------- Media Queries */
 
@@ -166,17 +200,27 @@ a.category-badge > span.badge {
 footer {
 	background-color: #121315;
     color: #fafafa;
-    /* position: relative; */
 }
 /* #sticky-footer {
     flex-shrink: 0;
+}
+html,
+body {
+    height: 100vh;
+}
+
+#page-content {
+    flex: 1 0 auto;
+} */
+/* .sticky-bottom {
+    margin-bottom: 13%;
 } */
 .btn-info {
     background-color:#330000;
     border-color: #fafafa;
 }
 .btn-info:hover {
-	background-color:rgb(77, 0, 0);
+	background-color:rgba(119, 24, 13, 0.74);
     color: #fffff9;
      border-color: #fafafa;
 }
