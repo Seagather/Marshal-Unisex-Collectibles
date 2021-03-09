@@ -74,8 +74,18 @@ body {
 } */
 
 .btn-black {
-    background: black;
-    color: white;
+    background: #330000;
+    color: white !important;
+}
+.btn-outline-black {
+    background: white;
+    color: #330000 !important; /* use important to override link colors for <a> elements */
+    border: 1px solid #330000;
+}
+.btn-black:hover {
+    background-color:#330000c4;
+    color: #fafafa;
+    border: 1px solid #330000;
 }
 
 /* .shop-now-button:hover,
@@ -200,9 +210,10 @@ a.category-badge > span.badge {
 footer {
 	background-color: #121315;
     color: #fafafa;
-    flex: none;
+    margin: 0;
 }
-body {
+
+/* body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -211,7 +222,7 @@ body {
 .ox {
     flex:1 0 auto;
     width: 100%;
-}
+} */
 
 /* #sticky-footer {
     flex-shrink: 0;
