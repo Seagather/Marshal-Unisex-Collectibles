@@ -176,12 +176,10 @@ a.category-badge > span.badge {
     position: relative;
     bottom: 7px;
 }
-/* .btt-button {
-    bottom: 30px;
-    right: 15px;
-    border: 3px solid #1b1b1b;
-    background-color: #f8f8fb;
-} */
+.update-link,
+.remove-item {
+    cursor: pointer;
+}
 
 .btt-link:hover {
     text-decoration: none;
