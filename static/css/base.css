@@ -87,6 +87,11 @@ body {
     color: #fafafa;
     border: 1px solid #330000;
 }
+select, option {
+    font-size: 1rem;
+	font-weight:normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 /* .shop-now-button:hover,
 .shop-now-button:active,

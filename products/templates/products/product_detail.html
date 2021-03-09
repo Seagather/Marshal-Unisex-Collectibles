@@ -53,6 +53,27 @@
                     <form class="form" action="{% url 'add_to_bag' product.id %}" method="POST">
                         {% csrf_token %}
                         <div class="form-row">
+                            {% with product.size_adjustment as s %}
+                            {% if s %}
+                                <div class="col-12">
+                                    <p><strong>Size:</strong></p>
+                                    <select class="form-control rounded-0 w-50" name="product_size" id="id_product_size">
+                                        <option value="size adjustment">SIZE ADJUSTMENT</option>
+                                        <option value="without size adjustment">WITHOUT SIZE ADJUSTMENT</option>
+                                        <option value="15.00 cm">15.00 CM</option>
+                                        <option value="15.50 cm">15.50 CM</option>
+                                        <option value="16.00 cm">16.00 CM</option>
+                                        <option value="16.50 cm">16.50 CM</option>
+                                        <option value="17.00 cm">17.00 CM</option>
+                                        <option value="17.50 cm">17.50 CM</option>
+                                        <option value="18.00 cm">18.80 CM</option>
+                                        <option value="18.50 cm">18.50 CM</option>
+                                        <option value="19.00 cm">19.00 CM</option>
+                                        <option value="19.50 cm">19.50 CM</option>
+                                        <option value="20.00 cm">20.00 CM</option>
+                                    </select>
+                                </div>
+                            {% endif %}
                             <div class="col-12">
                                 <p class="mt-3"><strong>Quantity:</strong></p>
                                 <div class="form-group w-50">
@@ -62,7 +83,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-12">
+                            <div class="col{% if s %}-12 mt-2{% endif %}">
                                 <a href="{% url 'products' %}" class="btn btn-outline-black rounded-0 mt-5">
                                     <span class="icon">
                                         <i class="fas fa-chevron-left"></i>
@@ -72,6 +93,7 @@
                                 <button type="submit" class="btn btn-black rounded-0 text-uppercase mt-5"><i class="fas fa-shopping-bag mr-2"></i>Add to Bag</button>
                             </div>
                             <input type="hidden" name="redirect_url" value="{{ request.path }}">
+                            {% endwith %}
                         </div>
                     </form>
                 </div>
