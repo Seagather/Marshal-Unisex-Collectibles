@@ -107,16 +107,6 @@ select, option {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-/* .shop-now-button:hover,
-.shop-now-button:active,
-.shop-now-button:focus,
-.btn-black:hover,
-.btn-black:active,
-.btn-black:focus {
-    background: #222;
-    color: white;
-} */
-
 .text-black {
     color: #000 !important;
 }
