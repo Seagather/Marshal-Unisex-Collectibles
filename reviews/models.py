@@ -10,7 +10,7 @@ class Review(models.Model):
     )
     user = models.ForeignKey(User, blank=False, null=False, on_delete=models.CASCADE)
     title = models.CharField(max_length=50, blank=False, null=False)
-    body = models.TextField(max_length=600, blank=False, null=False)
+    body = models.TextField(max_length=700, blank=False, null=False)
     timestamp = models.DateTimeField(auto_now_add=True)
 
     class Meta:
