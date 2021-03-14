@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block extra_css %}
+    <link rel="stylesheet" href="{% static 'profiles/css/profile.css' %}">
+{% endblock %}
+
+{% block page_header %}
+    <div class="container header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="overlay"></div>
+    <div class="container pb-4">
+        <div class="row">
+            <div class="col">
+                <hr>
+                <h2 class="logo-font mb-4 text-center">Product Reviews</h2>
+                <hr>
+            </div>
+        </div>
+
+        <!-- Current product info -->
+        <div class="row text-center">
+            <div class="col-12 col-md-6 offset-md-3">
+                <div class="div">
+                    <p class="my-4">WRITE A REVIEW</p>
+                    <p class="text-muted my-0">Product Name: <strong>{{ product.name }}</strong></p>
+                    <p class="text-muted my-0">Product SKU: <strong>{{ product.sku }}</strong></p>
+                    <p class="text-muted my-0">Product Price: <strong>{{ product.price }}</strong></p>
+                    <hr>
+                </div>
+            </div>
+        </div>
+
+        <!-- Review input form -->
+        <div class="row">
+            <div class="col-12">
+                <form class="review" method="POST" action="{% url 'add_product_review' product.id %}">
+                    {% csrf_token %}
+                    {{ form|crispy }}
+                    <a href="{% url 'profile' %}" class="btn btn-light py-2 btn-block"><span class="icon"><i class="fas fa-chevron-left"></i></span> Cancel</a>
+                    <button class="btn btn-dark py-2 btn-block" type="submit">Submit Review</button>
+                </form>
+            </div>
+        </div>
+{% endblock %}
