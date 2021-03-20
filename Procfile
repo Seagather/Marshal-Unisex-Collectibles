@@ -1,0 +1,1 @@
+web: gunicorn marshal_collectibles.wsgi:application
