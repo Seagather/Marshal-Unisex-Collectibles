@@ -332,6 +332,9 @@ input[name='q']::placeholder {
 .asteriskField {
     color: red;
 }
+.fa-cog {
+     color:#330000;
+}
 
 .rating {
     float:left;
@@ -404,7 +407,7 @@ input[name='q']::placeholder {
     clear: both;
 }
 
-/* -------------------------------- Media Queries */
+/* --------------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
 @media (min-width: 1200px) {

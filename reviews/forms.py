@@ -9,5 +9,5 @@ class ReviewForm(forms.ModelForm):
         model = Review
         fields = [
             'title',
-            'body',
+            'review',
         ]

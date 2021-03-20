@@ -7,7 +7,7 @@ class ReviewAdmin(admin.ModelAdmin):
         'product',
         'user',
         'title',
-        'body',
+        'review',
         'timestamp',
     )
 
