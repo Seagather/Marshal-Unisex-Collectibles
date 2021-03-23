@@ -407,6 +407,21 @@ input[name='q']::placeholder {
     clear: both;
 }
 
+.review-user {
+    letter-spacing: 5px;
+}
+.review-head {
+    width: 83%;
+}
+
+.review-close {
+    height: 3px;
+    color: black;
+    border-width: 0;
+    background-color: #000;
+    width: 88%;
+}
+
 /* --------------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
