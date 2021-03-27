@@ -26,6 +26,7 @@ body {
 }
 .logo-font {
     text-transform: uppercase;
+    font-family: "Roboto Slab", serif;
 }
 
 .main-logo-link {
@@ -97,7 +98,7 @@ body {
     color: white !important;
 }
 .btn-black:hover {
-    background-color:#330000c4 !important;
+    background-color:#471919 !important;
     color: #fafafa;
     border: 1px solid #330000 !important;
 }
@@ -148,10 +149,10 @@ a.category-badge > span.badge {
 .search-button {
     background-color:#330000;
 }
-.search-button:hover {
+/* .search-button:hover {
     background-color:rgba(119, 24, 13, 0.74);
     color: #fffff2;
-}
+} */
 .btt-button {
     height: 43px;
     width: 42px;
@@ -330,7 +331,7 @@ input[name='q']::placeholder {
     border-radius: 0;
 }
 .asteriskField {
-    color: red;
+    color: #dc3545;
 }
 .fa-cog {
      color:#330000;
