@@ -105,7 +105,7 @@ The color scheme used in this project were meant to present the motifs as aesthe
 | Receive a post email confirmation about my order          | Be assured and have records of my transactions          |
 | Read input by reviewers                                   | Be preinformed about product and services               |
 | Review purchased product                                  | Let prospective users know how I feel about the product |
-| Be able to reset or recover my password if needed         | Retain my personal account                              |
+| Be able to reset or recover my password                   | Retain my personal account                              |
 | Be able to contact the company                            | Channel enquiries or seek solution to issues            |
 
 
@@ -114,9 +114,9 @@ The color scheme used in this project were meant to present the motifs as aesthe
 | **As an administrator I would like to**                   | **So that I can**                                       |
 | --------------------------------------------------------- | ------------------------------------------------------- |
 | Manage Products and services                              | Maintain stock control system                           |
-| Add/Edit/Update products and corresponding details        | Inform users about the latest product                   |
+| Add/Edit/Update product listing when necessary            | Inform users about the latest product                   |
 | Regulate prices                                           | Inform users about actionable prices                    |
-| Delete products                                           | Remove sold out products and Update Database accordingly|
+| Delete products                                           | Remove sold products and Update Database accordingly    |
 | Collate customer reviews                                  | Identify where to improve                               |
 
 
