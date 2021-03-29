@@ -121,3 +121,16 @@ The color scheme used in this project were meant to present the motifs as aesthe
 
 
 ## Wireframes
+
+The skeletal framework of this website was designed using [Balsamiq](https://balsamiq.com) as a visual guide to represent the page schematic and screen blueprint.
+
+Links to final version of the wireframes can be found below:
+
+* [Desktop Final Version](readme-files/desktop-wireframes.pdf)
+* [Mobile Final Version](readme-files/mobile-wireframes.pdf)
+
+
+## Data Structure
+
+
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
