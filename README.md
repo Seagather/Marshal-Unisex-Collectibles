@@ -17,8 +17,9 @@ Moreso the site provides the necessary modern functionalities for the shop owner
     - [User Stories](#user-stories)
     - [Wireframes](#wireframes)
     - [Data Structure](#data-structure)
-- [Database](#database)
 - [Features](#features)
+    - [Existing Features](#existing-features)
+    - [Features Left to implement](#features-left-to-implement)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
 - [Deployment](#deployment)
@@ -134,3 +135,81 @@ Links to final version of the wireframes can be found below:
 
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
+
+
+# Features
+
+## Existing Features
+
+#### Home Page
+
+-   The home page offers five nav bars to take users to relevant sections. 
+    It contains full-width appealing Hero Image Heading Caption with a call-to-action button which take users straight to product listing. 
+    
+#### User Account
+
+This provides interface for new users to register, then sign into already created account.
+The creation of the account requires a valid email and a password.
+Account owners can access the following features:
+
+-   Update profile information
+-   View order history
+-   Review purchased product
+
+#### Shopping Bag
+
+-   The shopping bag populates all purchased product details, subtotal for items purchased and a grand total.
+-   Users can remove items from the shopping bag and update quantities before checkout.
+-   Thereafter users have the option to continue shopping or proceed to payment.
+
+#### Search bar
+
+-   The Search functionality is present on all pages to enable users narrow down their search. 
+
+#### Product Listing
+
+The product listing is structured to offer users multiple search criteria and quicker access to specific products.
+
+-   Product listing can be sorted by Category, Name, Price, and Rating.
+-   This can be done either in ascending or descending order.
+
+#### Product View
+
+-   The product view populates the product details:
+    -   Product name
+    -   Category
+    -   Image
+    -   Description
+    -   Price
+    -   Rating
+    -   Size adjustment
+    -   Quantity increment/decrement functionality
+    -   Add to bag and Keep Shopping buttons
+    -   Review details if any.
+
+#### Checkout
+
+-   Checkout allow users to enter their delivery and payment details initially.
+-   The checkout details and delivery information are pre-filled with the information provided in the user's profile which can also be edited.
+-   A summary of the order is populated on the checkout page
+-   Users also have the option to adjust their bag before completion of order
+-   Payment is made by card using [Stripe](https://stripe.com/)
+
+#### Review
+
+-   The review form allow users to provide a feedback about their purchased product.
+
+#### Administrator features
+
+-   The administrator has the sole right to product management section
+-   An administrator can edit or delete a product to get users updated and engaged.
+
+## Features Left to implement
+
+-   I would like implement the social Media Login using the social-auth-app-django library.
+-   Pagination functionality would divide content into discrete pages and make the content more organized thus improving user experience and scalability.
+
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
+
+
+# Technologies Used
