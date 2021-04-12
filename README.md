@@ -175,7 +175,7 @@ The product listing is structured to offer users multiple search criteria and qu
 
 #### Product View
 
--   The product view populates the product details:
+-   The product view populates the product details such as:
     -   Product name
     -   Category
     -   Image
@@ -213,3 +213,66 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 
 # Technologies Used
+
+**Languages:**
+* [HTML5:](https://www.w3schools.com/html/default.asp)
+    - HTML5 was used to code the content of the website.
+* [CSS:](https://www.w3schools.com/css/default.asp)
+    - CSS3 was used to style the content.
+* [JavaScript:](https://www.w3schools.com/js/default.asp)
+    - JavaScript was used to style the significant interactive functionality.
+* [Python:](https://www.w3schools.com/python/default.asp)
+    - Python was used for the project back-end functions.
+
+**Tools and Libraries:**
+* [Bootstrap:](https://getbootstrap.com/)
+    - Bootsrap was used to render extensive prebuilt components and a responsive grid system.
+* [Django:](https://www.djangoproject.com/)
+    - Collection of Python libs that enables rapid development of secure and maintainable websites was used efficiently to create a quality Web application.
+* [Django Crispy Forms:](https://django-crispy-forms.readthedocs.io/en/latest/) 
+    - Django-crispy-forms was used to control the rendering behavior of Django forms in a very elegant way. It allows adjusting forms' properties (such as method and CSS classes) on the backend without having to re-write them in the template.
+* [W3C Validator:](https://validator.w3.org/)
+    - The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to clear syntax errors.
+* [Font-Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+* [jQuery:](https://jquery.com/)
+    - jQuery library was used to simplify the JavaScript and easier manipulation of DOM.
+* [Tinypng:](https://tinypng.com)
+    - Tinypng was used to compress the file size of PNG and JPG files.
+* [Stripe:](https://stripe.com/)
+    - Stripe platform was used for the card payment process.
+* [Psycopg2:](https://pypi.org/project/psycopg2/)
+    - Psycopg is designed for multi-threaded applications which enables the PostgreSQL database to function with Django
+* [HTML and CSS Beautifier:](http://minifycode.com/html-beautifier/)
+    - HTML and CSS was used to format the codes to make it more readable.
+* [Gunicorn:](https://pypi.org/project/gunicorn/)
+    - Gunicorn is a pure-Python HTTP server for WSGI applications which allows to run any Python application concurrently by running multiple Python processes within a single dyno.
+* [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq wireframes was used to generate mockups and conceptual ideas for this website.
+* [drawio:](https://app.diagrams.net/)
+    - Diagram software used to create the data modelling diagrams.
+* [Git:](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+* [Gitpod:](https://www.gitpod.io/)
+    - This project used Gitpod IDE throughout the development process.
+* [Boto3:](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+    - Boto3 is the AWS SDK for Python. It allows you to directly create, update, and delete AWS resources from your Python scripts.
+* [AWS S3 Bucket:](https://aws.amazon.com/)
+    - Amazon web services, S3 was used to store static and media files in production.
+
+**External Hosting:**
+* [GitHub:](https://github.com/)
+    - The project used the GitHub hosting service to save the project in a repository. 
+* [Heroku:](https://www.heroku.com/)
+    - Heroku platform was used to deploy, manage, and scale the app. 
+
+**Databases:**
+* [SQlite3:](https://www.sqlite.org/)
+    - SQLite is a C-language and cross-platform library used for development.
+* [PostgreSQL:](https://www.postgresql.org/)
+    - PostgreSQL is a powerful, open source object-relational database used for production. 
+
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
+
+
+# Testing
