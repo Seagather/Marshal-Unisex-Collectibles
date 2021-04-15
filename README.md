@@ -21,6 +21,8 @@ Moreso the site provides the necessary modern functionalities for the shop owner
     - [Existing Features](#existing-features)
     - [Features Left to implement](#features-left-to-implement)
 - [Technologies Used](#technologies-used)
+    - [Languages](#languages)
+    - [Tools and Libraries](#tools-and-libraries)
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
@@ -214,7 +216,8 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 # Technologies Used
 
-**Languages:**
+## Languages
+
 * [HTML5:](https://www.w3schools.com/html/default.asp)
     - HTML5 was used to code the content of the website.
 * [CSS:](https://www.w3schools.com/css/default.asp)
@@ -224,7 +227,8 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 * [Python:](https://www.w3schools.com/python/default.asp)
     - Python was used for the project back-end functions.
 
-**Tools and Libraries:**
+## Tools and Libraries
+
 * [Bootstrap:](https://getbootstrap.com/)
     - Bootsrap was used to render extensive prebuilt components and a responsive grid system.
 * [Django:](https://www.djangoproject.com/)
@@ -249,6 +253,10 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
     - Gunicorn is a pure-Python HTTP server for WSGI applications which allows to run any Python application concurrently by running multiple Python processes within a single dyno.
 * [Balsamiq:](https://balsamiq.com/)
     - Balsamiq wireframes was used to generate mockups and conceptual ideas for this website.
+* [JSHint](https://jshint.com/) 
+    - Used to test/validate JavaScript Code.
+* [PEP8 Online Checker:](http://pep8online.com/)
+    - P8P was used to verify that python coding conventions were applied to meet requirements.
 * [drawio:](https://app.diagrams.net/)
     - Diagram software used to create the data modelling diagrams.
 * [Git:](https://git-scm.com/)
@@ -276,3 +284,20 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 
 # Testing
+
+Throughout the development process of this project, Chrome DevTools was used for testing variations and simulation of mobile devices.
+Thorough manual testing was done to ensure compliance with all code validators. 
+The complete testing with regard to every detail can be found [here](TESTING.md).
+
+
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
+
+
+# Deployment
+
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
+
+
+# Credits
+
+_<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
