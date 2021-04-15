@@ -77,12 +77,12 @@
 
 ### Product Management
 
-#### Adding a Product
+### Adding a Product
 
 -   Adding a new product works as intended.
 -   All required fields must be filled to add a new product.
 
-#### Editing/Deleting a Product
+### Editing/Deleting a Product
 
 -   Deleting a product from a product page works as intended.
 -   The "Select Image" and "Add Product" button on the product management page works as intended.
@@ -107,7 +107,7 @@
 
 ## Flake8 and Code Refactoring
 
-* To see all the problems across all my files, I invoke the linter manually By using the command <python3 - m flake8></python3> which outputs a list of all the issues to the terminal.
+* To see all the problems across all my files, I invoke the linter manually By using the command **python3 - m flake8** which outputs a list of all the issues to the terminal.
 
 * I have gone through the individual links diligently to fixed them.
 
