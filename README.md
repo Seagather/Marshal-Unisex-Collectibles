@@ -25,7 +25,12 @@ Moreso the site provides the necessary modern functionalities for the shop owner
     - [Tools and Libraries](#tools-and-libraries)
 - [Testing](#testing)
 - [Deployment](#deployment)
+    - [Deployment to Heroku](#deployment-to-heroku)
+    - [Local Deployment](#local-deployment)
 - [Credits](#credits)
+    - [Code](#code)
+    - [Media](#media)
+    - [Acknowledgements](#acknowledgements)
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
@@ -41,7 +46,7 @@ The development of this project captures the essence of a full-stack site based 
 
 The application was structured using bootstrap to maintain wide browser compatibility, consistency in design and extensibility to render responsive and modern website.
 
-#### Typography
+### Typography
 
 The following fonts from [Google Fonts](https://fonts.google.com/) were used for the site:
 
@@ -52,7 +57,7 @@ The following fonts from [Google Fonts](https://fonts.google.com/) were used for
 **Georgia** was used for the call to action button.
 
 
-#### Colors
+### Colors
 
 The color scheme used in this project were meant to present the motifs as aesthetic pleasure to users.
 
@@ -91,7 +96,7 @@ The color scheme used in this project were meant to present the motifs as aesthe
 
 ## User Stories
 
-#### User Stories for Customers
+### User Stories for Customers
 
 | **As a shopper or site user I would like to**             | **So that I can**                                       |
 | --------------------------------------------------------- | ------------------------------------------------------- |
@@ -112,7 +117,7 @@ The color scheme used in this project were meant to present the motifs as aesthe
 | Be able to contact the company                            | Channel enquiries or seek solution to issues            |
 
 
-#### User Stories for Shop Administrators
+### User Stories for Shop Administrators
 
 | **As an administrator I would like to**                   | **So that I can**                                       |
 | --------------------------------------------------------- | ------------------------------------------------------- |
@@ -143,12 +148,12 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 ## Existing Features
 
-#### Home Page
+### Home Page
 
 -   The home page offers five nav bars to take users to relevant sections. 
     It contains full-width appealing Hero Image Heading Caption with a call-to-action button which take users straight to product listing. 
     
-#### User Account
+### User Account
 
 This provides interface for new users to register, then sign into already created account.
 The creation of the account requires a valid email and a password.
@@ -158,24 +163,24 @@ Account owners can access the following features:
 -   View order history
 -   Review purchased product
 
-#### Shopping Bag
+### Shopping Bag
 
 -   The shopping bag populates all purchased product details, subtotal for items purchased and a grand total.
 -   Users can remove items from the shopping bag and update quantities before checkout.
 -   Thereafter users have the option to continue shopping or proceed to payment.
 
-#### Search bar
+### Search bar
 
 -   The Search functionality is present on all pages to enable users narrow down their search. 
 
-#### Product Listing
+### Product Listing
 
 The product listing is structured to offer users multiple search criteria and quicker access to specific products.
 
 -   Product listing can be sorted by Category, Name, Price, and Rating.
 -   This can be done either in ascending or descending order.
 
-#### Product View
+### Product View
 
 -   The product view populates the product details such as:
     -   Product name
@@ -189,7 +194,7 @@ The product listing is structured to offer users multiple search criteria and qu
     -   Add to bag and Keep Shopping buttons
     -   Review details if any.
 
-#### Checkout
+### Checkout
 
 -   Checkout allow users to enter their delivery and payment details initially.
 -   The checkout details and delivery information are pre-filled with the information provided in the user's profile which can also be edited.
@@ -197,11 +202,11 @@ The product listing is structured to offer users multiple search criteria and qu
 -   Users also have the option to adjust their bag before completion of order
 -   Payment is made by card using [Stripe](https://stripe.com/)
 
-#### Review
+### Review
 
 -   The review form allow users to provide a feedback about their purchased product.
 
-#### Administrator features
+### Administrator features
 
 -   The administrator has the sole right to product management section
 -   An administrator can edit or delete a product to get users updated and engaged.
@@ -294,6 +299,62 @@ _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a><
 
 
 # Deployment
+
+To be able to run this project, the following tools have to be installed before deployment:
+
+-   Git
+-   Python 3
+-   PIP
+-   Heroku CLI
+
+More so the application would need an integral account on the following platform:
+
+-   [Stripe](https://stripe.com/)
+-   [Amazon AWS](https://aws.amazon.com/)
+-   [GMail](https://mail.google.com/)
+
+## Deployment to Heroku
+
+To deploy Marshal Unisex Collectibles using Heroku platform, the following steps were taken:
+
+-   Navigated to Heroku.com in web browser. Once there, Login or Sign Up for a new account.
+-   Choose 'Python' as Primary Development Language.
+-   Selected "Create new app" from the Heroku dashboard.
+-   Filled in the unique app name on the form and selected corresponding region, then clicked on "Create app"
+-   From the heroku dashboard of your application, click on "Deploy", then "Deployment method" and select GitHub to connect the application to your github repository
+-   In the Heroku Resources tab, navigate to the Add-Ons section and search for Heroku Postgres. The hobby level can be selected for this application.
+-   Upon establishing a link to the postgres database, click on the "settings" tab and on the button labelled "Reveal Config Vars".
+-   Add the following configuration variables to the application:
+
+    | **VARIABLE**          | **VALUE**                                                          |
+    | --------------------- | ------------------------------------------------------------------ |
+    | AWS_ACCESS_KEY_ID     | The key provided by AWS                                            |
+    | AWS_SECRET_ACCESS_KEY | The secret key provided by AWS for authentication                  |
+    | DATABASE_URL          | Postgres Database url provided by the Add-ons                      |
+    | EMAIL_HOST_PASSWORD   | Password for designated E-mail address                             |
+    | EMAIL_HOST_USER       | The E-mail address used to authenticate to the SMTP server         |
+    | SECRET_KEY            | Your Django secret key                                             |
+    | STRIPE_PUBLIC_KEY     | The public key provided by Stripe to Identify your account         |
+    | STRIPE_SECRET_KEY     | backend secret key provided by Stripe                              |
+    | STRIPE_WH_SECRET      | The webhook secret provided by Stripe                              |
+    | USE_AWS               | True                                                               |
+
+-   In the Heroku dashboard, deploy the application.
+-   The site is now successfully deployed.
+-   To view the site, click "View App"
+
+### Setting-up Automatic Deployment from GitHub
+
+To setup Automatic Deployment from GitHub:
+
+-   Selected Deploy on Heroku dashboard.
+-   Clicked on Connect to GitHub button.
+-   Ensure GitHub profile is displayed, then add repository name (same as Heroku App), and clicked search.
+-   Click connect button to find the repo.
+-   Then now Enable Automatic Deployment.
+-   Selected branch and clicked Deploy Branch button.
+-   Once it's done, you'll see "Your App was successfully deployed!!!.
+-   Click "View" to launch the new app. The deployed site is now available.
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
