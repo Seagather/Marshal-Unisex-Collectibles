@@ -319,10 +319,12 @@ To deploy Marshal Unisex Collectibles using Heroku platform, the following steps
 
 -   Navigated to Heroku.com in web browser. Once there, Login or Sign Up for a new account.
 -   Choose 'Python' as Primary Development Language.
--   Selected "Create new app" from the Heroku dashboard.
--   Filled in the unique app name on the form and selected corresponding region, then clicked on "Create app"
+-   Select "Create new app" from the Heroku dashboard.
+-   Fill in the unique app name on the form and select corresponding region, then click on "Create app"
 -   From the heroku dashboard of your application, click on "Deploy", then "Deployment method" and select GitHub to connect the application to your github repository
--   In the Heroku Resources tab, navigate to the Add-Ons section and search for Heroku Postgres. The hobby level can be selected for this application.
+-   Click on Heroku Resources tab and navigate to Add-ons section to provision a new Postgres database for it.
+-   Search in the Add-ons search bar for Heroku Postgres.
+-   Select your Development plan (in my case - Hobby Dev Plan).
 -   Upon establishing a link to the postgres database, click on the "settings" tab and on the button labelled "Reveal Config Vars".
 -   Add the following configuration variables to the application:
 
@@ -355,6 +357,68 @@ To setup Automatic Deployment from GitHub:
 -   Selected branch and clicked Deploy Branch button.
 -   Once it's done, you'll see "Your App was successfully deployed!!!.
 -   Click "View" to launch the new app. The deployed site is now available.
+
+## Local Deployment
+
+Running Marshal Unisex Collectibles Locally:
+
+-   Navigate to the application's [repository](https://github.com/Seagather/Marshal-Unisex-Collectibles), click the "code" button and download the zip of the repository.
+
+    Alternatively, you can clone the repository using the following line in your terminal:
+
+        git clone https://github.com/Seagather/Marshal-Unisex-Collectibles.git
+
+-   Access the folder in your terminal window and install the application requirements using the following command:
+
+        pip3 install -r requirements.txt
+
+-   Create a file containing your environmental variables called `env.py` at the root level of the application. It will need to contain the following lines and variables:
+
+    ```
+    import os
+
+    os.environ["SECRET_KEY"] = "YOUR_DJANGO_SECRET_KEY"
+
+    os.environ["STRIPE_PUBLIC_KEY"] = "YOUR_STRIPE_PUBLIC_KEY"
+    os.environ["STRIPE_SECRET_KEY"] = "YOUR_STRIPE_SECRET_KEY"
+    os.environ["STRIPE_WH_SECRET"] = "YOUR_STRIPE_WEBHOOK_SECRET"
+
+    os.environ["DEVELOPMENT"] = "True"
+    ```
+
+    It's important to contained our environment variables within a hidden `env.py` file which should never be pushed to GitHub by ensuring `.gitignore` has it secured.
+
+    You will also need to update the `SECRET_KEY` with your own secret key, as well as the strip keys and secret variables with those provided by corresponding applications.
+
+-   The project should be active on localhost port 8000 now. In your terminal, type the command `python3 manage.py runserver`. Marshal Unisex Collectibles will now be running locally on your browser at the address `http://localhost:8000`.
+
+-   After running Django initially, it will create the local database `db.SQLite3`.
+
+-   Make all migrations:
+
+    ```
+    python3 manage.py makemigrations --dry-run
+    python3 manage.py makemigrations
+    python3 manage.py migrate --plan
+    python3 manage.py migrate
+    ```
+
+-   Load data using fixtures:
+
+    ```
+    python3 manage.py loaddata products
+    python3 manage.py loaddata categoriess
+    ```
+
+-   Create a superuser:
+
+    ```
+    python3 manage.py createsuperuser
+    ***Enter username, email and password***
+    ```
+
+    You should now have a local copy of Marshal Unisex Collectibles.
+
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
