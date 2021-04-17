@@ -109,7 +109,7 @@
 
 * To see all the problems across all my files, I invoke the linter manually By using the command **` python3 - m flake8 `** which outputs a list of all the issues to the terminal.
 
-* I have gone through the individual links diligently to fixed them.
+* I have gone through the individual links diligently to fixed them except the line length flags, which were left for code readability.
 
 ## Bugs
 
