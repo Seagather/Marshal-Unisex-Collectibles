@@ -28,9 +28,10 @@ Moreso the site provides the necessary modern functionalities for the shop owner
     - [Deployment to Heroku](#deployment-to-heroku)
     - [Local Deployment](#local-deployment)
 - [Credits](#credits)
-    - [Code](#code)
+    - [Code and Content](#code-and-content)
     - [Media](#media)
     - [Acknowledgements](#acknowledgements)
+- [Disclaimer](#disclaimer)
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
@@ -294,7 +295,6 @@ Throughout the development process of this project, Chrome DevTools was used for
 Thorough manual testing was done to ensure compliance with all code validators. 
 The complete testing with regard to every detail can be found [here](TESTING.md).
 
-
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
 
@@ -390,7 +390,9 @@ Running Marshal Unisex Collectibles Locally:
 
     You will also need to update the `SECRET_KEY` with your own secret key, as well as the strip keys and secret variables with those provided by corresponding applications.
 
--   The project should be active on localhost port 8000 now. In your terminal, type the command `python3 manage.py runserver`. Marshal Unisex Collectibles will now be running locally on your browser at the address `http://localhost:8000`.
+-   The project should be active on localhost port 8000 now. 
+-   In your terminal, type the command `python3 manage.py runserver`. 
+-   Marshal Unisex Collectibles should now be running locally on your browser at the address `http://localhost:8000`.
 
 -   After running Django initially, it will create the local database `db.SQLite3`.
 
@@ -419,10 +421,30 @@ Running Marshal Unisex Collectibles Locally:
 
     You should now have a local copy of Marshal Unisex Collectibles.
 
-
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
 
 # Credits
+
+## Code and Content
+
+-   Inspiration and base code was derived from the Boutique Ado Project section of the Code Institute course. Code was modified to better fit my needs.
+-   [Django Documentation](https://docs.djangoproject.com/en/3.1/) inquest for more knowledge.  
+
+## Media
+* [Am I Responsive:](http://ami.responsivedesign.is/) used for UX Image section
+* [Unsplash:](https://unsplash.com/) for website image.
+* [LogoMaker:](https://logomaker.com) was used for the logo design.
+
+## Acknowledgements
+
+* Special thanks to [Felipe Alarcon](https://github.com/felipe-alarcon), for his time, knowledge and clear guidance throughout this project.
+* Thanks most of all to my beautiful wife, Yvonne, for her unending patience while I code all night for months.
+* Most sincere appreciation to my fellow students, Slack Community and Support team at Code Institute for their immeasurable feedback.
+* It has been an amazing experience.
+
+## Disclaimer
+
+* The content of this Website is for educational purposes only.
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
