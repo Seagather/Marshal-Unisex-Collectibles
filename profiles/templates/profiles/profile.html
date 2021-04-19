@@ -63,14 +63,13 @@
                                                         Size {{ item.product.size|upper }}
                                                     {% endif %}{{ item.product.name }} x{{ item.quantity }}
                                                 </li>
-                                                <td>${{ order.grand_total }}</td>
-                                                <td>
-                                                    <a id="review_{{ item.item_id }}" class="text-dark review-item" href="{% url 'add_product_review' item.product.id %}"><i class="fa fa-edit"></i></a>
-                                                </td>
-                                            {% endfor %}
-                                        </ul>
-                                    </td>
-                                    
+                                            </ul>
+                                        </td>
+                                        <td>${{ order.grand_total }}</td>
+                                        <td>
+                                            <a id="review_{{ item.item_id }}" class="text-dark review-item" href="{% url 'add_product_review' item.product.id %}"><i class="fa fa-edit"></i></a>
+                                        </td>
+                                            {% endfor %}                                 
                                    
                                 </tr>
                             {% endfor %}
@@ -79,9 +78,10 @@
                 </div>
             </div>
         </div>
+    </div>
 {% endblock %}
 
 {% block postloadjs %}
     {{ block.super }}
-    <script type="text/javascript" src="{% static 'profiles/js/countryfield.js' %}"></script>
+    <script src="{% static 'profiles/js/countryfield.js' %}"></script>
 {% endblock %}
