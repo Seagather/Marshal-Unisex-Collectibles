@@ -62,37 +62,35 @@ The following fonts from [Google Fonts](https://fonts.google.com/) were used for
 
 The color scheme used in this project were meant to present the motifs as aesthetic pleasure to users.
 
--   ![#000](https://placehold.it/15/000/000000?text=+) `#000 - Black`
+-   ![#000](https://via.placeholder.com/150x100/000/ffffff/?text=Black) `#000 - Black`
 
--   ![#343a40](https://placehold.it/15/343a40/000000?text=+) `#343a40 - Baltic Sea`
+-   ![#343a40](https://via.placeholder.com/150x100/343a40/ffffff/?text=Baltic+Sea) `#343a40 - Baltic Sea`
 
--   ![#fafafa](https://placehold.it/15/fafafa/000000?text=+) `#fafafa - Gray98`
+-   ![#fafafa](https://via.placeholder.com/150x100/fafafa/000000?text=Gray98+) `#fafafa - Gray98`
 
--   ![#330000](https://placehold.it/15/330000/000000?text=+) `#330000 - Seal Brown`
+-   ![#330000](https://via.placeholder.com/150x100/330000/ffffff?text=Seal+Brown) `#330000 - Seal Brown`
 
--   ![#121315](https://placehold.it/15/121315/000000?text=+) `#121315 - Black Russian`
+-   ![#121315](https://via.placeholder.com/150x100/121315/ffffff?text=Black+Russian) `#121315 - Black Russian`
 
--   ![#D05F59](https://placehold.it/15/D05F95/000000?text=+) `#D05F59 - Moderate Red`
+-   ![#D05F59](https://via.placeholder.com/150x100/D05F95/000000?text=Moderate+Red) `#D05F59 - Moderate Red`
 
--   ![#dc3545](https://placehold.it/15/dc3545/000000?text=+) `#dc3545 - Amaranth`
+-   ![#dc3545](https://via.placeholder.com/150x100/dc3545/000000?text=Amaranth+) `#dc3545 - Amaranth`
 
--   ![#aab7c4](https://placehold.it/15/aab7c4/000000?text=+) `#aab7c4 - Heather`
+-   ![#aab7c4](https://via.placeholder.com/150x100/aab7c4/000000?text=Heather+) `#aab7c4 - Heather`
 
--   ![#000080](https://placehold.it/15/000080/000000?text=+) `#000080 - Navy Blue`
+-   ![#000080](https://via.placeholder.com/150x100/000080/ffffff?text=Navy+Blue) `#000080 - Navy Blue`
 
--   ![##007bff](https://placehold.it/15/007bff/000000?text=+) `#007bff - Dodger Blue`
+-   ![##007bff](https://via.placeholder.com/150x100/007bff/000000?text=Dodger+Blue) `#007bff - Dodger Blue`
 
--   ![#17a2b8](https://placehold.it/15/17a2b8/000000?text=+) `#17a2b8 - Pelorous`
+-   ![#17a2b8](https://via.placeholder.com/150x100/17a2b8/000000?text=Pelorous+) `#17a2b8 - Pelorous`
 
--   ![#00d9ff](https://placehold.it/15/00d9ff/000000?text=+) `#00d9ff - blue`
+-   ![#00d9ff](https://via.placeholder.com/150x100/00d9ff/000000?text=Blue+) `#00d9ff - Blue`
 
--   ![#6c757d](https://placehold.it/15/6c757d/000000?text=+) `#6c757d - Raven`
+-   ![#6c757d](https://via.placeholder.com/150x100/6c757d/ffffff?text=Raven+) `#6c757d - Raven`
 
--   ![#28a745](https://placehold.it/15/28a745/000000?text=+) `#28a745 - Dark Lime Green`
+-   ![#28a745](https://via.placeholder.com/150x100/28a745/000000?text=Dark+Lime+Green) `#28a745 - Dark Lime Green`
 
--   ![#ffc107](https://placehold.it/15/ffc107/000000?text=+) `#ffc107 - Amber`
-
--   ![#17a2b8](https://placehold.it/15/17a2b8/000000?text=+) `#17a2b8 - Pelorous`
+-   ![#ffc107](https://via.placeholder.com/150x100/ffc107/000000?text=Amber+) `#ffc107 - Amber`
 
 
 ## User Stories
