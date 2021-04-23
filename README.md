@@ -16,7 +16,7 @@ Moreso the site provides the necessary modern functionalities for the shop owner
     - [UX Design](#ux-design)
     - [User Stories](#user-stories)
     - [Wireframes](#wireframes)
-    - [Data Structure](#data-structure)
+    - [Database Schema](#database-schema)
 - [Features](#features)
     - [Existing Features](#existing-features)
     - [Features Left to implement](#features-left-to-implement)
@@ -139,8 +139,11 @@ Links to final version of the wireframes can be found below:
 * [Mobile Final Version](readme-files/mobile-wireframes.pdf)
 
 
-## Data Structure
+## Database Schema
 
+The database schema as it relates to each model is structured below:
+
+![schema](readme-files/schema.png)
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
 
