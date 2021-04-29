@@ -431,9 +431,17 @@ input[name='q']::placeholder {
      width: 100%;
      border-radius: 10px;
      position:absolute;
-     background-color:rgb(0, 0, 0);
+     background-color:transparent;
      opacity:.7;
      z-index: -1;
+}
+/* fade element classes ------------------------- */
+ .fade-in {
+     opacity: 0;
+     transition: .5s ease-in;
+}
+ .fade-in.show{
+     opacity: 1;
 }
 
 /* --------------------------------------- Media Queries */
