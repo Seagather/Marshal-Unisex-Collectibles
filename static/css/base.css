@@ -423,9 +423,9 @@ input[name='q']::placeholder {
     width: 89%;
 }
 
-.text-shadow {
+/* .text-shadow {
      text-shadow: 0px 1px 12px #330000;
-}
+} */
  .opaque {
      height:100%;
      width: 100%;
