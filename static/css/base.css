@@ -1,53 +1,52 @@
+/* -------------------------------------------------- General */
+
 html {
-    height: 100%;
+	height: 100%;
 }
-
 body {
-    background: url('/media/hero-image.jpeg') no-repeat center center fixed;
-    background-size: cover;
-    height: calc(100vh - 164px);
-    color: #555;
-    font-family: 'Exo';
+	background: url('/media/hero-image.jpeg') no-repeat center center fixed;
+	background-size: cover;
+	height: calc(100vh - 164px);
+	color: #555;
+	font-family: 'Exo';
 }
-
 /* from Bulma */
+
 .icon {
-    align-items: center;
-    display: inline-flex;
-    justify-content: center;
-    height: 1.5rem;
-    width: 1.5rem;
+	align-items: center;
+	display: inline-flex;
+	justify-content: center;
+	height: 1.5rem;
+	width: 1.5rem;
 }
 .entail-content {
-    min-height: 100vh;
+	min-height: 100vh;
 }
-.home-caption{
-    margin-top: 10%;
+.home-caption {
+	margin-top: 10%;
 }
 .logo-font {
-    text-transform: uppercase;
-    font-family: "Roboto Slab", serif;
+	text-transform: uppercase;
+	font-family: "Roboto Slab", serif;
 }
-
 .main-logo-link {
-    width: fit-content;
+	width: fit-content;
 }
-
 .account {
-    background-color: #343a40;
+	background-color: #343a40;
 }
 .account a:hover {
-    background-color: #343a40 !important;
-    color: #D05F59 !important;
+	background-color: #343a40 !important;
+	color: #D05F59 !important;
 }
 .main-nav a:hover {
-    color:#330000 !important;
+	color: #330000 !important;
 }
 /* .bg-dark {
     background-color: #282d3c !important;
 } */
 
-.shop-button  {
+.shop-button {
 	outline: 0;
 	display: inline-block;
 	padding: 12px 35px;
@@ -62,8 +61,7 @@ body {
 	letter-spacing: 5px;
 	font-weight: bold;
 	font-family: Georgia;
-    font-style: italic;
-    
+	font-style: italic;
 }
 .shop-button:hover {
 	background-color: transparent;
@@ -72,464 +70,340 @@ body {
 	text-shadow: 2px 2px #000;
 }
 .keep-shopping a:hover {
-    color:#330000 !important;
+	color: #330000 !important;
 }
-
-
-/* .shop-now-button {
-    background: black;
-    color: white;
-    min-width: 260px;
-} */
-
 .btn-black {
-    background: #330000 !important;
-    color: white !important;
+	background: #330000 !important;
+	color: white !important;
 }
 .btn-outline-black {
-    background: white;
-    color: #330000 !important; /* use important to override link colors for <a> elements */
-    border: 1px solid #330000;
+	background: white;
+	color: #330000 !important;
+	/* use important to override link colors for <a> elements */
+	border: 1px solid #330000;
 }
 .btn-outline-black:hover,
 .btn-outline-black:active,
 .btn-outline-black:focus {
-    background: #330000;
-    color: white !important;
+	background: #330000;
+	color: white !important;
 }
 .btn-black:hover {
-    background-color:#471919 !important;
-    color: #fafafa;
-    border: 1px solid #330000 !important;
+	background-color: #471919 !important;
+	color: #fafafa;
+	border: 1px solid #330000 !important;
 }
-select, option {
-    font-size: 1rem;
-	font-weight:normal;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+select,
+option {
+	font-size: 1rem;
+	font-weight: normal;
+	font-family: Georgia, 'Times New Roman', Times, serif;
 }
-
 .text-black {
-    color: #000 !important;
+	color: #000 !important;
 }
-
 .border-black {
-    border: 1px solid #330000 !important;
+	border: 1px solid #330000 !important;
 }
-
 .bg-black {
-    background: #000 !important;
+	background: #000 !important;
 }
 .overlay {
 	height: 100%;
 	width: 100%;
 	top: 0;
-    left: 0;
+	left: 0;
 	position: fixed;
 	background: white;
-    z-index: -1;
+	z-index: -1;
 }
 .card-img-top {
-    width: 400px;
-    height: 400px;
-    object-fit: contain;
+	width: 400px;
+	height: 400px;
+	object-fit: contain;
 }
-.card-body, .product-name {
-    color: #000080;
+.card-body,
+.product-name {
+	color: #000080;
 }
 a.category-badge > span.badge:hover {
-    background: #330000 !important;
-    color: #fff !important;
-    border-color: #343a40!important;
+	background: #330000 !important;
+	color: #fff !important;
+	border-color: #343a40!important;
 }
 a.category-badge > span.badge {
-    border-color: #343a40!important;
-    border-style: solid !important;
-    border-radius: 5px !important;
+	border-color: #343a40!important;
+	border-style: solid !important;
+	border-radius: 5px !important;
 }
 .search-button {
-    background-color:#330000;
+	background-color: #330000;
 }
-/* .search-button:hover {
-    background-color:rgba(119, 24, 13, 0.74);
-    color: #fffff2;
-} */
 .btt-button {
-    height: 43px;
-    width: 42px;
-    position: fixed;
-    bottom: 25px;
-    right: 15px;
-    border: 3px solid #330000;
-    background-color: #f8f8fb;
-    /* border-radius: 50%; */
-    z-index: 1000;
+	height: 43px;
+	width: 42px;
+	position: fixed;
+	bottom: 25px;
+	right: 15px;
+	border: 3px solid #330000;
+	background-color: #f8f8fb;
+	z-index: 1000;
 }
-
 .btt-link {
-    cursor: pointer;
-    color: #330000 !important;
-    font-size: 3rem;
-    position: relative;
-    bottom: 7px;
+	cursor: pointer;
+	color: #330000 !important;
+	font-size: 3rem;
+	position: relative;
+	bottom: 7px;
 }
 .update-link,
 .remove-item {
-    cursor: pointer;
+	cursor: pointer;
 }
-
 .btt-link:hover {
-    text-decoration: none;
-    color: rgba(119, 24, 13, 0.74) !important;
+	text-decoration: none;
+	color: rgba(119, 24, 13, 0.74) !important;
 }
 input[name='q']::placeholder {
-    color: #aab7c4;
+	color: #aab7c4;
 }
-/* ------------------------------- bootstrap toasts */
+/* -------------------------------------- bootstrap toasts */
 
 .message-container {
-    position: fixed;
-    top: 72px;
-    right: 15px;
-    z-index: 99999999999;
+	position: fixed;
+	top: 72px;
+	right: 15px;
+	z-index: 99999999999;
 }
-
 .custom-toast {
-    overflow: visible;
+	overflow: visible;
 }
-
 .toast-capper {
-    height: 2px;
+	height: 2px;
 }
 /* from CSS-tricks.com: https://css-tricks.com/snippets/css/css-triangle/ */
+
 .arrow-up {
-    width: 0; 
-    height: 0; 
-    border-left: 4px solid transparent;
-    border-right: 4px solid transparent; 
-    border-bottom: 10px solid #330000;
-    position: absolute;
-    top: -10px;
-    right: 36px;
+	width: 0;
+	height: 0;
+	border-left: 4px solid transparent;
+	border-right: 4px solid transparent;
+	border-bottom: 10px solid #330000;
+	position: absolute;
+	top: -10px;
+	right: 36px;
 }
-
 /* Convenience classes - colors copied from Bootstrap */
+
 .arrow-primary {
-    border-bottom-color: #007bff !important;
+	border-bottom-color: #007bff !important;
 }
-
 .arrow-secondary {
-    border-bottom-color: #6c757d !important;
+	border-bottom-color: #6c757d !important;
 }
-
 .arrow-success {
-    border-bottom-color: #28a745 !important;
+	border-bottom-color: #28a745 !important;
 }
-
 .arrow-danger {
-    border-bottom-color: #dc3545 !important;
+	border-bottom-color: #dc3545 !important;
 }
-
 .arrow-warning {
-    border-bottom-color: #ffc107 !important;
+	border-bottom-color: #ffc107 !important;
 }
-
 .arrow-info {
-    border-bottom-color: #17a2b8 !important;
+	border-bottom-color: #17a2b8 !important;
 }
-
 .arrow-light {
-    border-bottom-color: #f8f9fa !important;
+	border-bottom-color: #f8f9fa !important;
 }
-
 .arrow-dark {
-    border-bottom-color: #343a40 !important;
+	border-bottom-color: #343a40 !important;
 }
-
 .bag-notification-wrapper {
-    height: 100px;
-    overflow-x: hidden;
-    overflow-y: auto;
+	height: 100px;
+	overflow-x: hidden;
+	overflow-y: auto;
 }
 /* Allauth form formatting */
 
 .allauth-form-inner-content p {
-    margin-top: 1.5rem; /* mt-4 */
-    color: #6c757d; /* text-secondary */
+	margin-top: 1.5rem;
+	/* mt-4 */
+	color: #6c757d;
+	/* text-secondary */
 }
-
 .allauth-form-inner-content input {
-    border-color: #000;
-    border-radius: 0;
+	border-color: #000;
+	border-radius: 0;
 }
-
 .allauth-form-inner-content label:not([for='id_remember']) {
-    display: none;
+	display: none;
 }
-
 .allauth-form-inner-content input::placeholder {
-    color: #aab7c4;
+	color: #aab7c4;
 }
-
 .allauth-form-inner-content button,
 .allauth-form-inner-content input[type='submit'] {
 	/* btn */
 	display: inline-block;
-    font-weight: 400;
-    color: #fff;
-    text-align: center;
-    vertical-align: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    background-color: #000;
-    border: 1px solid #000;
-    padding: .375rem .75rem;
-    font-size: 1rem;
-    line-height: 1.5;
-    border-radius: 0;
-
-    /* standard bootstrap btn transitions */
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-}
-
-.allauth-form-inner-content button:hover,
-.allauth-form-inner-content input[type='submit']:hover {	
+	font-weight: 400;
 	color: #fff;
-    background-color: #222;
-    border-color: #222;
+	text-align: center;
+	vertical-align: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-color: #000;
+	border: 1px solid #000;
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	border-radius: 0;
+	/* standard bootstrap btn transitions */
+	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
-
+.allauth-form-inner-content button:hover,
+.allauth-form-inner-content input[type='submit']:hover {
+	color: #fff;
+	background-color: #222;
+	border-color: #222;
+}
 .allauth-form-inner-content a {
-	color: #17a2b8; /* text-info */
+	color: #17a2b8;
+	/* text-info */
 }
 /* Product Form */
 
 .btn-file {
-    position: relative;
-    overflow: hidden;
+	position: relative;
+	overflow: hidden;
 }
-
 .btn-file input[type="file"] {
-    position: absolute;
-    top: 0;
-    right: 0;
-    min-width: 100%;
-    min-height: 100%;
-    opacity: 0;
-    cursor: pointer;
+	position: absolute;
+	top: 0;
+	right: 0;
+	min-width: 100%;
+	min-height: 100%;
+	opacity: 0;
+	cursor: pointer;
 }
-
 .custom-checkbox .custom-control-label::before {
-    border-radius: 0;
-    border-color: #dc3545;
+	border-radius: 0;
+	border-color: #dc3545;
 }
-
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
-    background-color: #dc3545;
-    border-color: #dc3545;
-    border-radius: 0;
+	background-color: #dc3545;
+	border-color: #dc3545;
+	border-radius: 0;
 }
 .asteriskField {
-    color: #dc3545;
+	color: #dc3545;
 }
 .fa-cog {
-     color:#330000;
+	color: #330000;
 }
+/* ----------------------------------------------------- star rating */
 
 .rating {
-    float:left;
+	float: left;
 }
-
 /* :not(:checked) is a filter, so that browsers that don’t support :checked don’t 
    follow these rules. Every browser that supports :checked also supports :not(), so
    it doesn’t make the test unnecessarily selective */
+
 .rating:not(:checked) > input {
 	position: absolute;
 	clip: rect(0px, 0px, 0px, 0px);
 }
-
 .rating:not(:checked) > label {
-    float:right;
-    width:1.1em;
-    padding:0 .1em;
-    overflow:hidden;
-    white-space:nowrap;
-    cursor:pointer;
-    font-size:140%;
-    line-height:1.2;
-    color:#ddd;
-    text-shadow:1px 1px #bbb, 2px 2px #666, .1em .1em .2em rgba(0,0,0,.5);
+	float: right;
+	width: 1.1em;
+	padding: 0 .1em;
+	overflow: hidden;
+	white-space: nowrap;
+	cursor: pointer;
+	font-size: 140%;
+	line-height: 1.2;
+	color: #ddd;
+	text-shadow: 1px 1px #bbb, 2px 2px #666, .1em .1em .2em rgba(0, 0, 0, .5);
 }
-
 .rating:not(:checked) > label:before {
-    content: '★ ';
+	content: '★ ';
 }
-
 .rating > input:checked ~ label {
-    color: #f70;
-    text-shadow:1px 1px #c60, 2px 2px #940, .1em .1em .2em rgba(0,0,0,.5);
+	color: #f70;
+	text-shadow: 1px 1px #c60, 2px 2px #940, .1em .1em .2em rgba(0, 0, 0, .5);
 }
-
 .rating:not(:checked) > label:hover,
 .rating:not(:checked) > label:hover ~ label {
-    color: gold;
-    text-shadow:1px 1px goldenrod, 2px 2px #B57340, .1em .1em .2em rgba(0,0,0,.5);
+	color: gold;
+	text-shadow: 1px 1px goldenrod, 2px 2px #B57340, .1em .1em .2em rgba(0, 0, 0, .5);
 }
-
 .rating > input:checked + label:hover,
 .rating > input:checked + label:hover ~ label,
 .rating > input:checked ~ label:hover,
 .rating > input:checked ~ label:hover ~ label,
 .rating > label:hover ~ input:checked ~ label {
-    color: #ea0;
-    text-shadow:1px 1px goldenrod, 2px 2px #B57340, .1em .1em .2em rgba(0,0,0,.5);
+	color: #ea0;
+	text-shadow: 1px 1px goldenrod, 2px 2px #B57340, .1em .1em .2em rgba(0, 0, 0, .5);
 }
-
 .rating > label:active {
-    position:relative;
-    top:2px;
-    left:2px;
+	position: relative;
+	top: 2px;
+	left: 2px;
 }
-
 /* end of Lea's code */
 
-/*
- * Clearfix from html5 boilerplate
- */
+/* Clearfix from html5 boilerplate */
 
 .clearfix:before,
 .clearfix:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
+	content: " ";
+	/* 1 */
+	display: table;
+	/* 2 */
 }
-
 .clearfix:after {
-    clear: both;
+	clear: both;
 }
-
 .review-user {
-    letter-spacing: 5px;
+	letter-spacing: 5px;
 }
 .review-head {
-    width: 83%;
+	width: 83%;
 }
-
 .review-close {
-    height: 3px;
-    color: black;
-    border-width: 0;
-    background-color: #000;
-    width: 89%;
+	height: 3px;
+	color: black;
+	border-width: 0;
+	background-color: #000;
+	width: 89%;
 }
-
-/* .text-shadow {
-     text-shadow: 0px 1px 12px #330000;
-} */
- .opaque {
-     height:100%;
-     width: 100%;
-     border-radius: 10px;
-     position:absolute;
-     background-color:transparent;
-     opacity:.7;
-     z-index: -1;
+.opaque {
+	height: 100%;
+	width: 100%;
+	border-radius: 10px;
+	position: absolute;
+	background-color: transparent;
+	opacity: .7;
+	z-index: -1;
 }
-
-/* --------------------------------------- Media Queries */
-
-/* Slightly larger container on xl screens */
-@media (min-width: 1200px) {
-  .container {
-    max-width: 80%;
-  }
-}
-
-/* fixed top navbar only on medium and up */
-@media (min-width: 992px) {
-    .fixed-top-desktop-only {
-        position: fixed;
-        top: 0;
-        right: 0;
-        left: 0;
-        z-index: 1030;
-    }
-
-    .header-container {
-        padding-top: 164px;
-    }
-}
-/* pad the top a bit when navbar is collapsed on mobile */
-@media (max-width: 991px) {
-    .header-container {
-        padding-top: 116px;
-    }
-
-    body {
-        height: calc(100vh - 116px);
-    }
-
-     .display-4.logo-font.text-white {
-        font-size: 2rem;
-    }
-
-    .nav-link {
-        padding: 0.15rem;
-    }
-
-    .nav-link i.fa-lg {
-        font-size: 1rem;
-    }
-
-    .navbar-toggler {
-        padding: .6rem .6rem;
-        font-size: 1rem;
-    }
-
-    #delivery-banner h4 {
-        font-size: .9rem;
-    }
-
-    .btn.btn-outline-black.rounded-0,
-    .btn.btn-black.rounded-0 {
-        padding: .375rem .375rem;
-    }
-
-    .btn.btn-outline-black.rounded-0.btn-default,
-    .btn.btn-black.rounded-0.btn-default {
-        padding: .375rem .375rem;
-        font-size: .75rem;
-    }
-
-    .shop-button {
-        font-size: 0.5rem;
-    }
-
-    .btn.btn-outline-black.rounded-0.btn-lg,
-    .btn.btn-black.rounded-0.btn-lg {
-        padding: .375rem .375rem;
-        font-size: .75rem;
-    }
-
-    .increment-qty, .decrement-qty {
-        padding: .25rem .5rem !important;
-    }
-}
+/* -------------------------------------------------------Footer */
 
 footer {
 	background-color: #121315;
-    color: #fafafa;
-    margin: 0;
+	color: #fafafa;
+	margin: 0;
 }
-
 .btn-info {
-    background-color:#330000;
-    border-color: #fafafa;
+	background-color: #330000;
+	border-color: #fafafa;
 }
 .btn-info:hover {
-	background-color:rgba(119, 24, 13, 0.74);
-    color: #fffff9;
-     border-color: #fafafa;
+	background-color: rgba(119, 24, 13, 0.74);
+	color: #fffff9;
+	border-color: #fafafa;
 }
 .social-links,
 .socials {
@@ -551,6 +425,76 @@ footer {
 	-o-transition: all 0.35s ease-in-out;
 }
 .social-links li a i:hover {
-    background: #330000;
-    color: #fafafa;
+	background: #330000;
+	color: #fafafa;
+}
+/* ------------------------------------------------ Media Queries */
+
+/* Slightly larger container on xl screens */
+
+@media (min-width: 1200px) {
+	.container {
+		max-width: 80%;
+	}
+}
+/* fixed top navbar only on medium and up */
+
+@media (min-width: 992px) {
+	.fixed-top-desktop-only {
+		position: fixed;
+		top: 0;
+		right: 0;
+		left: 0;
+		z-index: 1030;
+	}
+	.header-container {
+		padding-top: 164px;
+	}
+}
+/* pad the top a bit when navbar is collapsed on mobile */
+
+@media (max-width: 991px) {
+	.header-container {
+		padding-top: 116px;
+	}
+	body {
+		height: calc(100vh - 116px);
+	}
+	.display-4.logo-font.text-white {
+		font-size: 2rem;
+	}
+	.nav-link {
+		padding: 0.15rem;
+	}
+	.nav-link i.fa-lg {
+		font-size: 1rem;
+	}
+	.navbar-toggler {
+		padding: .6rem .6rem;
+		font-size: 1rem;
+	}
+	#delivery-banner h4 {
+		font-size: .9rem;
+	}
+	.btn.btn-outline-black.rounded-0,
+	.btn.btn-black.rounded-0 {
+		padding: .375rem .375rem;
+	}
+	.btn.btn-outline-black.rounded-0.btn-default,
+	.btn.btn-black.rounded-0.btn-default {
+		padding: .375rem .375rem;
+		font-size: .75rem;
+	}
+	.shop-button {
+		font-size: 0.5rem;
+	}
+	.btn.btn-outline-black.rounded-0.btn-lg,
+	.btn.btn-black.rounded-0.btn-lg {
+		padding: .375rem .375rem;
+		font-size: .75rem;
+	}
+	.increment-qty,
+	.decrement-qty {
+		padding: .25rem .5rem !important;
+	}
 }
