@@ -215,7 +215,7 @@ The product listing is structured to offer users multiple search criteria and qu
 
 ## Features Left to implement
 
--   I would like implement the social Media Login using the social-auth-app-django library.
+-   I would like to implement the social Media Login using the social-auth-app-django library.
 -   Pagination functionality would divide content into discrete pages and make the content more organized thus improving user experience and scalability.
 
 _<div align="right"><p style="text-align: right"><a href="#top">Back to top</a></p></div>_
